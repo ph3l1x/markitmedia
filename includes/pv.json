@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "letter": "Testing",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [33.568275,-111.968996], [33.568060,-111.960541], [33.558333,-111.960713], [33.557966,-111.969167], [33.568275,-111.9689968]
+          ]
+        ]
+      }
+    }
+
+  ]
+}
+

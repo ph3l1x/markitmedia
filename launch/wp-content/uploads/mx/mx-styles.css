@@ -1,0 +1,28 @@
+
+::-moz-selection { background:#cc3333; color: #ffffff; text-shadow: none; }
+::selection { background:#cc3333; color: #ffffff; text-shadow: none; }
+
+/* 	----------------------------------------------------------------------------------------------	
+										CUSTOM GENERAL STYLE																												
+	----------------------------------------------------------------------------------------------	*/
+/* header logo */
+.mx-header-logo .logo {margin-top: 0px;}
+/* social */
+.mx-header-right .mx-social {margin-top: 14px;}
+.site-header-style-3 .mx-social {margin-top: 14px;}
+
+/* header custom content */
+.mx-header-right-custom {margin-top: 10px;}
+
+
+.site-header-style-3 .mx-header-right > ul {margin-top: 14px;}
+#site-content-header {text-align:left;}
+
+/* 	----------------------------------------------------------------------------------------------	
+										RETINA																												
+	----------------------------------------------------------------------------------------------	*/
+@media only screen and (-Webkit-min-device-pixel-ratio: 1.5),
+only screen and (-moz-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min-device-pixel-ratio: 1.5) {
+}

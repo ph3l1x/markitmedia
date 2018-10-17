@@ -1,0 +1,1 @@
+[04-May-2018 10:58:27 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/markitsite/public_html/includes/PHPMailer/src/PHPMailer.php on line 22

@@ -1,0 +1,45 @@
+#container, html.embed {
+  padding: 0 !important;
+  overflow: hidden;
+  background: none;
+  background-color: transparent;
+}
+
+.wufoo {
+    font-size: 17px;
+    letter-spacing: 0.1em;
+
+}
+label.desc {
+   color: #ccc;
+}
+
+#Field1 {
+   width: 100%;
+}
+
+form li span {
+    margin: 0 0.01em 0 0;
+}
+form span.req {
+  color: #FAA919 !important;
+}
+form li.buttons {
+  text-align: center;
+}
+
+input[type='submit'] {
+  font-size: 100% !important;
+  padding: .25em 1em;
+  background: #FAA919;
+  border: none;
+   border-bottom: 1px solid #ccc;
+    border-right: px solid #ccc;
+    color: #fff;
+}
+
+.wufoo li.focused {
+    background-color: #FAA919;
+}
+
+

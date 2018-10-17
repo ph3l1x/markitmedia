@@ -1,0 +1,134 @@
+@charset "UTF-8";
+
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	background-color:#6e6e6e;
+	font-family:Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	font-size:20px;
+	margin-bottom:10px;
+}
+
+#wrapper {
+	width:739px;	
+	padding-left:20px;
+	padding-right:20px;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+p {
+	font-size:14px;
+	line-height:20px;
+	margin-bottom:15px;
+}
+
+.clear {
+	clear:both;	
+}
+
+#main {
+	background-color:#fff;
+	width:100%;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.contentWrapper {
+	padding:10px 20px 10px 20px;
+}
+
+#proof1 {
+	width:334px;
+	float:left;
+	margin-right:20px;
+}
+
+#proof2 {
+	width:334px;
+	float:left;
+}
+
+#proof1 img, #proof2 img {
+	border:1px #ccc solid;
+}
+
+.small {
+	font-size:12px;
+}
+
+#proof1 p, #proof2 p {
+	text-align:center;	
+	margin-bottom:5px;
+}
+
+.check {
+	width:100%;
+	float:left;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.check p {
+	margin-top:5px;	
+	font-weight:bold;
+}
+	
+
+input.checkbox {
+	width:30px;
+	height:30px;
+	float:left;
+	margin-right:5px;
+}
+
+#step2 {
+	position:relative;
+	z-index:0;
+}
+
+.disabled {
+	position:absolute;
+	width:739px;
+	height:490px;
+	background-image:url(../images/disabled_bg.png);
+	background-color:transparent;
+	z-index:1000;
+}
+
+.buttons {
+	background-color:#F00;
+	padding:10px 20px 10px 20px;
+	color:#fff;
+	margin-right:20px;
+	font-size:20px;
+	text-transform:uppercase;
+	border:none;
+}
+
+.comment {
+	font-size:14px;
+	padding:4px;
+	border:1px #ccc solid;
+	width:680px;
+	height:100px;
+}
+
+input.text {
+	width:200px;
+	padding:4px;
+	height:20px;
+	font-size:14px;
+	color:#3d3d3d;
+}
+
+p.label span {
+	width:200px;
+	float:left;
+}

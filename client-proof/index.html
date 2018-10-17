@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>MarkIT Media - Print Proof Form</title>
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
+<script type="text/javascript" src="js/jquery.colorbox-min.js"></script>
+</head>
+
+<body>
+<div id="wrapper">
+	<div id="main">
+    	<div id="logo">
+        	<img src="images/logo.png" width="739" height="149" border="0" />
+        </div>
+        <div class="contentWrapper">
+            <p>Attached is a proof of the order you have placed with MarkIT Media. We do our best to provide perfection on every item we produce.</p>
+            <p>To help MarkIT Media ensure we provide the quality you expect please review and follow proofing steps below:</p>
+        </div>
+        <img src="images/step1.png" width="426" height="44" border="0" />
+        <div class="contentWrapper">
+        	<div id="proof1">
+            	<p>Front</p>
+                <img src="images/proof1.jpg" width="334" height="209" border="0" />
+                <p class="small">click to enlarge</p>
+            </div>
+            <div id="proof2">
+            	<p>Back</p>
+                <img src="images/proof2.jpg" width="334" height="209" border="0" />
+                <p class="small">click to enlarge</p>
+            </div>
+            <div class="check">
+            	<input id="check1" onclick="document.getElementById('check1').disabled=true" class="checkbox" type="checkbox" name="proof" />
+                <p>I have reviewed both sides of my print proof.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div id="disabled1" class="disabled"></div>
+        <div id="step2">
+            <img src="images/step2.png" width="426" height="44" border="0" />
+            <div class="contentWrapper">
+            	<div class="check">
+                    <input class="checkbox" type="checkbox" name="proof" />
+                    <p>I confirm that all contact information (email, phone, address, etc) is correct.</p>
+            	</div>
+                <div class="check">
+                    <input class="checkbox" type="checkbox" name="proof" />
+                    <p>I have checked the spelling on all text.</p>
+            	</div>
+                <div class="check">
+                    <input class="checkbox" type="checkbox" name="proof" />
+                    <p>The colors and design are according to my specifications.</p>
+            	</div>
+            </div>
+        </div>
+        <img src="images/step3.png" width="426" height="44" border="0" />
+        <div class="contentWrapper">
+        	<p>I have carefully examined MarkIT Media's proof and determined that the proof is ready for press. I understand that my product will not be printed until this form is completed. MarkIT Media is not responsible for any errors that have been approved in the above form. Timely completion of this proof form will ensure a quick turn-around time for project. If corrections need  to be made to above proof DO NOT APPROVE FOR PRESS. Click the corrections button and give description of the necessary corrections.</p>
+        </div>
+        <p align="center" style="padding-bottom:20px;">
+        <input type="submit" style="cursor:pointer;" class="buttons" value="APPROVE FOR PRESS" />
+        <input onclick="" style="cursor:pointer;" type="button" class="buttons" value="CORRECTIONS NEEDED" />
+        </p>
+        <p>Comments:</p>
+        <textarea name="comments"></textarea>
+    </div>
+</div>
+</body>
+</html>

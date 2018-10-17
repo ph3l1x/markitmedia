@@ -1,0 +1,4801 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MX 4.0\n"
+"Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
+"POT-Creation-Date: 2015-03-24 15:39+0100\n"
+"PO-Revision-Date: 2015-03-24 16:45+0100\n"
+"Last-Translator: cecilio <cecilio@leevel.com>\n"
+"Language-Team: leevel Open Source <opensource@leevel.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Loco-Target-Locale: es_ES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid "404 - Page not found"
+msgstr "404 - Página no encontrada"
+
+#: ../404.php:15
+msgid ""
+"OOPS!Looks like the page you are looking for isn't there.You may have "
+"mistyped the address or the page may have moved."
+msgstr ""
+"OOPS! Parece que la página que está buscando no está there.You pueden haber "
+"escrito mal la dirección o de la página se han mudado."
+
+#: ../category.php:61 ../template/blog/blog-ajax-content.php:54
+#: ../template/blog/blog-timeline-content.php:58
+#: ../template/portfolio/portfolio-ajax-content.php:71
+msgid "Click Load More ..."
+msgstr "Haga clic en Cargar más ..."
+
+#: ../category.php:65 ../template/blog/blog-ajax-content.php:58
+#: ../template/blog/blog-timeline-content.php:62
+#: ../template/portfolio/portfolio-ajax-content.php:75
+msgid "Load ..."
+msgstr "Carguar ..."
+
+#: ../comments.php:19
+msgid "No Comment"
+msgstr "Sin comentarios"
+
+#: ../comments.php:19
+msgid "1 Response Comment"
+msgstr "Una Respuesta al comentario"
+
+#: ../comments.php:19
+msgid "% Response Comments"
+msgstr "% Respuestas a los Comentarios"
+
+#: ../comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios recientes &rarr;"
+
+#: ../comments.php:38
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios antiguos"
+
+#: ../comments.php:47
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: ../content-audio.php:46 ../content-audio.php:80 ../content-gallery.php:51
+#: ../content-gallery.php:89 ../content-image.php:47 ../content-image.php:81
+#: ../content-quote.php:29 ../content-quote.php:46 ../content-video.php:50
+#: ../content-video.php:88 ../content.php:29 ../content.php:43
+#: ../template/blog/blog-ajax-content-item-style-2.php:109
+#: ../template/blog/blog-shortcode-content-style-1.php:98
+msgid "Read More"
+msgstr "Leer más"
+
+#: ../content-none.php:9 ../inc/mx-functions.php:373 ../search.php:60
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: ../content-none.php:10 ../page-contact.php:33 ../page-login.php:35
+#: ../page.php:26 ../template/portfolio/portfolio-single-style-2.php:162
+msgid "Sorry, this page does not exist."
+msgstr "Lo sentimos, no existe esta página."
+
+#: ../envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Por favor, escribe tu nombre de usuario de Envato Marketplace"
+
+#: ../envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Por favor, escribe tu clave de API Envato Marketplace."
+
+#: ../envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "La API \"set\" es un parámetro obligatorio."
+
+#: ../envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "El Envato Marketplace \"item ID\" es un parámetro obligatorio."
+
+#: ../envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:281
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr "Descarga de paquete de actualización de la API Envato ..."
+
+#: ../envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:292
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr "Descarga de instalar el paquete de la API Envato ..."
+
+#: ../functions.php:67
+msgid "MX Main Menus"
+msgstr "MX menús principales"
+
+#: ../functions.php:68
+msgid "MX Topbar Menus"
+msgstr "MX Topbar Menús"
+
+#: ../functions.php:69
+msgid "MX Bottom Menus"
+msgstr "MX Menús Bottom"
+
+#: ../functions.php:198
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: ../functions.php:290
+msgid "Global Sidebar"
+msgstr "Barra Lateral Global"
+
+#: ../functions.php:299
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: ../functions.php:308
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: ../functions.php:317
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: ../functions.php:326
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#: ../functions.php:335
+msgid "Woocommerce Shop"
+msgstr "WooCommerce Shop"
+
+#: ../header.php:167
+#, php-format
+msgid "Search Results for \"%s\""
+msgstr ""
+
+#: ../inc/custom-widgets.php:32
+msgid "MX Blog Tabs Items"
+msgstr "MX Blog Tabs Artículos"
+
+#: ../inc/custom-widgets.php:32
+msgid "MX blog tabs items for popular, features, recent items! "
+msgstr ""
+"Artículos MX Blog pestañas para, características, materiales recientes de "
+"Popular! "
+
+#: ../inc/custom-widgets.php:56 ../inc/custom-widgets.php:115
+msgid "Popular"
+msgstr "Popular"
+
+#: ../inc/custom-widgets.php:62 ../inc/custom-widgets.php:131
+#: ../inc/custom-widgets.php:479 ../inc/custom-widgets.php:527
+#: ../woocommerce/content-product.php:67
+#: ../woocommerce/single-product/product-image.php:39
+msgid "Featured"
+msgstr "Destacado"
+
+#: ../inc/custom-widgets.php:68 ../inc/custom-widgets.php:147
+#: ../inc/custom-widgets.php:485 ../inc/custom-widgets.php:542
+msgid "Recent"
+msgstr "Reciente"
+
+#: ../inc/custom-widgets.php:156 ../inc/custom-widgets.php:265
+#: ../inc/custom-widgets.php:350 ../inc/custom-widgets.php:430
+#: ../inc/custom-widgets.php:551 ../inc/custom-widgets.php:657
+#: ../inc/custom-widgets.php:737
+msgid "Show Style:"
+msgstr "Mostrar Estilo:"
+
+#: ../inc/custom-widgets.php:158 ../inc/custom-widgets.php:267
+#: ../inc/custom-widgets.php:352 ../inc/custom-widgets.php:432
+#: ../inc/custom-widgets.php:553 ../inc/custom-widgets.php:659
+#: ../inc/custom-widgets.php:739
+msgid "Icon Style"
+msgstr "Estilo Icono "
+
+#: ../inc/custom-widgets.php:159 ../inc/custom-widgets.php:268
+#: ../inc/custom-widgets.php:353 ../inc/custom-widgets.php:433
+#: ../inc/custom-widgets.php:554 ../inc/custom-widgets.php:660
+#: ../inc/custom-widgets.php:740
+msgid "Thumbs Style"
+msgstr "Thumbs Estilo"
+
+#: ../inc/custom-widgets.php:160 ../inc/custom-widgets.php:269
+#: ../inc/custom-widgets.php:354 ../inc/custom-widgets.php:434
+#: ../inc/custom-widgets.php:555 ../inc/custom-widgets.php:661
+#: ../inc/custom-widgets.php:741
+msgid "Big Thumbs Style"
+msgstr "Big aprobado Estilo"
+
+#: ../inc/custom-widgets.php:161 ../inc/custom-widgets.php:270
+#: ../inc/custom-widgets.php:355 ../inc/custom-widgets.php:435
+#: ../inc/custom-widgets.php:556 ../inc/custom-widgets.php:662
+#: ../inc/custom-widgets.php:742
+msgid "Icon Style with Like Count"
+msgstr "Icono de estilo con Like Count"
+
+#: ../inc/custom-widgets.php:162 ../inc/custom-widgets.php:271
+#: ../inc/custom-widgets.php:356 ../inc/custom-widgets.php:436
+#: ../inc/custom-widgets.php:557 ../inc/custom-widgets.php:663
+#: ../inc/custom-widgets.php:743
+msgid "Thumbs Style with Like Count"
+msgstr "Thumbs Estilo con Like Count"
+
+#: ../inc/custom-widgets.php:167
+msgid "Click show popular items"
+msgstr "Haga clic en Mostrar temas populares"
+
+#: ../inc/custom-widgets.php:170
+msgid "Popular Title:"
+msgstr "Popular Título:"
+
+#: ../inc/custom-widgets.php:174
+msgid "Popular Items number"
+msgstr "Número de artículos más populares"
+
+#: ../inc/custom-widgets.php:179 ../inc/custom-widgets.php:562
+msgid "Click show featured items"
+msgstr "Haga clic en Mostrar elementos destacados"
+
+#: ../inc/custom-widgets.php:182 ../inc/custom-widgets.php:565
+msgid "Featured Title:"
+msgstr "/* Featured Title */"
+
+#: ../inc/custom-widgets.php:186 ../inc/custom-widgets.php:345
+#: ../inc/custom-widgets.php:569 ../inc/custom-widgets.php:652
+msgid "IDs:"
+msgstr "IDs:"
+
+#: ../inc/custom-widgets.php:191 ../inc/custom-widgets.php:574
+msgid "Click show recent items"
+msgstr "Haga clic en Mostrar elementos recientes"
+
+#: ../inc/custom-widgets.php:194 ../inc/custom-widgets.php:577
+msgid "Recent Title:"
+msgstr "Título reciente:"
+
+#: ../inc/custom-widgets.php:198 ../inc/custom-widgets.php:275
+#: ../inc/custom-widgets.php:440 ../inc/custom-widgets.php:581
+#: ../inc/custom-widgets.php:747
+msgid "Recent Items number"
+msgstr "Número de artículos recientes"
+
+#: ../inc/custom-widgets.php:212
+msgid "MX Blog Popular Items"
+msgstr "MX Blog Los artículos más populares"
+
+#: ../inc/custom-widgets.php:212
+msgid "MX blog popular items! "
+msgstr "MX del blog artículos populares! "
+
+#: ../inc/custom-widgets.php:247
+msgid "Popular Items"
+msgstr "Los artículos más populares"
+
+#: ../inc/custom-widgets.php:261 ../inc/custom-widgets.php:340
+#: ../inc/custom-widgets.php:426 ../inc/custom-widgets.php:647
+#: ../inc/custom-widgets.php:733 ../inc/custom-widgets.php:806
+msgid "Title:"
+msgstr "Cargo:"
+
+#: ../inc/custom-widgets.php:289
+msgid "MX Blog Custom Items"
+msgstr "Elementos MX Blog personalizados"
+
+#: ../inc/custom-widgets.php:289
+msgid "MX blog custom show items! "
+msgstr "MX blog Mostrar artículos de encargo! "
+
+#: ../inc/custom-widgets.php:326 ../inc/custom-widgets.php:633
+msgid "Featured Items"
+msgstr "Artículos destacados"
+
+#: ../inc/custom-widgets.php:370
+msgid "MX Blog Recent Items"
+msgstr "MX Blog Artículos recientes"
+
+#: ../inc/custom-widgets.php:370
+msgid "MX blog recent items! "
+msgstr "MX Blog elementos recientes! "
+
+#: ../inc/custom-widgets.php:407 ../inc/custom-widgets.php:714
+msgid "Recent Items"
+msgstr "Elementos recientes"
+
+#: ../inc/custom-widgets.php:444 ../inc/custom-widgets.php:751
+msgid "Click show random posts"
+msgstr "Haga clic en Mostrar mensajes aleatorios"
+
+#: ../inc/custom-widgets.php:458
+msgid "MX Portfolio Tabs Items"
+msgstr "MX Portafolio Tabs Artículos"
+
+#: ../inc/custom-widgets.php:458
+msgid "MX portfolio tabs items for custom ids, recent items! "
+msgstr ""
+"Artículos cartera MX pestañas para identificadores personalizados, "
+"materiales recientes! "
+
+#: ../inc/custom-widgets.php:596
+msgid "MX Portfolio Custom Items"
+msgstr "Elementos MX Cartera personalizados"
+
+#: ../inc/custom-widgets.php:596
+msgid "MX portfolio custom show items! "
+msgstr "Cartera MX presentación personalizada artículos! "
+
+#: ../inc/custom-widgets.php:677
+msgid "MX Portfolio Recent Items"
+msgstr "MX Portafolio Artículos recientes"
+
+#: ../inc/custom-widgets.php:677
+msgid "MX portfolio recent items! "
+msgstr "Materiales recientes de la cartera MX! "
+
+#: ../inc/custom-widgets.php:764
+msgid "MX Portfolio Category"
+msgstr "MX Portafolio Categoría"
+
+#: ../inc/custom-widgets.php:764
+msgid "MX portfolio categories! "
+msgstr "MX categorías de cartera! "
+
+#: ../inc/custom-widgets.php:797
+#: ../template/portfolio/portfolio-single-style-1.php:86
+#: ../template/portfolio/portfolio-single-style-2.php:53
+#: ../template/portfolio/portfolio-single-style-3.php:84
+msgid "Categories"
+msgstr "Categorías"
+
+#: ../inc/custom-widgets.php:810
+msgid "Click show category item number"
+msgstr "Haga clic en Mostrar número de artículo categoría"
+
+#: ../inc/mx-functions.php:91
+msgid "&larr; Older posts"
+msgstr "← Las entradas anteriores"
+
+#: ../inc/mx-functions.php:92
+msgid "Newer posts &rarr;"
+msgstr "Entradas más recientes &rarr;"
+
+#: ../inc/mx-functions.php:107
+msgid "&laquo; %title"
+msgstr "« %t í tulo"
+
+#: ../inc/mx-functions.php:108
+msgid "%title &raquo;"
+msgstr "%titulo »"
+
+#: ../inc/mx-functions.php:138 ../single.php:131
+msgid " wrote in "
+msgstr " escribió en "
+
+#: ../inc/mx-functions.php:138 ../single.php:131
+#: ../template/blog/blog-ajax-content-item-style-1.php:119
+#: ../template/blog/blog-timeline-content-item-style-1.php:121
+#: ../template/blog/blog-timeline-content-item-style-2.php:122
+msgid ", "
+msgstr ", "
+
+#: ../inc/mx-functions.php:140
+msgid " with "
+msgstr " con  "
+
+#: ../inc/mx-functions.php:140
+msgid "0 comment"
+msgstr "0 comentarios"
+
+#: ../inc/mx-functions.php:140 ../single.php:134
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: ../inc/mx-functions.php:140 ../single.php:134
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: ../inc/mx-functions.php:143 ../single.php:136
+#: ../template/portfolio/portfolio-single-style-1.php:72
+#: ../template/portfolio/portfolio-single-style-2.php:133
+#: ../template/portfolio/portfolio-single-style-3.php:70
+msgid "Edit"
+msgstr "Editar"
+
+#: ../inc/mx-functions.php:241
+msgid "Home"
+msgstr "Inicio"
+
+#: ../inc/mx-functions.php:268
+msgid "Category Archive for \""
+msgstr "Archivo para la categoría \""
+
+#: ../inc/mx-functions.php:311
+#, php-format
+msgid "View all posts in %s"
+msgstr "Ver todas las publicaciones en %s"
+
+#: ../inc/mx-functions.php:327
+msgid "Posts Tagged \""
+msgstr "Entradas con la etiqueta \""
+
+#: ../inc/mx-functions.php:337
+msgid "404 Error"
+msgstr "Error 404"
+
+#: ../inc/mx-functions.php:342
+msgid "Date Archives for \""
+msgstr "Fecha de Archivos para \""
+
+#: ../inc/mx-functions.php:348
+msgid "Author \""
+msgstr "Autor \""
+
+#: ../inc/mx-functions.php:370 ../searchform.php:10
+#: ../template/header/header-style-4.php:39
+msgid "Search"
+msgstr "Buscar"
+
+#: ../inc/mx-functions.php:379
+msgid "Author"
+msgstr "Autor"
+
+#: ../inc/mx-functions.php:384
+msgid "Category for : "
+msgstr "Categoría de: "
+
+#: ../inc/mx-functions.php:386
+msgid "Tag for : "
+msgstr "Tag para: "
+
+#: ../inc/mx-functions.php:433 ../inc/mx-functions.php:443
+msgid "View your account"
+msgstr "Ver su cuenta"
+
+#: ../inc/mx-functions.php:433 ../inc/mx-functions.php:443
+msgid "My Account"
+msgstr "Mi Cuenta"
+
+#: ../inc/mx-functions.php:438 ../inc/mx-functions.php:450
+#: ../inc/penguin-config.php:263 ../inc/penguin-config.php:489
+#: ../template/header/header-login-content.php:24
+#: ../template/header/header-login-content.php:39
+#: ../template/tools/mini-bar-login-content.php:20
+#: ../template/tools/mini-bar-login-content.php:35
+msgid "Login"
+msgstr "Conectarse"
+
+#: ../inc/mx-functions.php:438 ../inc/mx-functions.php:450
+#: ../template/login/custom-login.php:35
+#: ../template/login/custom-register.php:24
+msgid "Log In"
+msgstr "Entrar"
+
+#: ../inc/mx-functions.php:447
+msgid "Create a Free Account"
+msgstr "Crear una cuenta gratis"
+
+#: ../inc/mx-functions.php:447
+msgid "Create an Account"
+msgstr "Crear una Cuenta"
+
+#: ../inc/mx-functions.php:884
+msgid "Uncategorized"
+msgstr "Sin categorizar"
+
+#: ../inc/mx-functions.php:965
+msgid "Leave A Comment"
+msgstr "Deja un comentario"
+
+#: ../inc/mx-functions.php:976
+msgid "Logged in as"
+msgstr "Conectado como"
+
+#: ../inc/mx-functions.php:976
+msgid "Log out &raquo;"
+msgstr "Desconectar »"
+
+#: ../inc/mx-functions.php:979 ../inc/mx-functions.php:1009
+msgid "Comment Message"
+msgstr "Comentario Mensaje"
+
+#: ../inc/mx-functions.php:979 ../inc/mx-functions.php:997
+#: ../inc/mx-functions.php:1001 ../inc/mx-functions.php:1009
+#: ../template/contact/custom-contact-form.php:125
+#: ../template/contact/custom-contact-form.php:129
+#: ../template/contact/custom-contact-form.php:133
+#: ../template/contact/custom-contact-form.php:137
+msgid "(required)"
+msgstr "(requerido)"
+
+#: ../inc/mx-functions.php:984 ../inc/mx-functions.php:1017
+msgid "Please enter message."
+msgstr "Por favor introduce el mensaje."
+
+#: ../inc/mx-functions.php:988 ../inc/mx-functions.php:1021
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: ../inc/mx-functions.php:997 ../inc/penguin/tinymce/window.php:361
+#: ../inc/penguin/tinymce/window.php:596
+#: ../inc/tools/sidebar_generator.php:237
+#: ../template/contact/custom-contact-form.php:125
+msgid "Name"
+msgstr "Nombre"
+
+#: ../inc/mx-functions.php:1001 ../inc/penguin-config.php:1585
+#: ../template/contact/custom-contact-form.php:129
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: ../inc/mx-functions.php:1005
+msgid "Website"
+msgstr "Sitio web"
+
+#: ../inc/mx-functions.php:1015 ../template/contact/custom-contact-form.php:45
+msgid "Please enter your name."
+msgstr "Por favor, escribe tu nombre."
+
+#: ../inc/mx-functions.php:1016
+msgid "Please enter an valid email address."
+msgstr "Por favor introduzca una dirección de correo electrónico válida."
+
+#: ../inc/mx-functions.php:1057
+msgid "at"
+msgstr "a las"
+
+#: ../inc/mx-functions.php:1060
+msgid "Your comment is awaiting approved."
+msgstr "Tu comentario está pendiente de aprobación."
+
+#: ../inc/mx-functions.php:1347 ../template/header/header-style-1.php:76
+#: ../template/header/header-style-1.php:118
+#: ../template/header/header-style-2.php:61
+#: ../template/header/header-style-2.php:105
+#: ../template/header/header-style-3.php:50
+#: ../template/header/header-style-3.php:120
+#: ../template/header/header-style-4.php:112
+#: ../template/header/header-style-5.php:76
+#: ../template/header/header-style-5.php:118
+msgid "Search ..."
+msgstr "Buscar ..."
+
+#: ../inc/mx-functions.php:1546
+msgid "&laquo; Prev"
+msgstr "« Anterior"
+
+#: ../inc/mx-functions.php:1574
+msgid "Next &raquo;"
+msgstr "Siguiente &raquo;"
+
+#: ../inc/mx-functions.php:1591 ../inc/mx-functions.php:1597
+msgid "Please open Admin -&gt; Appearance -&gt; Menus Setting"
+msgstr "Por favor, abra Administración -> Apariencia -> Configuración Menús"
+
+#: ../inc/penguin-config.php:31 ../inc/penguin-config.php:2366
+#: ../inc/penguin-config.php:2452 ../inc/penguin-config.php:2563
+#: ../inc/penguin-config.php:2814
+msgid "General"
+msgstr "General"
+
+#: ../inc/penguin-config.php:32
+msgid "General Setting"
+msgstr "Configuración General"
+
+#: ../inc/penguin-config.php:35
+msgid "Theme License Information &amp; Auto Update Setting"
+msgstr ""
+
+#: ../inc/penguin-config.php:39 ../template/login/custom-login.php:23
+#: ../template/login/custom-register.php:15
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ../inc/penguin-config.php:42
+msgid "Envato market username."
+msgstr "Envato nombre de usuario del mercado."
+
+#: ../inc/penguin-config.php:45
+msgid "Purchase Code"
+msgstr "Compra Código"
+
+#: ../inc/penguin-config.php:48
+msgid "Download License Certificate will find Item Purchase Code."
+msgstr ""
+"Descargar Certificado de Licencia encontrará artículo Código de Compra."
+
+#: ../inc/penguin-config.php:51
+msgid "Envato API"
+msgstr "Envato API"
+
+#: ../inc/penguin-config.php:54
+msgid ""
+"To obtain your API Key, visit \"My Settings\" page on any of the Envato "
+"Marketplaces."
+msgstr ""
+"Para obtener su clave de API, visite \"My Settings \" página en alguno de "
+"los mercadillos Envato."
+
+#: ../inc/penguin-config.php:57
+msgid "Theme Auto Update"
+msgstr "Tema Actualización automática"
+
+#: ../inc/penguin-config.php:59
+msgid "Turn on auto update when have new version."
+msgstr "Encienda la actualización automática cuando tenga nueva versión."
+
+#: ../inc/penguin-config.php:65
+msgid "Global Setting"
+msgstr "Configuración general"
+
+#: ../inc/penguin-config.php:69
+msgid "Theme Skin"
+msgstr "Theme Skin"
+
+#: ../inc/penguin-config.php:72
+msgid "Light Skin"
+msgstr "Piel clara"
+
+#: ../inc/penguin-config.php:72
+msgid "Dark Skin"
+msgstr "La piel oscura"
+
+#: ../inc/penguin-config.php:75
+msgid "Global Layout"
+msgstr " Layout global"
+
+#: ../inc/penguin-config.php:78
+msgid "Boxed"
+msgstr "Encajonado"
+
+#: ../inc/penguin-config.php:78
+msgid "Wide"
+msgstr "Amplio"
+
+#: ../inc/penguin-config.php:84
+msgid "Boxed Layout Padding"
+msgstr "Encajonado Relleno Layout"
+
+#: ../inc/penguin-config.php:88
+msgid "Setting Global Boxed Layout Top, Bottom Padding"
+msgstr "Configuración Global en caja Diseño Top, Relleno Bottom"
+
+#: ../inc/penguin-config.php:93
+msgid "Mobile Responsive"
+msgstr "Mobile Responsive"
+
+#: ../inc/penguin-config.php:95
+msgid "Turn on mobile responsive support."
+msgstr "Activar la compatibilidad de respuesta móvil."
+
+#: ../inc/penguin-config.php:99
+msgid "Global Sidebar Layout"
+msgstr "Global Sidebar Layout"
+
+#: ../inc/penguin-config.php:103 ../inc/penguin-config.php:2020
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: ../inc/penguin-config.php:103 ../inc/penguin-config.php:2020
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: ../inc/penguin-config.php:103 ../inc/penguin-config.php:2020
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: ../inc/penguin-config.php:106
+msgid "Global Page Title Align"
+msgstr "Global Título de Align"
+
+#: ../inc/penguin-config.php:110
+msgid "Left"
+msgstr "Izquierda"
+
+#: ../inc/penguin-config.php:110
+msgid "Center"
+msgstr "Centro"
+
+#: ../inc/penguin-config.php:110
+msgid "Right"
+msgstr "Derecha"
+
+#: ../inc/penguin-config.php:113
+msgid "Mega Menu Enable"
+msgstr "Mega Menú Enable"
+
+#: ../inc/penguin-config.php:115
+msgid "Turn on enable Mega Menu."
+msgstr "Encienda permitir Mega Menu."
+
+#: ../inc/penguin-config.php:119
+msgid "Enable CDN"
+msgstr ""
+
+#: ../inc/penguin-config.php:121
+msgid "Turn on enable Bootstrap &amp; FontAwesome from CDN."
+msgstr ""
+
+#: ../inc/penguin-config.php:127 ../inc/penguin-config.php:128
+msgid "Favicon"
+msgstr "Icono"
+
+#: ../inc/penguin-config.php:134
+msgid "Feed url"
+msgstr "URL de Feed"
+
+#: ../inc/penguin-config.php:135
+msgid "RSS Feed"
+msgstr "Feed RSS"
+
+#: ../inc/penguin-config.php:140
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ../inc/penguin-config.php:144
+msgid "Script position"
+msgstr "Posición de la escritura"
+
+#: ../inc/penguin-config.php:148 ../inc/penguin-config.php:168
+msgid "Header"
+msgstr "Encabezado"
+
+#: ../inc/penguin-config.php:149 ../inc/penguin-config.php:398
+msgid "Footer"
+msgstr "Pie de página"
+
+#: ../inc/penguin-config.php:154
+msgid "Analytics script"
+msgstr "Guión Analytics"
+
+#: ../inc/penguin-config.php:157
+msgid "Paste your Google Analytics or other tracking code here."
+msgstr "Pegado de Google Analytics u otros códigos de seguimiento aquí."
+
+#: ../inc/penguin-config.php:169
+msgid "Header Setting"
+msgstr "Header Ajuste"
+
+#: ../inc/penguin-config.php:172
+msgid "Header Area Style Setting"
+msgstr "Header Area Style Setting"
+
+#: ../inc/penguin-config.php:176
+msgid "Enable Top Banner"
+msgstr "Activar Banner Superior"
+
+#: ../inc/penguin-config.php:178
+msgid "Check to enable top banner"
+msgstr "Active para habilitar banner superior"
+
+#: ../inc/penguin-config.php:185
+msgid "Enable Topbar"
+msgstr "Habilitar Topbar"
+
+#: ../inc/penguin-config.php:188
+msgid "Check to enable show topbar elements"
+msgstr "Active para habilitar elementos espectáculo topbar"
+
+#: ../inc/penguin-config.php:195
+msgid "Header Style"
+msgstr "Estilo Header"
+
+#: ../inc/penguin-config.php:198
+msgid "Header Style #1 (Menu Bottom)"
+msgstr "Estilo Header # 1 (Menú Inferior)"
+
+#: ../inc/penguin-config.php:198
+msgid "Header Style #2 (Menu Right)"
+msgstr "Estilo Header # 2 (menú derecho)"
+
+#: ../inc/penguin-config.php:198
+msgid "Header Style #3 (Menu Center)"
+msgstr "Estilo Header # 3 (Centro Menu)"
+
+#: ../inc/penguin-config.php:198
+msgid "Header Style #4 (Menu Right)"
+msgstr "Estilo Header # 4 (Menú derecha)"
+
+#: ../inc/penguin-config.php:198
+msgid "Header Style #5 (Menu Bottom)"
+msgstr "Estilo Header # 5 (Menú Inferior)"
+
+#: ../inc/penguin-config.php:205
+msgid "Enable Search Form"
+msgstr "Habilitar la búsqueda Form"
+
+#: ../inc/penguin-config.php:208
+msgid "Check to enable show search form"
+msgstr "Compruebe activar formularios espectáculo búsqueda"
+
+#: ../inc/penguin-config.php:211
+msgid "Enable Login"
+msgstr "Habilitar Login"
+
+#: ../inc/penguin-config.php:212
+msgid "Enable Login on Menu Area"
+msgstr "Habilitar acceso un área de menú"
+
+#: ../inc/penguin-config.php:217
+msgid "Enable Social Button"
+msgstr "Habilitar Botón Social"
+
+#: ../inc/penguin-config.php:220
+msgid "Check to enable show social accounts"
+msgstr "Active para habilitar la demostración cuentas sociales"
+
+#: ../inc/penguin-config.php:223
+msgid "Enable Fixed Menu"
+msgstr "Habilitar Menú Fijo"
+
+#: ../inc/penguin-config.php:226
+msgid "Check to enable fixed menu when scroll page"
+msgstr "Active para habilitar menú fijo cuando la página de desplazamiento"
+
+#: ../inc/penguin-config.php:231
+msgid "Header Banner Setting"
+msgstr "Header Banner Configuración"
+
+#: ../inc/penguin-config.php:237 ../inc/penguin/tinymce/window.php:185
+#: ../inc/penguin/tinymce/window.php:736 ../inc/penguin/tinymce/window.php:745
+#: ../inc/penguin/tinymce/window.php:752 ../inc/shortcodes.php:2083
+msgid "ID"
+msgstr "Identificación"
+
+#: ../inc/penguin-config.php:240
+msgid "Use it different before banner id"
+msgstr "Úsalo diferente antes de id bandera"
+
+#: ../inc/penguin-config.php:243 ../inc/penguin/tinymce/window.php:188
+#: ../inc/penguin/tinymce/window.php:211 ../inc/penguin/tinymce/window.php:228
+#: ../inc/penguin/tinymce/window.php:296 ../inc/penguin/tinymce/window.php:316
+#: ../inc/penguin/tinymce/window.php:332 ../inc/penguin/tinymce/window.php:344
+#: ../inc/penguin/tinymce/window.php:364 ../inc/penguin/tinymce/window.php:384
+#: ../inc/penguin/tinymce/window.php:401 ../inc/penguin/tinymce/window.php:421
+#: ../inc/penguin/tinymce/window.php:439 ../inc/penguin/tinymce/window.php:469
+#: ../inc/penguin/tinymce/window.php:486 ../inc/penguin/tinymce/window.php:504
+#: ../inc/penguin/tinymce/window.php:525 ../inc/penguin/tinymce/window.php:539
+#: ../inc/penguin/tinymce/window.php:555 ../inc/penguin/tinymce/window.php:572
+#: ../inc/penguin/tinymce/window.php:610 ../inc/penguin/tinymce/window.php:618
+#: ../inc/penguin/tinymce/window.php:739 ../inc/penguin/tinymce/window.php:746
+#: ../inc/penguin/tinymce/window.php:753 ../inc/penguin/tinymce/window.php:759
+#: ../inc/penguin/tinymce/window.php:765 ../inc/penguin/tinymce/window.php:771
+#: ../inc/penguin/tinymce/window.php:777 ../inc/penguin/tinymce/window.php:783
+#: ../inc/penguin/tinymce/window.php:789 ../inc/penguin/tinymce/window.php:795
+#: ../inc/shortcodes.php:2072 ../inc/shortcodes.php:2107
+#: ../inc/shortcodes.php:2245 ../inc/shortcodes.php:2355
+#: ../inc/shortcodes.php:2605 ../inc/shortcodes.php:2673
+#: ../inc/shortcodes.php:2765
+msgid "Content"
+msgstr "Contenido"
+
+#: ../inc/penguin-config.php:246
+msgid "Support HTML format"
+msgstr "Soporta formato HTML"
+
+#: ../inc/penguin-config.php:251
+msgid "Custom Topbar Setting"
+msgstr "Custom Topbar Ajuste"
+
+#: ../inc/penguin-config.php:257
+msgid "Custom Topbar Show Element"
+msgstr "Custom Topbar Mostrar Elemento"
+
+#: ../inc/penguin-config.php:260
+msgid "Left Side"
+msgstr "Lateral izquierdo"
+
+#: ../inc/penguin-config.php:260
+msgid "Right Side"
+msgstr "Lado Derecho"
+
+#: ../inc/penguin-config.php:262
+msgid "Topbar Menu"
+msgstr "Menú Topbar"
+
+#: ../inc/penguin-config.php:264 ../inc/penguin-config.php:491
+msgid "Shop Cart"
+msgstr "Carrito"
+
+#: ../inc/penguin-config.php:265 ../inc/penguin-config.php:1577
+#: ../inc/penguin-config.php:1578 ../inc/penguin/tinymce/window.php:234
+#: ../inc/penguin/tinymce/window.php:603 ../inc/shortcodes.php:2533
+msgid "Socials"
+msgstr "Sociales"
+
+#: ../inc/penguin-config.php:266
+msgid "Switch Language"
+msgstr "Cambiar el idioma"
+
+#: ../inc/penguin-config.php:267 ../inc/penguin-config.php:297
+#: ../inc/penguin-config.php:493
+msgid "Custom Content"
+msgstr "Contenido personalizado"
+
+#: ../inc/penguin-config.php:270
+msgid ""
+"Drag module as sort show;Click show position as where show it.(Right area "
+"position need you view site make sure is you wanted.)"
+msgstr ""
+"Módulo Drag como una especie espectáculo,. Haga clic en Mostrar posición "
+"donde mostrarlo (posición de la zona derecha necesita ver sitio Asegúrese de "
+"que esté usted quería.)"
+
+#: ../inc/penguin-config.php:273
+msgid "Topbar Custom Content"
+msgstr "Contenido Topbar personalizada"
+
+#: ../inc/penguin-config.php:275 ../inc/penguin-config.php:299
+msgid "Support html code for topbar custom content."
+msgstr "Soporte código HTML para contenido personalizado barra superior."
+
+#: ../inc/penguin-config.php:281
+#, fuzzy
+msgid "Header Area Custom Content Setting"
+msgstr "Header Area Ajuste personalizado de contenido"
+
+#: ../inc/penguin-config.php:287
+msgid "Enable Custom Content"
+msgstr "Habilitar contenido personalizado"
+
+#: ../inc/penguin-config.php:289
+msgid "Check to enable custom content"
+msgstr "Active para habilitar contenido personalizado"
+
+#: ../inc/penguin-config.php:307
+msgid "Header Area Element Setting"
+msgstr "Header Area elemento de ajuste"
+
+#: ../inc/penguin-config.php:311
+msgid "Login Page Link"
+msgstr "La página de inicio Enlace"
+
+#: ../inc/penguin-config.php:313
+msgid "You need first create page use login template as login page."
+msgstr ""
+"Es necesario primero crear empleo plantilla de página de inicio de sesión "
+"como página de inicio de sesión."
+
+#: ../inc/penguin-config.php:317
+msgid "Logo Padding Top"
+msgstr "Logo Relleno Top"
+
+#: ../inc/penguin-config.php:323
+#, fuzzy
+msgid "Social Padding Top"
+msgstr "Relleno Social Top"
+
+#: ../inc/penguin-config.php:329
+msgid "Custom Content Padding Top"
+msgstr "Custom Content Relleno Top"
+
+#: ../inc/penguin-config.php:335
+msgid "Right Cart Content Padding Top"
+msgstr "Derecho Relleno Cesta Contenido principal"
+
+#: ../inc/penguin-config.php:343
+msgid "Custom Logo"
+msgstr "Logotipo personalizado"
+
+#: ../inc/penguin-config.php:347
+msgid "Enable Custom Logo"
+msgstr "Activar logotipo personalizado"
+
+#: ../inc/penguin-config.php:349
+msgid "Check to enable custom image logo"
+msgstr "Active para habilitar la imagen de logotipo personalizado"
+
+#: ../inc/penguin-config.php:357
+msgid "Logo Image URL"
+msgstr "URL Imagen del logotipo"
+
+#: ../inc/penguin-config.php:365
+msgid "Logo Retina Image @2x"
+msgstr "Logo Retina Imagen @2x"
+
+#: ../inc/penguin-config.php:369
+msgid "You need upload a retina logo @2x default logo size. "
+msgstr ""
+"Es necesario cargar un logotipo @2x tamaño logotipo predeterminado retina. "
+
+#: ../inc/penguin-config.php:374
+msgid "Logo Image Width"
+msgstr "Logo Ancho de imagen"
+
+#: ../inc/penguin-config.php:382
+msgid "Logo Image Height"
+msgstr "Imagen del logo Altura"
+
+#: ../inc/penguin-config.php:399
+msgid "Footer Setting"
+msgstr "Ajustes de Pie de Página"
+
+#: ../inc/penguin-config.php:402
+msgid "Footer Area Style Setting"
+msgstr "Pie de página Área Style Setting"
+
+#: ../inc/penguin-config.php:406
+msgid "Footer Widget Basic Columns"
+msgstr "Columnas Footer Widget básicos"
+
+#: ../inc/penguin-config.php:421
+msgid "It's also depends your footer widgets had added content."
+msgstr ""
+"También depende de los widgets de pie de página había añadido contenidos."
+
+#: ../inc/penguin-config.php:424
+msgid "Footer Bottom Content Style"
+msgstr "Pie de página inferior Estilo contenido"
+
+#: ../inc/penguin-config.php:430
+msgid "Footer Menu"
+msgstr "Menú de pie de página"
+
+#: ../inc/penguin-config.php:433
+msgid "Check to enable show footer menu"
+msgstr "Active para habilitar show menu pie de página"
+
+#: ../inc/penguin-config.php:437 ../inc/penguin-config.php:443
+msgid "Custom Left Area Content"
+msgstr "Área Izquierda Custom Content"
+
+#: ../inc/penguin-config.php:439
+msgid "Support html code for footer bottom custom content left area."
+msgstr ""
+"Apoyo el código HTML para el pie de página de contenido personalizado "
+"inferior área izquierda."
+
+#: ../inc/penguin-config.php:445
+msgid "Support html code for footer bottom custom content right area."
+msgstr ""
+"Apoyo el código HTML para el pie de página de contenido personalizado "
+"inferior área derecha."
+
+#: ../inc/penguin-config.php:458
+msgid "Mini Bar"
+msgstr "Mini Bar"
+
+#: ../inc/penguin-config.php:459 ../inc/penguin-config.php:472
+msgid "Mini Bar Setting"
+msgstr "Configuración de Mini Bar"
+
+#: ../inc/penguin-config.php:462
+msgid "Enable Mini Bar Setting"
+msgstr "Habilitar Configuración de Mini Bar "
+
+#: ../inc/penguin-config.php:463
+msgid "Enable Mini Bar"
+msgstr "Habilitar Mini Bar"
+
+#: ../inc/penguin-config.php:478
+msgid "Enable Mini Bar Open"
+msgstr "Habilitar Mini Bar Abierto"
+
+#: ../inc/penguin-config.php:481
+msgid "Enable will default show mini bar or will need click open."
+msgstr ""
+"Habilitar voluntad predefinido mostrar minibar o necesitarán haga clic en "
+"Abrir."
+
+#: ../inc/penguin-config.php:484
+msgid "Custom Mini Bar Show Element"
+msgstr "Custom Mini Bar Show Element"
+
+#: ../inc/penguin-config.php:487
+msgid "Show"
+msgstr "Mostrar"
+
+#: ../inc/penguin-config.php:490
+msgid "Shop Wishlist"
+msgstr "Lista de Deseos"
+
+#: ../inc/penguin-config.php:492
+msgid "Search Form"
+msgstr "Formulario de búsqueda"
+
+#: ../inc/penguin-config.php:496
+msgid "Drag module as sort show."
+msgstr "Módulo Drag como una especie mostrar."
+
+#: ../inc/penguin-config.php:499
+#, fuzzy
+msgid "Mini Bar Custom Element Icon"
+msgstr "Icono Elemento barra mini personalizada"
+
+#: ../inc/penguin-config.php:502
+msgid "Used FontAwesome icon name."
+msgstr "Usado FontAwesome nombre del icono."
+
+#: ../inc/penguin-config.php:506
+msgid "Mini Bar Custom Content"
+msgstr "Contenido barra mini personalizada"
+
+#: ../inc/penguin-config.php:508
+msgid "Support html code for Mini Bar custom content."
+msgstr "Soporte código HTML para Mini Bar contenido personalizado."
+
+#: ../inc/penguin-config.php:519 ../inc/penguin-config.php:2414
+#: ../inc/penguin-config.php:2525 ../inc/penguin-config.php:2776
+#: ../inc/penguin-config.php:2820
+msgid "Background"
+msgstr "Fondo"
+
+#: ../inc/penguin-config.php:520
+msgid "Background Setting"
+msgstr "Configuración de fondo"
+
+#: ../inc/penguin-config.php:523
+msgid "Enable Custom Background Setting"
+msgstr "Activar Configuración de Fondo Personalizado"
+
+#: ../inc/penguin-config.php:524
+msgid "Enable Custom Background"
+msgstr "Habilitar Fondo Personalizado"
+
+#: ../inc/penguin-config.php:532
+msgid "Body Background Setting"
+msgstr "Configuración de Fondo de Página"
+
+#: ../inc/penguin-config.php:538
+msgid "Body Background Type"
+msgstr "Página"
+
+#: ../inc/penguin-config.php:541 ../inc/penguin-config.php:601
+#: ../inc/penguin-config.php:660 ../inc/penguin-config.php:719
+#: ../inc/penguin-config.php:779 ../inc/penguin-config.php:2100
+#: ../inc/penguin-config.php:2146 ../inc/penguin-config.php:2192
+#: ../inc/penguin-config.php:2238 ../inc/penguin-config.php:2284
+msgid "Pattern"
+msgstr "Patrón"
+
+#: ../inc/penguin-config.php:541 ../inc/penguin-config.php:601
+#: ../inc/penguin-config.php:660 ../inc/penguin-config.php:719
+#: ../inc/penguin-config.php:779 ../inc/penguin-config.php:2100
+#: ../inc/penguin-config.php:2146 ../inc/penguin-config.php:2192
+#: ../inc/penguin-config.php:2238 ../inc/penguin-config.php:2284
+#: ../inc/penguin-config.php:2463 ../inc/penguin-config.php:2950
+msgid "Image"
+msgstr "Imagen"
+
+#: ../inc/penguin-config.php:541 ../inc/penguin-config.php:601
+#: ../inc/penguin-config.php:660 ../inc/penguin-config.php:719
+#: ../inc/penguin-config.php:779 ../inc/penguin-config.php:1038
+#: ../inc/penguin-config.php:2100 ../inc/penguin-config.php:2146
+#: ../inc/penguin-config.php:2192 ../inc/penguin-config.php:2238
+#: ../inc/penguin-config.php:2284 ../inc/shortcodes.php:2505
+msgid "Color"
+msgstr "Color"
+
+#: ../inc/penguin-config.php:547 ../inc/penguin-config.php:607
+#: ../inc/penguin-config.php:666 ../inc/penguin-config.php:725
+#: ../inc/penguin-config.php:785 ../inc/penguin-config.php:2106
+#: ../inc/penguin-config.php:2152 ../inc/penguin-config.php:2198
+#: ../inc/penguin-config.php:2244 ../inc/penguin-config.php:2290
+msgid "Pattern Image Width"
+msgstr "Ancho de la imagen"
+
+#: ../inc/penguin-config.php:554 ../inc/penguin-config.php:614
+#: ../inc/penguin-config.php:673 ../inc/penguin-config.php:732
+#: ../inc/penguin-config.php:793 ../inc/penguin-config.php:2112
+#: ../inc/penguin-config.php:2158 ../inc/penguin-config.php:2204
+#: ../inc/penguin-config.php:2250 ../inc/penguin-config.php:2296
+msgid "Pattern Image Height"
+msgstr "Alto de imagen:"
+
+#: ../inc/penguin-config.php:561 ../inc/penguin-config.php:621
+#: ../inc/penguin-config.php:680 ../inc/penguin-config.php:739
+#: ../inc/penguin-config.php:801 ../inc/penguin-config.php:2118
+#: ../inc/penguin-config.php:2164 ../inc/penguin-config.php:2210
+#: ../inc/penguin-config.php:2256 ../inc/penguin-config.php:2302
+msgid "Pattern Image"
+msgstr "Imagen del Patrón"
+
+#: ../inc/penguin-config.php:568 ../inc/penguin-config.php:628
+#: ../inc/penguin-config.php:687 ../inc/penguin-config.php:746
+#: ../inc/penguin-config.php:808 ../inc/penguin-config.php:2124
+#: ../inc/penguin-config.php:2170 ../inc/penguin-config.php:2216
+#: ../inc/penguin-config.php:2262 ../inc/penguin-config.php:2308
+msgid "Pattern Retina Image @2x"
+msgstr "Imagen Retina @2x del Patrón"
+
+#: ../inc/penguin-config.php:575 ../inc/penguin-config.php:635
+#: ../inc/penguin-config.php:694 ../inc/penguin-config.php:753
+#: ../inc/penguin-config.php:815 ../inc/penguin-config.php:2130
+#: ../inc/penguin-config.php:2176 ../inc/penguin-config.php:2222
+#: ../inc/penguin-config.php:2268 ../inc/penguin-config.php:2314
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: ../inc/penguin-config.php:582 ../inc/penguin-config.php:642
+#: ../inc/penguin-config.php:701 ../inc/penguin-config.php:760
+#: ../inc/penguin-config.php:822 ../inc/penguin-config.php:2136
+#: ../inc/penguin-config.php:2182 ../inc/penguin-config.php:2228
+#: ../inc/penguin-config.php:2274 ../inc/penguin-config.php:2320
+#: ../inc/shortcodes.php:1998 ../inc/shortcodes.php:2588
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: ../inc/penguin-config.php:592
+msgid "Header Background Setting"
+msgstr "Configuración del Fondo del Encabezado"
+
+#: ../inc/penguin-config.php:598
+msgid "Header Background Type"
+msgstr "Tipo de Fondo del Encabezado"
+
+#: ../inc/penguin-config.php:651
+msgid "Title Background Setting"
+msgstr "Título Fondo Ajuste"
+
+#: ../inc/penguin-config.php:657
+msgid "Title Background Type"
+msgstr "Tipo Título Fondo"
+
+#: ../inc/penguin-config.php:710
+msgid "Content Background Setting"
+msgstr "Contenido Configuración de fondo"
+
+#: ../inc/penguin-config.php:716
+msgid "Content Background Type"
+msgstr "Contenido Antecedentes Tipo"
+
+#: ../inc/penguin-config.php:769
+msgid "Footer Background Setting"
+msgstr "Pie de página Configuración de fondo"
+
+#: ../inc/penguin-config.php:775
+msgid "Footer Background Type"
+msgstr "Tipo Pie de Antecedentes"
+
+#: ../inc/penguin-config.php:830 ../inc/penguin-config.php:2327
+msgid "Border Top Color"
+msgstr "Border Color superior"
+
+#: ../inc/penguin-config.php:838 ../inc/penguin-config.php:2334
+msgid "Border Bottom Color"
+msgstr "Color del borde inferior"
+
+#: ../inc/penguin-config.php:846
+msgid "Copyright Area Background Color"
+msgstr "Derechos de autor Área Color de fondo"
+
+#: ../inc/penguin-config.php:854
+msgid "Copyright Area Border Top Color"
+msgstr "Derechos de Autor Zona Fronteriza Color superior"
+
+#: ../inc/penguin-config.php:870
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: ../inc/penguin-config.php:871
+msgid "Woocommerce Setting"
+msgstr "Configuración de WooCommerce"
+
+#: ../inc/penguin-config.php:874
+msgid "Default Woocommerce Setting"
+msgstr "Configuración por defecto para  WooCommerce"
+
+#: ../inc/penguin-config.php:878
+msgid "Shop Page Items Number"
+msgstr "Número de elementos por página"
+
+#: ../inc/penguin-config.php:884 ../inc/penguin-config.php:885
+msgid "Enabled Header Product Search"
+msgstr "Header Habilitado Buscar Producto"
+
+#: ../inc/penguin-config.php:888
+msgid "Turn on enabled product search form."
+msgstr "Encienda el formulario de búsqueda de productos habilitados."
+
+#: ../inc/penguin-config.php:891
+msgid "Enable Cart"
+msgstr "Habilitar la Cesta"
+
+#: ../inc/penguin-config.php:892
+msgid "Enable Cart on Menu Area"
+msgstr "Habilitar carro en área de menú"
+
+#: ../inc/penguin-config.php:897
+msgid "Enable Wishlist"
+msgstr "Habilitar Lista de Deseos"
+
+#: ../inc/penguin-config.php:898
+msgid "Enable Wishlist on Menu Area"
+msgstr "Habilitar Lista de área de menú"
+
+#: ../inc/penguin-config.php:901
+msgid "Before you need install \"YITH WooCommerce Wishlist\" plugin."
+msgstr "Requiere el plugin \"YITH WooCommerce Wishlist\"."
+
+#: ../inc/penguin-config.php:904 ../inc/penguin-config.php:1457
+#: ../inc/penguin-config.php:1533
+msgid "Share Show"
+msgstr "Mostrar Compartir"
+
+#: ../inc/penguin-config.php:906 ../inc/penguin-config.php:1459
+#: ../inc/penguin-config.php:1535
+msgid "Turn on enable post page show share."
+msgstr "Encienda permitirá página de entrada espectáculo acción."
+
+#: ../inc/penguin-config.php:913 ../inc/penguin-config.php:1466
+#: ../inc/penguin-config.php:1542
+msgid "Share Type"
+msgstr "Tipo de acción"
+
+#: ../inc/penguin-config.php:915 ../inc/penguin-config.php:1468
+#: ../inc/penguin-config.php:1544
+msgid "Default"
+msgstr "Por Defecto"
+
+#: ../inc/penguin-config.php:915 ../inc/penguin-config.php:1468
+#: ../inc/penguin-config.php:1544
+msgid "Custom Share"
+msgstr "Personalizar Compartir"
+
+#: ../inc/penguin-config.php:921 ../inc/penguin-config.php:1474
+#: ../inc/penguin-config.php:1550
+msgid "Custom Share Content"
+msgstr "Custom Compartir contenido"
+
+#: ../inc/penguin-config.php:935
+msgid "Font"
+msgstr "Fuente"
+
+#: ../inc/penguin-config.php:936
+msgid "Font Setting"
+msgstr "Configuración de fuente"
+
+#: ../inc/penguin-config.php:939
+msgid "Enable Font Setting"
+msgstr "Activar Configuración de fuente"
+
+#: ../inc/penguin-config.php:940
+msgid "Enable Custom Font"
+msgstr "Habilitar fuente personalizado"
+
+#: ../inc/penguin-config.php:943
+msgid "Just when enable custom font,then all choose font will run."
+msgstr ""
+"Justo cuando permitan fuente personalizado, a continuación, elegir la fuente "
+"de todo funcionará."
+
+#: ../inc/penguin-config.php:949
+msgid "Theme Font Setting"
+msgstr "Fuente Tema Configuración"
+
+#: ../inc/penguin-config.php:955
+msgid "General Font"
+msgstr "General de fuentes"
+
+#: ../inc/penguin-config.php:960
+msgid "Now have 676+ Google web fonts for u choose!"
+msgstr ""
+
+#: ../inc/penguin-config.php:963
+msgid "General Font Weight"
+msgstr "General Fuente Peso"
+
+#: ../inc/penguin-config.php:967
+msgid "You can check font support style http://google.com/fonts/"
+msgstr ""
+"Usted puede comprobar el estilo de soporte de fuente http://google.com/fonts/"
+
+#: ../inc/penguin-config.php:970
+msgid "General Font Size"
+msgstr "General Tamaño de letra"
+
+#: ../inc/penguin-config.php:977
+msgid "Header Menu Font"
+msgstr "Menú Cabecera de fuente"
+
+#: ../inc/penguin-config.php:984
+msgid "Header Menu  Font Weight"
+msgstr "Menú Cabecera de fuente Peso"
+
+#: ../inc/penguin-config.php:990
+msgid "Header Menu Font Size"
+msgstr "Menú Cabecera Tamaño de Fuente"
+
+#: ../inc/penguin-config.php:997
+msgid "Header Sub Menu Font Size"
+msgstr "Encabezado del submenú Tamaño de Fuente"
+
+#: ../inc/penguin-config.php:1004
+msgid "Header Menu Sub Title Font Size"
+msgstr "Menú Header Sub Tamaño Fuente del título"
+
+#: ../inc/penguin-config.php:1011
+msgid "H1-H6 Font"
+msgstr "H1-H6 Fuente"
+
+#: ../inc/penguin-config.php:1018
+msgid "H1-H6 Font Weight"
+msgstr "H1-H6 Fuente Peso"
+
+#: ../inc/penguin-config.php:1024
+msgid "Google Fonts Subsets"
+msgstr "Google Fuentes subconjuntos"
+
+#: ../inc/penguin-config.php:1027
+msgid ""
+"Some of the fonts in the Google Font Directory support multiple scripts "
+"(like Latin and Cyrillic for example). Example: \"latin,cyrillic\" please "
+"use \",\" for more subsets "
+msgstr ""
+"Algunas de las fuentes en el directorio de fuentes de Google apoyan varias "
+"secuencias de comandos (como el latín y cirílico, por ejemplo). Ejemplo: "
+"\"latino, cirílico \" por favor, utilice \", \" para más subconjuntos "
+
+#: ../inc/penguin-config.php:1039
+msgid "Color Setting"
+msgstr "Configuración del color"
+
+#: ../inc/penguin-config.php:1042
+msgid "Enable Color"
+msgstr "Habilitar color"
+
+#: ../inc/penguin-config.php:1043
+msgid "Enable Custom Color"
+msgstr "Habilitar Color personalizado"
+
+#: ../inc/penguin-config.php:1046
+msgid "Just when enable custom color,then all choose color will run."
+msgstr ""
+"Justo cuando permita color personalizado, a continuación, elija un color "
+"todo se ejecutará."
+
+#: ../inc/penguin-config.php:1052
+msgid "Theme Colors Setting"
+msgstr "Colores del tema Configuración"
+
+#: ../inc/penguin-config.php:1058 ../inc/shortcodes.php:2513
+msgid "Theme Color"
+msgstr "Color del tema"
+
+#: ../inc/penguin-config.php:1063
+msgid "General Text Color"
+msgstr "General color del texto"
+
+#: ../inc/penguin-config.php:1066
+msgid "General default text color for div,p,span,a color"
+msgstr "Color de texto predeterminado General de div, p, palmo, un color"
+
+#: ../inc/penguin-config.php:1069
+msgid "A default color"
+msgstr "Un color por defecto"
+
+#: ../inc/penguin-config.php:1074
+msgid "A hover color"
+msgstr "Un color libración"
+
+#: ../inc/penguin-config.php:1079
+msgid "Title default color"
+msgstr "Título de color por defecto"
+
+#: ../inc/penguin-config.php:1082
+msgid "h1,h2,h3,h4,h5,h6 default color"
+msgstr "h1, h2, h3, h4, h5, h6 el color por defecto"
+
+#: ../inc/penguin-config.php:1085
+msgid "Theme Button Hover Color"
+msgstr "Botón Tema Hover color"
+
+#: ../inc/penguin-config.php:1090
+msgid "Page Title Color"
+msgstr "Título de color"
+
+#: ../inc/penguin-config.php:1095
+msgid "Footer Widget A default Color"
+msgstr "Pie de página Widget Un color por defecto"
+
+#: ../inc/penguin-config.php:1100
+msgid "Footer Widget A hover default Color"
+msgstr "Pie de página Widget A Color libración defecto"
+
+#: ../inc/penguin-config.php:1105
+msgid "Footer Copyright A default Color"
+msgstr "Pie de página Derechos de autor Un color por defecto"
+
+#: ../inc/penguin-config.php:1110
+msgid "Footer Copyright A hover default Color"
+msgstr ""
+"Pie de página Derechos de autor Un elemento emergente de color predeterminado"
+
+#: ../inc/penguin-config.php:1117
+msgid "Header Area Colors Setting"
+msgstr "Header Área Configuración de colores"
+
+#: ../inc/penguin-config.php:1123
+msgid "Top Banner Background Color"
+msgstr "Top Banner Background Color"
+
+#: ../inc/penguin-config.php:1126
+msgid "Header top banner area background color"
+msgstr "Encabezado superior color de fondo área del banner"
+
+#: ../inc/penguin-config.php:1129
+msgid "Topbar Background Color"
+msgstr "Antecedentes Topbar color"
+
+#: ../inc/penguin-config.php:1132
+msgid "Header topbar area background color"
+msgstr "Color de fondo área topbar Header"
+
+#: ../inc/penguin-config.php:1135
+msgid "Topbar Background Hover Color"
+msgstr "Antecedentes Topbar Hover color"
+
+#: ../inc/penguin-config.php:1138
+msgid "Header topbar area background hover color"
+msgstr "Área topbar Header color de fondo estacionario"
+
+#: ../inc/penguin-config.php:1141
+msgid "Topbar Sub Menu Background Hover Color"
+msgstr "Topbar Sub Menu Background Hover color"
+
+#: ../inc/penguin-config.php:1144
+msgid "Header topbar area sub menu background hover color"
+msgstr "Área topbar Encabezado del submenú color de fondo estacionario"
+
+#: ../inc/penguin-config.php:1147
+msgid "Topbar Font Color"
+msgstr "Topbar Color de fuente"
+
+#: ../inc/penguin-config.php:1150
+msgid "Header topbar area font color"
+msgstr "Área topbar Header color de la fuente"
+
+#: ../inc/penguin-config.php:1153
+msgid "Topbar Hover Font Color"
+msgstr "Topbar Hover Color de fuente"
+
+#: ../inc/penguin-config.php:1156
+msgid "Header topbar area hover font color"
+msgstr "Área topbar Header color de fuente activable"
+
+#: ../inc/penguin-config.php:1161
+msgid "Header Menu Colors Setting"
+msgstr "Menú Header Configuración de colores"
+
+#: ../inc/penguin-config.php:1167
+msgid "Enable Menu Custom Color"
+msgstr "Habilitar el menú Color personalizado"
+
+#: ../inc/penguin-config.php:1175
+msgid "Menu Area Background Color"
+msgstr "Área de menú Color de fondo"
+
+#: ../inc/penguin-config.php:1182
+msgid "Menu Area Border Top Color"
+msgstr "Área de menú Border Color superior"
+
+#: ../inc/penguin-config.php:1189
+msgid "Menu Area Border Bottom Color"
+msgstr "Border Area menú Color de fondo"
+
+#: ../inc/penguin-config.php:1196
+msgid "Menu Item Font Color"
+msgstr "Elemento del menú Color de fuente"
+
+#: ../inc/penguin-config.php:1203
+msgid "Menu Item Hover Font Color"
+msgstr "Elemento del menú Hover Color de fuente"
+
+#: ../inc/penguin-config.php:1210
+msgid "Menu Item Hover Background Color"
+msgstr "Hover Elemento del menú Color de fondo"
+
+#: ../inc/penguin-config.php:1217
+msgid "Menu Sub Item Font Color"
+msgstr "Menú Sub Artículo Color de fuente"
+
+#: ../inc/penguin-config.php:1224
+msgid "Menu Sub Item Hover Font Color"
+msgstr "Menú Sub Artículo Hover Color de fuente"
+
+#: ../inc/penguin-config.php:1231
+msgid "Menu Sub Item Background Color"
+msgstr "Menú Sub Background Color del artículo"
+
+#: ../inc/penguin-config.php:1238
+msgid "Menu Sub Item Hover Background Color"
+msgstr "Menú Sub Hover Artículo Color de fondo"
+
+#: ../inc/penguin-config.php:1245
+msgid "Menu Sub Item Border Color"
+msgstr "Menú Sub artículo Color del borde"
+
+#: ../inc/penguin-config.php:1253
+msgid "Mega Menu Item Font Color"
+msgstr "Menú Mega Artículo Color de fuente"
+
+#: ../inc/penguin-config.php:1260
+msgid "Mega Menu Item Hover Font Color"
+msgstr "Menú Mega Artículo Hover Color de fuente"
+
+#: ../inc/penguin-config.php:1268
+msgid "Mega Sub Menu Item Font Color"
+msgstr "Menú Mega Sub Artículo Color de fuente"
+
+#: ../inc/penguin-config.php:1275
+msgid "Mega Sub Menu Item Hover Font Color"
+msgstr "Menú Mega Sub Artículo Hover Color de fuente"
+
+#: ../inc/penguin-config.php:1284
+msgid "Mega Background Color"
+msgstr "Antecedentes Mega color"
+
+#: ../inc/penguin-config.php:1291
+msgid "Mega Border Color"
+msgstr "Mega Color de borde"
+
+#: ../inc/penguin-config.php:1298
+msgid "Mega Item Border Bottom Color"
+msgstr "Border artículo Mega color de fondo"
+
+#: ../inc/penguin-config.php:1306
+msgid "Mega Vertical Menu Border Color"
+msgstr "Menú Mega Vertical Color del borde"
+
+#: ../inc/penguin-config.php:1321
+msgid "CSS"
+msgstr "CSS"
+
+#: ../inc/penguin-config.php:1322
+msgid "Custom CSS Setting"
+msgstr "Configuración de CSS personalizado"
+
+#: ../inc/penguin-config.php:1325 ../inc/penguin-config.php:1329
+msgid "Enable Custom CSS"
+msgstr "Habilitar CSS personalizado"
+
+#: ../inc/penguin-config.php:1331
+msgid "Check here enable custom css for theme"
+msgstr "Marque aquí permitirá css personalizado para el tema"
+
+#: ../inc/penguin-config.php:1338
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: ../inc/penguin-config.php:1346
+msgid "Custom Retina CSS"
+msgstr "Custom Retina CSS"
+
+#: ../inc/penguin-config.php:1362
+msgid "Scripts"
+msgstr "Scripts"
+
+#: ../inc/penguin-config.php:1363
+msgid "Custom Scripts Setting"
+msgstr "Configuración de Scripts personalizados"
+
+#: ../inc/penguin-config.php:1366 ../inc/penguin-config.php:1370
+msgid "Enable Custom Scripts"
+msgstr "Habilitar scripts personalizados"
+
+#: ../inc/penguin-config.php:1372
+msgid "Check here enable custom scripts for theme"
+msgstr "Marque aquí Habilite los scripts personalizados para el tema"
+
+#: ../inc/penguin-config.php:1379
+msgid "Custom Scripts"
+msgstr "Scripts personalizados"
+
+#: ../inc/penguin-config.php:1395
+msgid "Blog"
+msgstr "Blog"
+
+#: ../inc/penguin-config.php:1396
+msgid "Blog Setting"
+msgstr "Blog Ajuste"
+
+#: ../inc/penguin-config.php:1399
+msgid "Default Blog Page Setting"
+msgstr "Blog predeterminado Configuración de página"
+
+#: ../inc/penguin-config.php:1403
+msgid "Blog Style"
+msgstr "Blog Estilo"
+
+#: ../inc/penguin-config.php:1405
+msgid "Normal Style "
+msgstr "Estilo Normal "
+
+#: ../inc/penguin-config.php:1405
+msgid "Mini Style"
+msgstr "Mini Estilo"
+
+#: ../inc/penguin-config.php:1409
+msgid "Blog Category, Tags Style"
+msgstr "Blog categoría, las etiquetas Estilo"
+
+#: ../inc/penguin-config.php:1411
+msgid "Normal "
+msgstr "Estandard "
+
+#: ../inc/penguin-config.php:1411
+msgid "Masonry "
+msgstr "Masonry "
+
+#: ../inc/penguin-config.php:1415
+msgid "Default Masonry Page"
+msgstr "Por defecto Masonry Página"
+
+#: ../inc/penguin-config.php:1418
+msgid ""
+"Default blog page for category, tag show style just when you choose \"Masonry"
+"\" style."
+msgstr ""
+"Página del blog predeterminado para la categoría, etiqueta demostración "
+"estilo justo en el momento que elija estilo \"Albañilería \"."
+
+#: ../inc/penguin-config.php:1422 ../inc/penguin-config.php:1504
+msgid "Category for Single Post Breadchrumb"
+msgstr "Categoría de Mensaje Individual Breadchrumb"
+
+#: ../inc/penguin-config.php:1424 ../inc/penguin-config.php:1506
+msgid "Check to enable show single post breadchrumb with category"
+msgstr ""
+"Active para habilitar espectáculo único puesto breadchrumb con categoría"
+
+#: ../inc/penguin-config.php:1428 ../inc/penguin-config.php:1510
+msgid "Post View & Like Count"
+msgstr "Ver Entrada y Contador de Likes"
+
+#: ../inc/penguin-config.php:1430 ../inc/penguin-config.php:1512
+msgid "Turn on enable post page show view, like count information."
+msgstr ""
+"Encienda permitirá página de entrada Mostrar la presentación, al igual que "
+"información de la cuenta."
+
+#: ../inc/penguin-config.php:1434
+msgid "Author Information"
+msgstr "Información del Autor"
+
+#: ../inc/penguin-config.php:1436
+msgid "Turn on enable post page show author information."
+msgstr "Encienda permitirá página Post Mostrar información del autor."
+
+#: ../inc/penguin-config.php:1440 ../inc/penguin-config.php:1516
+msgid "Related Post Show"
+msgstr "Publicar similares Mostrar"
+
+#: ../inc/penguin-config.php:1442 ../inc/penguin-config.php:1518
+msgid "Turn on enable post page show related posts."
+msgstr "Encienda permitir mensajes página Post Show relacionados."
+
+#: ../inc/penguin-config.php:1449 ../inc/penguin-config.php:1525
+#: ../inc/penguin-config.php:2404 ../inc/penguin-config.php:2514
+msgid "Related Post Show Style"
+msgstr "Estilo para Mostrar Entradas Relacionadas"
+
+#: ../inc/penguin-config.php:1451 ../inc/penguin-config.php:1527
+#: ../inc/penguin-config.php:1565 ../inc/penguin-config.php:2406
+#: ../inc/penguin-config.php:2492 ../inc/penguin-config.php:2516
+#: ../inc/penguin-config.php:2574 ../inc/penguin-config.php:2734
+msgid "Style 1"
+msgstr "Estilo 1"
+
+#: ../inc/penguin-config.php:1451 ../inc/penguin-config.php:1527
+#: ../inc/penguin-config.php:1565 ../inc/penguin-config.php:2406
+#: ../inc/penguin-config.php:2492 ../inc/penguin-config.php:2516
+#: ../inc/penguin-config.php:2574 ../inc/penguin-config.php:2734
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: ../inc/penguin-config.php:1451 ../inc/penguin-config.php:1527
+#: ../inc/penguin-config.php:1565 ../inc/penguin-config.php:2406
+#: ../inc/penguin-config.php:2492 ../inc/penguin-config.php:2516
+#: ../inc/penguin-config.php:2574
+msgid "Style 3"
+msgstr "Estilo 3"
+
+#: ../inc/penguin-config.php:1451 ../inc/penguin-config.php:1527
+#: ../inc/penguin-config.php:2406 ../inc/penguin-config.php:2516
+#: ../inc/penguin-config.php:2574
+msgid "Style 4"
+msgstr "Estilo 4"
+
+#: ../inc/penguin-config.php:1451 ../inc/penguin-config.php:1527
+#: ../inc/penguin-config.php:2406 ../inc/penguin-config.php:2516
+#: ../inc/penguin-config.php:2574
+msgid "Style 5"
+msgstr "Estilo 5"
+
+#: ../inc/penguin-config.php:1489 ../inc/penguin-config.php:2853
+msgid "Portfolio"
+msgstr "Portafolio"
+
+#: ../inc/penguin-config.php:1490
+msgid "Portfolio Setting"
+msgstr "Configuración del Portafolio"
+
+#: ../inc/penguin-config.php:1493
+msgid "Default Portfolio Page Setting"
+msgstr "Por defecto Portafolio Configuración de página"
+
+#: ../inc/penguin-config.php:1497
+msgid "Default Portfolio Page"
+msgstr "Página por defecto del Portafolio"
+
+#: ../inc/penguin-config.php:1500
+msgid "Default portfolio page for category default show style."
+msgstr ""
+"Página de la cartera por defecto para la categoría espectáculo estilo por "
+"defecto."
+
+#: ../inc/penguin-config.php:1527 ../inc/penguin-config.php:2516
+#: ../inc/penguin-config.php:2574
+msgid "Style 6"
+msgstr "Estilo 6"
+
+#: ../inc/penguin-config.php:1527 ../inc/penguin-config.php:2516
+#: ../inc/penguin-config.php:2574
+msgid "Style 7"
+msgstr "Estilo 7"
+
+#: ../inc/penguin-config.php:1527 ../inc/penguin-config.php:2516
+#: ../inc/penguin-config.php:2574
+msgid "Style 8"
+msgstr "Estilo 8"
+
+#: ../inc/penguin-config.php:1559 ../inc/penguin-config.php:1563
+#: ../inc/penguin-config.php:2490
+msgid "Single Page Style"
+msgstr "Una sola página Estilo"
+
+#: ../inc/penguin-config.php:1581
+msgid "Social Links with http://"
+msgstr "Links sociales con http://"
+
+#: ../inc/penguin-config.php:1590
+msgid "Twitter"
+msgstr "Twitter."
+
+#: ../inc/penguin-config.php:1595
+msgid "Facebook"
+msgstr "Faceboo"
+
+#: ../inc/penguin-config.php:1600
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: ../inc/penguin-config.php:1605
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../inc/penguin-config.php:1610
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../inc/penguin-config.php:1615
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../inc/penguin-config.php:1620
+msgid "Skype"
+msgstr "Skype"
+
+#: ../inc/penguin-config.php:1625 ../inc/shortcodes.php:2366
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../inc/penguin-config.php:1630 ../inc/shortcodes.php:2405
+msgid "Vimeo"
+msgstr "Twitter"
+
+#: ../inc/penguin-config.php:1635
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: ../inc/penguin-config.php:1640
+msgid "Digg"
+msgstr "Digg"
+
+#: ../inc/penguin-config.php:1645
+msgid "Deviantart"
+msgstr "Deviantart"
+
+#: ../inc/penguin-config.php:1650
+msgid "Behance"
+msgstr "Behance"
+
+#: ../inc/penguin-config.php:1655
+msgid "Forrst"
+msgstr "Forrst"
+
+#: ../inc/penguin-config.php:1660
+msgid "Lastfm"
+msgstr "Lastfm"
+
+#: ../inc/penguin-config.php:1665
+msgid "XING"
+msgstr "XING"
+
+#: ../inc/penguin-config.php:1670
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../inc/penguin-config.php:1675
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: ../inc/penguin-config.php:1680
+msgid "Picasa"
+msgstr "Picasa"
+
+#: ../inc/penguin-config.php:1685
+msgid "Delicious"
+msgstr ""
+
+#: ../inc/penguin-config.php:1690
+msgid "Codepen"
+msgstr ""
+
+#: ../inc/penguin-config.php:1695
+msgid "Foursquare"
+msgstr ""
+
+#: ../inc/penguin-config.php:1700
+msgid "Trello"
+msgstr ""
+
+#: ../inc/penguin-config.php:1705
+msgid "Tumblr"
+msgstr ""
+
+#: ../inc/penguin-config.php:1710
+msgid "Github"
+msgstr ""
+
+#: ../inc/penguin-config.php:1719
+msgid "Update Log"
+msgstr "Novedades"
+
+#: ../inc/penguin-config.php:1719
+msgid "Update History"
+msgstr "Actualización de Historia"
+
+#: ../inc/penguin-config.php:1721
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: ../inc/penguin-config.php:1721
+msgid "Import/Export Options"
+msgstr "Importar / Opciones de exportación"
+
+#: ../inc/penguin-config.php:1723
+msgid "Get Support"
+msgstr "Get Support"
+
+#: ../inc/penguin-config.php:1995
+msgid "Welcome to setting MX theme style!"
+msgstr "Bienvenido a la configuración de estilo de tema MX!"
+
+#: ../inc/penguin-config.php:2018
+msgid "Layout Type"
+msgstr "Tipo diseño"
+
+#: ../inc/penguin-config.php:2020 ../inc/penguin-config.php:2044
+#: ../inc/penguin-config.php:2100 ../inc/penguin-config.php:2146
+#: ../inc/penguin-config.php:2192 ../inc/penguin-config.php:2238
+#: ../inc/penguin-config.php:2284
+msgid "Use Global"
+msgstr "Usar global"
+
+#: ../inc/penguin-config.php:2026
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: ../inc/penguin-config.php:2033
+msgid "Show Page Header Title"
+msgstr "Mostrar Encabezado de página Título"
+
+#: ../inc/penguin-config.php:2041
+msgid "Title Style"
+msgstr "Título Estilo"
+
+#: ../inc/penguin-config.php:2044
+msgid "left"
+msgstr "izquierda"
+
+#: ../inc/penguin-config.php:2044
+msgid "center"
+msgstr "centro"
+
+#: ../inc/penguin-config.php:2044
+msgid "right"
+msgstr "derecha"
+
+#: ../inc/penguin-config.php:2049
+msgid "Custom Title Content"
+msgstr "Título Personalizado contenido"
+
+#: ../inc/penguin-config.php:2053
+msgid "Support HTML Format content.<h1 class=\"title\"></h1>"
+msgstr "Soporte contenido HTML Formato. <h1 Class=\"title\"> </ h1>"
+
+#: ../inc/penguin-config.php:2056
+msgid "Custom Title Description"
+msgstr "Título personalizado Descripción"
+
+#: ../inc/penguin-config.php:2060
+msgid "Support HTML Format content"
+msgstr "Soporte contenido HTML Formato"
+
+#: ../inc/penguin-config.php:2063
+msgid "Show Title Breadcrumb"
+msgstr "Mostrar título Breadcrumb"
+
+#: ../inc/penguin-config.php:2070
+msgid "Slider Type"
+msgstr "Tipo deslizante"
+
+#: ../inc/penguin-config.php:2079
+msgid "Select Layer Slider"
+msgstr "Seleccione Capa deslizante"
+
+#: ../inc/penguin-config.php:2086
+msgid "Select Revolution Slider"
+msgstr "Selecciona Revolution Slider"
+
+#: ../inc/penguin-config.php:2098
+msgid "Page Body Background Type"
+msgstr "Fondo de Página"
+
+#: ../inc/penguin-config.php:2144
+msgid "Page Header Background Type"
+msgstr "Fondo del Encabezado"
+
+#: ../inc/penguin-config.php:2190
+msgid "Page Title Background Type"
+msgstr "Fondo del Título"
+
+#: ../inc/penguin-config.php:2236
+msgid "Page Content Background Type"
+msgstr "Contenido de la Página"
+
+#: ../inc/penguin-config.php:2282
+msgid "Page Footer Background Type"
+msgstr "Pie de página Tipo de fondo"
+
+#: ../inc/penguin-config.php:2341
+msgid "Copyright Background Color"
+msgstr "Derechos Reservados Color de fondo"
+
+#: ../inc/penguin-config.php:2348
+msgid "Copyright Border Top Color"
+msgstr "Derechos de autor Border Color superior"
+
+#: ../inc/penguin-config.php:2361 ../inc/penguin-config.php:2447
+#: ../inc/penguin-config.php:2558 ../inc/penguin-config.php:2809
+msgid "Page Option Setting"
+msgstr "Opción Configuración de página"
+
+#: ../inc/penguin-config.php:2372
+msgid "Post Options"
+msgstr "Opciones de Entrada"
+
+#: ../inc/penguin-config.php:2375 ../inc/penguin-config.php:2476
+msgid "Video Type"
+msgstr "Tipo de vídeo"
+
+#: ../inc/penguin-config.php:2381 ../inc/penguin-config.php:2483
+msgid "Video ID or Custom Code"
+msgstr "Video ID o código personalizado"
+
+#: ../inc/penguin-config.php:2383 ../inc/penguin-config.php:2485
+msgid "Youtube Id Example : \" OapE7K5KyG0 \""
+msgstr "Youtube Id Ejemplo: \"OapE7K5KyG0 \""
+
+#: ../inc/penguin-config.php:2387 ../inc/penguin-config.php:2470
+msgid "Gallery Images"
+msgstr "Galería de Imágenes"
+
+#: ../inc/penguin-config.php:2392
+msgid "Audio Type"
+msgstr "Tipo de audio"
+
+#: ../inc/penguin-config.php:2394
+msgid "Custom"
+msgstr "Personalizado"
+
+#: ../inc/penguin-config.php:2398
+msgid "Soundcloud Url or Custom Code"
+msgstr "Soundcloud Url o código personalizado"
+
+#: ../inc/penguin-config.php:2400
+msgid "Soundcloud Example: \" http://api.soundcloud.com/tracks/38987054\""
+msgstr "Soundcloud Ejemplo: \"http://api.soundcloud.com/tracks/38987054 \""
+
+#: ../inc/penguin-config.php:2406 ../inc/penguin-config.php:2492
+#: ../inc/penguin-config.php:2516
+msgid "Global Style"
+msgstr "Estilo Global"
+
+#: ../inc/penguin-config.php:2407 ../inc/penguin-config.php:2517
+msgid "As you alread enabld related show."
+msgstr ""
+"Debe estar activado Mostrar Entradas Relacionadas en las Opciones del Tema"
+
+#: ../inc/penguin-config.php:2420 ../inc/penguin-config.php:2531
+#: ../inc/penguin-config.php:2782 ../inc/penguin-config.php:2826
+msgid "Page Custom CSS, Scripts"
+msgstr "CSS y Scripts Personalizados"
+
+#: ../inc/penguin-config.php:2423 ../inc/penguin-config.php:2534
+#: ../inc/penguin-config.php:2785 ../inc/penguin-config.php:2829
+msgid "Custom Page CSS"
+msgstr "Personalizar CSS de la Página"
+
+#: ../inc/penguin-config.php:2428 ../inc/penguin-config.php:2539
+#: ../inc/penguin-config.php:2790 ../inc/penguin-config.php:2834
+msgid "Custom Page Retina CSS"
+msgstr "Personalizar CSS Retina de la Página"
+
+#: ../inc/penguin-config.php:2433 ../inc/penguin-config.php:2544
+#: ../inc/penguin-config.php:2795 ../inc/penguin-config.php:2839
+msgid "Custom Page Scripts"
+msgstr "Personalizar Scripts de página"
+
+#: ../inc/penguin-config.php:2458
+msgid "Portfolio Options"
+msgstr "Opciones Portafolio"
+
+#: ../inc/penguin-config.php:2461
+msgid "Portfolio Type"
+msgstr "Tipo Portafolio"
+
+#: ../inc/penguin-config.php:2463 ../inc/penguin-config.php:2951
+msgid "Gallery"
+msgstr "Galer&#225;a"
+
+#: ../inc/penguin-config.php:2463 ../inc/penguin-config.php:2952
+msgid "Video"
+msgstr "Vídeo"
+
+#: ../inc/penguin-config.php:2495 ../inc/penguin/tinymce/window.php:629
+#: ../template/portfolio/portfolio-single-style-1.php:101
+#: ../template/portfolio/portfolio-single-style-2.php:68
+#: ../template/portfolio/portfolio-single-style-3.php:99
+msgid "Client"
+msgstr "Cliente"
+
+#: ../inc/penguin-config.php:2499
+#: ../template/portfolio/portfolio-single-style-1.php:110
+#: ../template/portfolio/portfolio-single-style-2.php:77
+#: ../template/portfolio/portfolio-single-style-3.php:108
+msgid "Skills"
+msgstr "Habilidades "
+
+#: ../inc/penguin-config.php:2503
+msgid "Download Link"
+msgstr "Enlace de Descarga"
+
+#: ../inc/penguin-config.php:2507
+msgid "Custom Portfolio Fields"
+msgstr "Los campos Cartera personalizada"
+
+#: ../inc/penguin-config.php:2511
+msgid "Icon field use fontawesome icon name"
+msgstr "Uso en el campo Icono fontawesome nombre del icono"
+
+#: ../inc/penguin-config.php:2569
+msgid "Template Options"
+msgstr "Opciones de plantilla"
+
+#: ../inc/penguin-config.php:2572
+msgid "Portfolio Show Style"
+msgstr "Portafolio Mostrar Estilo"
+
+#: ../inc/penguin-config.php:2578
+msgid "Portfolio Show Columns"
+msgstr "Portafolio Mostrar Columnas"
+
+#: ../inc/penguin-config.php:2581 ../inc/penguin-config.php:2741
+msgid "2 Columns"
+msgstr "2 Columnas"
+
+#: ../inc/penguin-config.php:2581 ../inc/penguin-config.php:2741
+msgid "3 Columns"
+msgstr "3 Columnas"
+
+#: ../inc/penguin-config.php:2581 ../inc/penguin-config.php:2741
+msgid "4 Columns"
+msgstr "4 Columnas"
+
+#: ../inc/penguin-config.php:2585
+msgid "Per Page Show Number"
+msgstr "Por Pá gina Mostrar Número"
+
+#: ../inc/penguin-config.php:2591
+msgid "Page Image Don't Crop"
+msgstr "Imagen de la página no cosecha"
+
+#: ../inc/penguin-config.php:2594
+msgid "Turn on will show image didn't crop so that show full image."
+msgstr ""
+"Encienda mostrará la imagen no recortar de forma que muestran la imagen "
+"completa."
+
+#: ../inc/penguin-config.php:2598
+msgid "Show Portfolio Filters"
+msgstr "Mostrar Portafolio Filtros"
+
+#: ../inc/penguin-config.php:2606 ../inc/penguin-config.php:2751
+#: ../inc/penguin-config.php:2758
+msgid "Show Categories"
+msgstr "Mostrar Categorías"
+
+#: ../inc/penguin-config.php:2608 ../inc/penguin-config.php:2760
+msgid "Input portfolio category slug use \",\" like video,photo ."
+msgstr "Cartera de entrada categoría de uso bala \", \" como el vídeo, foto."
+
+#: ../inc/penguin-config.php:2612
+msgid "Support Tags"
+msgstr ""
+
+#: ../inc/penguin-config.php:2614
+msgid "If you enabled it then filters will support tags."
+msgstr ""
+
+#: ../inc/penguin-config.php:2618
+msgid "Show Tags (Enabled Tags)"
+msgstr "Mostrar Tags (Etiquetas Habilitado)"
+
+#: ../inc/penguin-config.php:2620
+msgid "Input portfolio tags slug use \",\" like black,image ."
+msgstr ""
+"Etiquetas de la cartera de entrada babosa uso \", \" como el negro, la "
+"imagen."
+
+#: ../inc/penguin-config.php:2625
+msgid "Show Map"
+msgstr "Ver mapa"
+
+#: ../inc/penguin-config.php:2633
+msgid "Map Show Height"
+msgstr "Mapa Mostrar Altura"
+
+#: ../inc/penguin-config.php:2641
+msgid "Map Skin"
+msgstr "Mapa de la piel"
+
+#: ../inc/penguin-config.php:2649
+msgid "Map Lat Lng"
+msgstr "Mapa Lat Lng"
+
+#: ../inc/penguin-config.php:2651
+msgid "e.g., 40.716038,-74.080811"
+msgstr "por ejemplo, 40.716038, -74.080811"
+
+#: ../inc/penguin-config.php:2657
+msgid "Map Address"
+msgstr "Mapa Dirección"
+
+#: ../inc/penguin-config.php:2659
+msgid "Support HTML , e.g., Company Name 123 street, New Valley , USA"
+msgstr ""
+"Soporte HTML, por ejemplo, Nombre de la Compañía 123 de la calle, New "
+"Valley, EE.UU."
+
+#: ../inc/penguin-config.php:2667
+msgid "Contact Form Enable"
+msgstr "Formulario de contacto de habilitación"
+
+#: ../inc/penguin-config.php:2670
+msgid "turn on enabled default contact template contact form."
+msgstr ""
+"encienda formulario de contacto habilitado por defecto contacto plantilla."
+
+#: ../inc/penguin-config.php:2676
+msgid "Contact Recipient Email"
+msgstr "Contacto Correo electrónico del destinatario"
+
+#: ../inc/penguin-config.php:2679
+msgid "It's just for default contact form. "
+msgstr "Es sólo por la forma de contacto predeterminado. "
+
+#: ../inc/penguin-config.php:2684
+#, fuzzy
+msgid "Sender Email Feedback"
+msgstr "Remitente Email Feedback"
+
+#: ../inc/penguin-config.php:2687
+msgid "If check sender will also get a success email when submit success. "
+msgstr ""
+"Si cheque remitente también recibirá un correo electrónico de éxito al "
+"presentar el éxito. "
+
+#: ../inc/penguin-config.php:2692
+msgid "Contact Form Recaptcha"
+msgstr "Formulario de contacto Reconocer texto"
+
+#: ../inc/penguin-config.php:2699
+msgid "Recaptcha Public Key"
+msgstr "reCAPTCHA Public Key"
+
+#: ../inc/penguin-config.php:2702
+msgid ""
+"<strong>The basic registration form requires</strong> that new users copy "
+"text from a \"Captcha\" image to keep spammers out of the site. You need an "
+"account at <a href=\"http://recaptcha.net/\">recaptcha.net</a>. Signing up "
+"is FREE and easy. Once you have signed up, come back here and enter the "
+"following settings:"
+msgstr ""
+"<strong> La forma básica de registro requiere </ strong> que los nuevos "
+"usuarios copiar texto de una imagen \"Captcha \" para mantener los spammers "
+"fuera del sitio. Usted necesita una cuenta en <a href=\"http://recaptcha.net/"
+"\"> recaptcha.net </ a>. Registrarse es gratis y fácil. Una vez que se haya "
+"registrado, vuelve aquí y escriba los siguientes valores:"
+
+#: ../inc/penguin-config.php:2707
+msgid "Recaptcha Private Key"
+msgstr "reCAPTCHA Private Key"
+
+#: ../inc/penguin-config.php:2714
+#, fuzzy
+msgid "Recaptcha Theme"
+msgstr "Reconocer texto Tema"
+
+#: ../inc/penguin-config.php:2722
+#, fuzzy
+msgid "Recaptcha Language"
+msgstr "Reconocer texto Idioma"
+
+#: ../inc/penguin-config.php:2732
+msgid "Posts Show Style"
+msgstr "Mensajes Mostrar Estilo"
+
+#: ../inc/penguin-config.php:2738
+msgid "Posts Show Columns"
+msgstr "Mensajes Mostrar Columnas"
+
+#: ../inc/penguin-config.php:2745
+msgid "Enabled Auto Load"
+msgstr "Habilitado carga automática"
+
+#: ../inc/penguin-config.php:2753
+msgid "Input posts category id use \",\" like video,photo ."
+msgstr ""
+"Mensajes de entrada categoría de uso Identificación del \", \" como el "
+"vídeo, foto."
+
+#: ../inc/penguin-config.php:2765
+msgid "Show Tags"
+msgstr "Mostrar Etiquetas"
+
+#: ../inc/penguin-config.php:2767
+msgid "Input portfolio tag slug use \",\" like video,photo ."
+msgstr "Cartera de entrada utilización tag babosa \", \" como el vídeo, foto."
+
+#: ../inc/penguin-config.php:2851 ../inc/penguin-config.php:2852
+#: ../page-sitemap.php:55
+msgid "Portfolios"
+msgstr "Portafolios"
+
+#: ../inc/penguin-config.php:2854 ../inc/penguin-config.php:2855
+msgid "Add New"
+msgstr "Aadir Nuevo"
+
+#: ../inc/penguin-config.php:2856
+msgid "Edit Portfolio"
+msgstr "Editar Portafolio"
+
+#: ../inc/penguin-config.php:2857
+msgid "New Portfolio"
+msgstr "Nuevo Portafolio"
+
+#: ../inc/penguin-config.php:2858
+msgid "All Portfolios"
+msgstr "Todos los Portafolios"
+
+#: ../inc/penguin-config.php:2859
+msgid "View Portfolio"
+msgstr "Ver Portafolio"
+
+#: ../inc/penguin-config.php:2860
+msgid "Search Portfolio"
+msgstr "Buscar portafolio"
+
+#: ../inc/penguin-config.php:2861
+msgid "No portfolio found"
+msgstr "No se han encontrado cartera"
+
+#: ../inc/penguin-config.php:2862
+msgid "No portfolio found in Trash"
+msgstr "No se han encontrado en la basura cartera"
+
+#: ../inc/penguin-config.php:2872 ../inc/penguin-config.php:2873
+#: ../inc/penguin-config.php:2874
+msgid "Portfolio Categories"
+msgstr "Categorías de Portafolio"
+
+#: ../inc/penguin-config.php:2875
+msgid "Search Portfolio Categories"
+msgstr "Buscar  Categorías de Portafolio"
+
+#: ../inc/penguin-config.php:2876
+msgid "All Portfolio Categories"
+msgstr "Todas las Categorías de proyectos"
+
+#: ../inc/penguin-config.php:2877
+msgid "Parent Category"
+msgstr "Categoría Superior"
+
+#: ../inc/penguin-config.php:2878
+msgid "Parent Category:"
+msgstr "Categoría Superior:"
+
+#: ../inc/penguin-config.php:2879
+msgid "Edit Portfolio Category"
+msgstr "Editar categoría de portafolio"
+
+#: ../inc/penguin-config.php:2880
+msgid "Update Portfolio Category"
+msgstr "Actualización de Categoría de portafolio"
+
+#: ../inc/penguin-config.php:2881
+msgid "Add Portfolio Category"
+msgstr "Añadir Portafolio Categoría"
+
+#: ../inc/penguin-config.php:2882
+msgid "New Portfolio Category"
+msgstr "Nueva cartera Categoría"
+
+#: ../inc/penguin-config.php:2888 ../inc/penguin-config.php:2889
+#: ../inc/penguin-config.php:2890
+msgid "Portfolio Tags"
+msgstr "Etiquetas portfolio"
+
+#: ../inc/penguin-config.php:2891
+msgid "Search Portfolio Tags"
+msgstr "Buscar etiquetas de portfolio"
+
+#: ../inc/penguin-config.php:2892
+msgid "All Portfolio Tags"
+msgstr "Todos Portafolio Etiquetas"
+
+#: ../inc/penguin-config.php:2893
+msgid "Parent Tag"
+msgstr "Etiqueta superior"
+
+#: ../inc/penguin-config.php:2894
+msgid "Parent Tag:"
+msgstr "Etiqueta superior:"
+
+#: ../inc/penguin-config.php:2895
+msgid "Edit Portfolio Tag"
+msgstr "Editar etiqueta Portafolio"
+
+#: ../inc/penguin-config.php:2896
+msgid "Update Portfolio Tag"
+msgstr "Tag actualización Portafolio"
+
+#: ../inc/penguin-config.php:2897
+msgid "Add Portfolio Tag"
+msgstr "Añadir etiqueta Portafolio"
+
+#: ../inc/penguin-config.php:2898
+msgid "New Portfolio Tag"
+msgstr "Tag Nuevo Portafolio"
+
+#: ../inc/penguin-config.php:2911
+msgid "Post Type"
+msgstr "Tipo de entrada"
+
+#: ../inc/penguin-config.php:2918 ../inc/penguin-config.php:2925
+msgid "Post View"
+msgstr "Mensaje Ver"
+
+#: ../inc/penguin-config.php:2919 ../inc/penguin-config.php:2926
+msgid "Post Like"
+msgstr "Mensaje Like"
+
+#. translators: %s: title of menu item which is invalid
+#: ../inc/penguin/modules/penguin-megamenu.php:427
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (No válido)"
+
+#. translators: %s: title of menu item in draft status
+#: ../inc/penguin/modules/penguin-megamenu.php:431
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Pendiente)"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:449
+msgid "Mega Menu"
+msgstr "Mega Menu"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:450
+msgid "Sub Menu"
+msgstr "Submenú"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:451
+msgid "sub item"
+msgstr "subtema"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:466
+msgid "Move up"
+msgstr ""
+
+#: ../inc/penguin/modules/penguin-megamenu.php:479
+msgid "Move down"
+msgstr ""
+
+#: ../inc/penguin/modules/penguin-megamenu.php:481
+#: ../inc/penguin/modules/penguin-megamenu.php:483
+msgid "Edit Menu Item"
+msgstr "Editar artículo del Menu"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:490
+msgid "Mega Menu Setting"
+msgstr "Menú Configuración Mega"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:494
+msgid "Mega Menu Enabled"
+msgstr "Mega Menu Activado"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:502
+msgid "Horizontal"
+msgstr "Horizontales"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:507
+msgid "Vertical"
+msgstr "Los digestores verticales"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:514
+msgid "Sub Menu Full Width Show Enabled"
+msgstr "Sub Menu Ancho completo Mostrar Activado"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:521
+msgid "Only Show Image Enabled"
+msgstr "Sólo Mostrar Imagen Activado"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:522
+msgid ""
+"The enabled need you input Image Url option and use menu default menu link."
+"Description can been showed when you already input."
+msgstr ""
+"La necesidad permitido que la opción Url de imagen de entrada y utilice el "
+"menú menú predeterminado link.Description Puede estado mostraste cuando ya "
+"de entrada."
+
+#: ../inc/penguin/modules/penguin-megamenu.php:528
+msgid "Widget Name (optional)"
+msgstr "Nombre Widget (opcional)"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:535
+msgid "Short Title (optional)"
+msgstr "Título corto (opcional)"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:542
+msgid "Image Url (optional)"
+msgstr "Url de la imagen (opcional)"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:549
+msgid "Image Link (optional)"
+msgstr "Enlace a la imagen (opcional)"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:556
+msgid "Description (optional)"
+msgstr "Descripción (opcional)"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:566
+msgid "URL"
+msgstr "URL áéíóú"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:573
+msgid "Navigation Label"
+msgstr "Etiqueta de Navegación"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:579
+msgid "Title Attribute"
+msgstr "Título de atributo:"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:586
+msgid "Open link in a new window/tab"
+msgstr "Abrir enlace en una nueva ventana/pestaña"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:591
+msgid "CSS Classes (optional)"
+msgstr "Clases CSS (opcional)"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:597
+msgid "Link Relationship (XFN)"
+msgstr "Enlace Relación (XFN)"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:603
+msgid "Description"
+msgstr "Descripción"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:605
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "La descripción se mostrará en el menú si el tema actual lo admite."
+
+#: ../inc/penguin/modules/penguin-megamenu.php:611
+msgid "Move"
+msgstr "Movilidad"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:612
+msgid "Up one"
+msgstr "Subir un"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:613
+msgid "Down one"
+msgstr "Abajo una"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:616
+msgid "To the top"
+msgstr "Volver al principio"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:623
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:636
+#: ../inc/tools/sidebar_generator.php:239
+msgid "Remove"
+msgstr "Eliminar"
+
+#: ../inc/penguin/modules/penguin-megamenu.php:637
+#: ../inc/penguin/tinymce/window.php:803
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../inc/penguin/modules/penguin-option.php:313
+msgid "Theme Version "
+msgstr "Versión del Tma "
+
+#: ../inc/penguin/modules/penguin-option.php:313
+msgid " available for update!"
+msgstr " disponible para la actualización!"
+
+#: ../inc/penguin/modules/penguin-option.php:315
+msgid "You are using the latest version of the theme!"
+msgstr "¡Estás utilizando la última versión del tema!"
+
+#: ../inc/penguin/penguin-functions.php:23
+#: ../inc/penguin/penguin-functions.php:57
+#, fuzzy
+msgid "Select a slider"
+msgstr "Seleccione un slider"
+
+#: ../inc/penguin/penguin.php:47
+msgid "You had back all setting to default value complete!"
+msgstr ""
+"De nuevo todo lo que tenía la configuración al valor por defecto completo!"
+
+#: ../inc/penguin/penguin.php:48
+msgid "Setting Complete!"
+msgstr "Configuración completa!"
+
+#: ../inc/penguin/penguin.php:49
+msgid "Reset to default"
+msgstr "Empezar modo oculto"
+
+#: ../inc/penguin/penguin.php:50
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: ../inc/penguin/penguin.php:51
+msgid "Notice: you had select back all setting to default value!"
+msgstr ""
+"Aviso: usted había seleccione de nuevo todos los ajustes al valor por "
+"defecto!"
+
+#: ../inc/penguin/penguin.php:52
+msgid "have no any php file for show"
+msgstr "no tienen ningún archivo PHP para el espectáculo"
+
+#: ../inc/penguin/penguin.php:53
+msgid "have no any content for this page"
+msgstr "no tienen ningún contenido de esta página"
+
+#: ../inc/penguin/penguin.php:54
+msgid ""
+"Paste the export code into the import text area field in your new site "
+"option and press \"Import\" button."
+msgstr ""
+"Pegue el código de exportación en el campo de área de texto de importación "
+"en su nueva opción de sitio y pulse el botón \"Importar \"."
+
+#: ../inc/penguin/penguin.php:55
+msgid "Import Options"
+msgstr "Opciones de importación"
+
+#: ../inc/penguin/penguin.php:56
+msgid "Export Options"
+msgstr "Opciones de exportación"
+
+#: ../inc/penguin/penguin.php:57
+msgid "Upload"
+msgstr "Subir"
+
+#: ../inc/penguin/penguin.php:58
+msgid "You have no add any element for meta"
+msgstr "Usted no ha añadir cualquier elemento de meta"
+
+#: ../inc/penguin/penguin.php:59
+msgid "Add Field"
+msgstr "Agregar campo"
+
+#: ../inc/penguin/penguin.php:60
+msgid "Delete All"
+msgstr "Eliminar Todo"
+
+#: ../inc/penguin/penguin.php:61
+msgid "Custom Field Config Error"
+msgstr "Configuración de campos personalizados Error"
+
+#: ../inc/penguin/penguin.php:62
+msgid "Add Image"
+msgstr "Agregar imagen"
+
+#: ../inc/penguin/tinymce/ajax.php:15
+msgid "You are not allowed to be here"
+msgstr "No tiene permitido estar aquí"
+
+#: ../inc/penguin/tinymce/window.php:75
+msgid "Current Element:"
+msgstr "Elemento actual:"
+
+#: ../inc/penguin/tinymce/window.php:78
+msgid "Choose Insert Shortcode"
+msgstr "Elija Insertar Código corto"
+
+#: ../inc/penguin/tinymce/window.php:145 ../inc/penguin/tinymce/window.php:173
+msgid "Show line"
+msgstr "Mostrar línea"
+
+#: ../inc/penguin/tinymce/window.php:146
+msgid "Space size"
+msgstr "Tamaño del espacio:"
+
+#: ../inc/penguin/tinymce/window.php:147
+msgid "Line style"
+msgstr "Estilo de línea"
+
+#: ../inc/penguin/tinymce/window.php:153 ../inc/penguin/tinymce/window.php:169
+#: ../inc/penguin/tinymce/window.php:199 ../inc/penguin/tinymce/window.php:295
+#: ../inc/penguin/tinymce/window.php:485 ../inc/penguin/tinymce/window.php:503
+#: ../inc/penguin/tinymce/window.php:524 ../inc/penguin/tinymce/window.php:536
+#: ../inc/penguin/tinymce/window.php:554 ../inc/penguin/tinymce/window.php:607
+msgid "Icon name"
+msgstr "Nombre Icono"
+
+#: ../inc/penguin/tinymce/window.php:153 ../inc/penguin/tinymce/window.php:536
+msgid "FontAwesome icon name e.g. fa-flag"
+msgstr "FontAwesome nombre del icono por ejemplo, fa-bandera"
+
+#: ../inc/penguin/tinymce/window.php:154 ../inc/penguin/tinymce/window.php:170
+msgid "Icon size"
+msgstr "Tamaño de icono"
+
+#: ../inc/penguin/tinymce/window.php:155 ../inc/shortcodes.php:2061
+msgid "Icon color"
+msgstr "Color del icono"
+
+#: ../inc/penguin/tinymce/window.php:155
+msgid "Custom icon color."
+msgstr "Color Personalizado icono."
+
+#: ../inc/penguin/tinymce/window.php:156
+msgid "Icon style"
+msgstr "Icono de estilo"
+
+#: ../inc/penguin/tinymce/window.php:156
+msgid "Custom icon style.(Options)"
+msgstr "Estilo de icono personalizado. (Opciones)"
+
+#: ../inc/penguin/tinymce/window.php:162 ../inc/penguin/tinymce/window.php:186
+#: ../inc/penguin/tinymce/window.php:737
+msgid "Class name"
+msgstr "Nombre de clase"
+
+#: ../inc/penguin/tinymce/window.php:162
+msgid "Custom title class name.(Options)"
+msgstr "Título propio nombre de la clase. (Opciones)"
+
+#: ../inc/penguin/tinymce/window.php:163 ../inc/penguin/tinymce/window.php:195
+#: ../inc/penguin/tinymce/window.php:285 ../inc/penguin/tinymce/window.php:305
+#: ../inc/penguin/tinymce/window.php:350 ../inc/penguin/tinymce/window.php:381
+#: ../inc/penguin/tinymce/window.php:445 ../inc/penguin/tinymce/window.php:460
+#: ../inc/penguin/tinymce/window.php:671 ../inc/penguin/tinymce/window.php:710
+#: ../inc/tools/class-tgm-plugin-activation.php:1297
+msgid "Type"
+msgstr "Tipo:"
+
+#: ../inc/penguin/tinymce/window.php:164 ../inc/penguin/tinymce/window.php:494
+#: ../inc/penguin/tinymce/window.php:569
+msgid "Align"
+msgstr "Alinear"
+
+#: ../inc/penguin/tinymce/window.php:165 ../inc/penguin/tinymce/window.php:194
+#: ../inc/penguin/tinymce/window.php:304
+msgid "Text"
+msgstr "Texto"
+
+#: ../inc/penguin/tinymce/window.php:165
+msgid "Title text value."
+msgstr "Valor de texto Título."
+
+#: ../inc/penguin/tinymce/window.php:166
+msgid "Text size"
+msgstr "Tamaño de texto"
+
+#: ../inc/penguin/tinymce/window.php:167
+msgid "Text uppercase"
+msgstr "Texto en mayúsculas"
+
+#: ../inc/penguin/tinymce/window.php:168
+msgid "Text bold"
+msgstr "Texto en negrita"
+
+#: ../inc/penguin/tinymce/window.php:169 ../inc/penguin/tinymce/window.php:199
+#: ../inc/penguin/tinymce/window.php:295 ../inc/penguin/tinymce/window.php:485
+#: ../inc/penguin/tinymce/window.php:503 ../inc/penguin/tinymce/window.php:524
+#: ../inc/penguin/tinymce/window.php:554
+msgid "FontAwesome icon name e.g. fa-flag (Options)"
+msgstr "FontAwesome nombre del icono por ejemplo, fa-flag (Opciones)"
+
+#: ../inc/penguin/tinymce/window.php:171
+msgid "Show text background"
+msgstr "Mostrar fondo de texto"
+
+#: ../inc/penguin/tinymce/window.php:172
+msgid "Text background radius"
+msgstr "Radio de fondo del texto"
+
+#: ../inc/penguin/tinymce/window.php:174
+msgid "Line align"
+msgstr "Línea align"
+
+#: ../inc/penguin/tinymce/window.php:175
+msgid "Text or Icon color"
+msgstr "El texto o icono de color"
+
+#: ../inc/penguin/tinymce/window.php:176 ../inc/penguin/tinymce/window.php:200
+#: ../inc/penguin/tinymce/window.php:242 ../inc/penguin/tinymce/window.php:275
+#: ../inc/penguin/tinymce/window.php:307 ../inc/penguin/tinymce/window.php:315
+#: ../inc/penguin/tinymce/window.php:416 ../inc/penguin/tinymce/window.php:434
+#: ../inc/penguin/tinymce/window.php:449 ../inc/penguin/tinymce/window.php:465
+msgid "Background color"
+msgstr "Color del fondo"
+
+#: ../inc/penguin/tinymce/window.php:177
+msgid "Line color"
+msgstr "Color de línea"
+
+#: ../inc/penguin/tinymce/window.php:178
+msgid "Icon type text color "
+msgstr "Tipo Icon color del texto "
+
+#: ../inc/penguin/tinymce/window.php:179 ../inc/penguin/tinymce/window.php:263
+#: ../inc/penguin/tinymce/window.php:372 ../inc/penguin/tinymce/window.php:512
+#: ../inc/penguin/tinymce/window.php:535 ../inc/penguin/tinymce/window.php:563
+#: ../inc/penguin/tinymce/window.php:579 ../inc/penguin/tinymce/window.php:595
+#: ../inc/penguin/tinymce/window.php:670 ../inc/penguin/tinymce/window.php:686
+#: ../inc/penguin/tinymce/window.php:697 ../inc/penguin/tinymce/window.php:709
+#: ../inc/penguin/tinymce/window.php:725 ../inc/penguin/tinymce/window.php:738
+msgid "Style"
+msgstr "Estilo"
+
+#: ../inc/penguin/tinymce/window.php:179 ../inc/shortcodes.php:1959
+msgid "Icon or Text Style CSS"
+msgstr "Icono o estilo de texto CSS"
+
+#: ../inc/penguin/tinymce/window.php:185
+msgid "Content area ID. (options)"
+msgstr "Contenido ID de área. (Opciones)"
+
+#: ../inc/penguin/tinymce/window.php:186
+msgid "Custom content area class name.(Options)"
+msgstr "Área Custom contenido nombre de clase. (Opciones)"
+
+#: ../inc/penguin/tinymce/window.php:187 ../inc/penguin/tinymce/window.php:452
+msgid "Content align"
+msgstr "Align contenido"
+
+#: ../inc/penguin/tinymce/window.php:188 ../inc/penguin/tinymce/window.php:211
+#: ../inc/penguin/tinymce/window.php:296 ../inc/penguin/tinymce/window.php:316
+#: ../inc/penguin/tinymce/window.php:332 ../inc/penguin/tinymce/window.php:344
+#: ../inc/penguin/tinymce/window.php:364 ../inc/penguin/tinymce/window.php:421
+#: ../inc/penguin/tinymce/window.php:439 ../inc/penguin/tinymce/window.php:539
+#: ../inc/penguin/tinymce/window.php:572
+msgid "Input content."
+msgstr "El contenido de entrada."
+
+#: ../inc/penguin/tinymce/window.php:196 ../inc/penguin/tinymce/window.php:410
+#: ../inc/penguin/tinymce/window.php:428
+msgid "Size"
+msgstr "Tamaño"
+
+#: ../inc/penguin/tinymce/window.php:197 ../inc/penguin/tinymce/window.php:254
+#: ../inc/penguin/tinymce/window.php:383 ../inc/penguin/tinymce/window.php:414
+#: ../inc/penguin/tinymce/window.php:432 ../inc/penguin/tinymce/window.php:463
+#: ../inc/penguin/tinymce/window.php:522 ../inc/penguin/tinymce/window.php:537
+#: ../inc/penguin/tinymce/window.php:553 ../inc/penguin/tinymce/window.php:587
+#: ../inc/penguin/tinymce/window.php:598 ../inc/penguin/tinymce/window.php:608
+#: ../inc/penguin/tinymce/window.php:634 ../inc/shortcodes.php:2657
+msgid "Link"
+msgstr "Enlace"
+
+#: ../inc/penguin/tinymce/window.php:198 ../inc/penguin/tinymce/window.php:255
+#: ../inc/penguin/tinymce/window.php:415 ../inc/penguin/tinymce/window.php:433
+#: ../inc/penguin/tinymce/window.php:464 ../inc/penguin/tinymce/window.php:609
+msgid "Link target"
+msgstr "Destino del enlace"
+
+#: ../inc/penguin/tinymce/window.php:201 ../inc/penguin/tinymce/window.php:417
+#: ../inc/penguin/tinymce/window.php:435 ../inc/penguin/tinymce/window.php:466
+msgid "Background hover color"
+msgstr "Color del fondo libración"
+
+#: ../inc/penguin/tinymce/window.php:202 ../inc/penguin/tinymce/window.php:418
+#: ../inc/penguin/tinymce/window.php:436 ../inc/penguin/tinymce/window.php:467
+msgid "Font color"
+msgstr "Color de fuente"
+
+#: ../inc/penguin/tinymce/window.php:203 ../inc/penguin/tinymce/window.php:419
+#: ../inc/penguin/tinymce/window.php:437 ../inc/penguin/tinymce/window.php:468
+msgid "Font hover color"
+msgstr "Color de la libración de fuentes"
+
+#: ../inc/penguin/tinymce/window.php:209
+msgid "Alert Type"
+msgstr "Tipo de alerta"
+
+#: ../inc/penguin/tinymce/window.php:210 ../inc/shortcodes.php:2236
+msgid "Alert Message Close"
+msgstr "Mensaje de alerta Cerrar"
+
+#: ../inc/penguin/tinymce/window.php:217 ../inc/shortcodes.php:2265
+msgid "LatLng"
+msgstr "LatLng"
+
+#: ../inc/penguin/tinymce/window.php:217
+msgid "The map LatLng value from google map.e.g. 36.597889,-86.234436"
+msgstr "El mapa LatLng valor de google map.eg 36.597889, -86.234436"
+
+#: ../inc/penguin/tinymce/window.php:218
+msgid "Map width"
+msgstr "Ancho Mapa"
+
+#: ../inc/penguin/tinymce/window.php:219
+msgid "Map height"
+msgstr "Mapa de altura"
+
+#: ../inc/penguin/tinymce/window.php:220 ../inc/shortcodes.php:2292
+msgid "Map Zoom"
+msgstr "Mapa zoom"
+
+#: ../inc/penguin/tinymce/window.php:221 ../inc/shortcodes.php:2301
+msgid "Draggable"
+msgstr "Arrastrable"
+
+#: ../inc/penguin/tinymce/window.php:222 ../inc/shortcodes.php:2310
+msgid "Scroll Wheel"
+msgstr "Rueda de desplazamiento"
+
+#: ../inc/penguin/tinymce/window.php:223 ../inc/shortcodes.php:2319
+msgid "Show Marker"
+msgstr "Mostrar Marker"
+
+#: ../inc/penguin/tinymce/window.php:224 ../inc/shortcodes.php:2328
+msgid "Show Address Information"
+msgstr "Información Mostrar Dirección"
+
+#: ../inc/penguin/tinymce/window.php:224 ../inc/shortcodes.php:2331
+msgid "The map show info box of address."
+msgstr "El mapa muestra el cuadro de información de dirección."
+
+#: ../inc/penguin/tinymce/window.php:225
+msgid "Information Theme"
+msgstr "Información categoría"
+
+#: ../inc/penguin/tinymce/window.php:226
+msgid "Information Width"
+msgstr "Información Ancho"
+
+#: ../inc/penguin/tinymce/window.php:226 ../inc/shortcodes.php:2349
+msgid "The map info address box width."
+msgstr "El mapa info ancho de la caja de dirección."
+
+#: ../inc/penguin/tinymce/window.php:228
+msgid "Input address content."
+msgstr "Contenido de la dirección de entrada."
+
+#: ../inc/penguin/tinymce/window.php:234
+msgid "The need show socials account use ',' e.g. twitter,facebook(Options)"
+msgstr ""
+"Los necesidad muestran eventos sociales representan el uso ',' por ejemplo, "
+"Twitter, Facebook (Opciones)"
+
+#: ../inc/penguin/tinymce/window.php:235 ../inc/shortcodes.php:2550
+msgid "Page Title"
+msgstr "Título de la página"
+
+#: ../inc/penguin/tinymce/window.php:236 ../inc/shortcodes.php:2542
+msgid "Page URL"
+msgstr "URL de la página"
+
+#: ../inc/penguin/tinymce/window.php:243
+msgid "Show Circle Style"
+msgstr "Estilo Mostrar Circle"
+
+#: ../inc/penguin/tinymce/window.php:244
+msgid "Show Tooltip"
+msgstr "Mostrar Tooltip"
+
+#: ../inc/penguin/tinymce/window.php:245
+msgid "Tooltip Placement"
+msgstr "Colocación Tooltip"
+
+#: ../inc/penguin/tinymce/window.php:248
+msgid "Social Item"
+msgstr "Artículo Social"
+
+#: ../inc/penguin/tinymce/window.php:252
+msgid "Social type"
+msgstr "Tipo Social"
+
+#: ../inc/penguin/tinymce/window.php:253 ../inc/penguin/tinymce/window.php:271
+#: ../inc/penguin/tinymce/window.php:329 ../inc/penguin/tinymce/window.php:340
+#: ../inc/penguin/tinymce/window.php:409 ../inc/penguin/tinymce/window.php:427
+#: ../inc/penguin/tinymce/window.php:446 ../inc/penguin/tinymce/window.php:484
+#: ../inc/penguin/tinymce/window.php:502 ../inc/penguin/tinymce/window.php:520
+#: ../inc/penguin/tinymce/window.php:533 ../inc/penguin/tinymce/window.php:586
+#: ../inc/shortcodes.php:1871 ../inc/shortcodes.php:2649
+#: ../inc/shortcodes.php:2651
+msgid "Title"
+msgstr "Título"
+
+#: ../inc/penguin/tinymce/window.php:264
+msgid "Border Circle Style"
+msgstr "Borde de círculo de Estilo"
+
+#: ../inc/penguin/tinymce/window.php:267
+msgid "Skill Item"
+msgstr "Habilidad Objeto"
+
+#: ../inc/penguin/tinymce/window.php:271
+msgid "Skill Name"
+msgstr "Habilidad Nombre"
+
+#: ../inc/penguin/tinymce/window.php:272
+msgid "Percent"
+msgstr "Porcentaje"
+
+#: ../inc/penguin/tinymce/window.php:273
+msgid "Custom Text"
+msgstr "Texto personalizado"
+
+#: ../inc/penguin/tinymce/window.php:273
+msgid "Custom text replace percent number (Options)"
+msgstr "Texto personalizado reemplace número ciento (Opciones)"
+
+#: ../inc/penguin/tinymce/window.php:274
+msgid "Progress color"
+msgstr "Color de Progreso"
+
+#: ../inc/penguin/tinymce/window.php:276
+msgid "Title color"
+msgstr "Título del color"
+
+#: ../inc/penguin/tinymce/window.php:277
+msgid "Percent color"
+msgstr "Porcentaje del color"
+
+#: ../inc/penguin/tinymce/window.php:286 ../inc/penguin/tinymce/window.php:322
+#: ../inc/penguin/tinymce/window.php:343 ../inc/penguin/tinymce/window.php:354
+#: ../inc/penguin/tinymce/window.php:420 ../inc/penguin/tinymce/window.php:438
+#: ../inc/penguin/tinymce/window.php:453 ../inc/penguin/tinymce/window.php:477
+#: ../inc/penguin/tinymce/window.php:495 ../inc/penguin/tinymce/window.php:513
+#: ../inc/penguin/tinymce/window.php:538 ../inc/penguin/tinymce/window.php:546
+#: ../inc/penguin/tinymce/window.php:571 ../inc/penguin/tinymce/window.php:600
+#: ../inc/penguin/tinymce/window.php:626 ../inc/penguin/tinymce/window.php:678
+#: ../inc/penguin/tinymce/window.php:717
+msgid "Effect"
+msgstr "Efecto"
+
+#: ../inc/penguin/tinymce/window.php:287
+msgid "Bullets color"
+msgstr "Las balas de color"
+
+#: ../inc/penguin/tinymce/window.php:288 ../inc/penguin/tinymce/window.php:306
+#: ../inc/penguin/tinymce/window.php:313
+msgid "Text color"
+msgstr "Color de Texto"
+
+#: ../inc/penguin/tinymce/window.php:291
+msgid "Bullet Item"
+msgstr "Bullet Artículo"
+
+#: ../inc/penguin/tinymce/window.php:314
+msgid "Border color"
+msgstr "Color del borde"
+
+#: ../inc/penguin/tinymce/window.php:325
+msgid "Accordion Item"
+msgstr "Acordeón artículo"
+
+#: ../inc/penguin/tinymce/window.php:330 ../inc/penguin/tinymce/window.php:341
+msgid "Open"
+msgstr "Abrir"
+
+#: ../inc/penguin/tinymce/window.php:331 ../inc/penguin/tinymce/window.php:342
+msgid "Icon Background color"
+msgstr "El color de fondo del icono"
+
+#: ../inc/penguin/tinymce/window.php:351 ../inc/penguin/tinymce/window.php:373
+#: ../inc/penguin/tinymce/window.php:392 ../inc/shortcodes.php:2489
+msgid "Auto Play"
+msgstr "Reproducción Automática"
+
+#: ../inc/penguin/tinymce/window.php:352 ../inc/penguin/tinymce/window.php:374
+#: ../inc/penguin/tinymce/window.php:393
+msgid "Delay Time"
+msgstr "Tiempo de retardo"
+
+#: ../inc/penguin/tinymce/window.php:353
+msgid "Show Nav Button"
+msgstr "Mostrar Nav Button"
+
+#: ../inc/penguin/tinymce/window.php:357
+msgid "Testimonials Item"
+msgstr "Testimonios artículo"
+
+#: ../inc/penguin/tinymce/window.php:362 ../inc/penguin/tinymce/window.php:597
+msgid "Job"
+msgstr "Oferta de empleo"
+
+#: ../inc/penguin/tinymce/window.php:363 ../inc/penguin/tinymce/window.php:382
+#: ../inc/penguin/tinymce/window.php:400 ../inc/penguin/tinymce/window.php:633
+msgid "Image url"
+msgstr "URL de la imagen"
+
+#: ../inc/penguin/tinymce/window.php:377
+msgid "Flexslider Item"
+msgstr "Flexslider artículo"
+
+#: ../inc/penguin/tinymce/window.php:384
+msgid "Input video content when video type."
+msgstr "Contenido de vídeo de entrada cuando el tipo de vídeo."
+
+#: ../inc/penguin/tinymce/window.php:396
+msgid "Carousel Item"
+msgstr "Artículo Carousel"
+
+#: ../inc/penguin/tinymce/window.php:411 ../inc/penguin/tinymce/window.php:429
+#: ../inc/shortcodes.php:2127
+msgid "Button Title"
+msgstr "Botón Título"
+
+#: ../inc/penguin/tinymce/window.php:412 ../inc/penguin/tinymce/window.php:430
+msgid "Button Type"
+msgstr "Tipo de botón"
+
+#: ../inc/penguin/tinymce/window.php:413 ../inc/penguin/tinymce/window.php:431
+#: ../inc/penguin/tinymce/window.php:462 ../inc/shortcodes.php:2153
+msgid "Button Size"
+msgstr "Botón Tamaño"
+
+#: ../inc/penguin/tinymce/window.php:447 ../woocommerce/loop/orderby.php:77
+msgid "Price"
+msgstr "Precio"
+
+#: ../inc/penguin/tinymce/window.php:448
+#, fuzzy
+msgid "Plan"
+msgstr "Plan"
+
+#: ../inc/penguin/tinymce/window.php:450
+msgid "Title background color"
+msgstr "Título Fondo"
+
+#: ../inc/penguin/tinymce/window.php:451
+msgid "Content background color"
+msgstr "Contenido color de fondo"
+
+#: ../inc/penguin/tinymce/window.php:456
+msgid "Price Item"
+msgstr "Precio del artículo"
+
+#: ../inc/penguin/tinymce/window.php:461
+msgid "Button text"
+msgstr "Texto del botón"
+
+#: ../inc/penguin/tinymce/window.php:480
+msgid "Tab Item"
+msgstr "Ficha Elemento"
+
+#: ../inc/penguin/tinymce/window.php:498
+msgid "Sidetabs Item"
+msgstr "Sidetabs artículo"
+
+#: ../inc/penguin/tinymce/window.php:516
+msgid "Timeline Item"
+msgstr "Artículo Cronología"
+
+#: ../inc/penguin/tinymce/window.php:521
+#: ../template/portfolio/portfolio-single-style-1.php:82
+#: ../template/portfolio/portfolio-single-style-2.php:49
+#: ../template/portfolio/portfolio-single-style-3.php:80
+msgid "Date"
+msgstr "Fecha"
+
+#: ../inc/penguin/tinymce/window.php:523
+#: ../inc/tools/class-tgm-plugin-activation.php:1298
+msgid "Status"
+msgstr "Estado"
+
+#: ../inc/penguin/tinymce/window.php:534
+msgid "Layout"
+msgstr "Diseño"
+
+#: ../inc/penguin/tinymce/window.php:535
+msgid "Can use circle/rect bg cover"
+msgstr "Puede utilizar la cubierta bg círculo / rect"
+
+#: ../inc/penguin/tinymce/window.php:545
+msgid "Border"
+msgstr "Borde"
+
+#: ../inc/penguin/tinymce/window.php:549
+#, fuzzy
+msgid "Services Item"
+msgstr "Servicios del artículo"
+
+#: ../inc/penguin/tinymce/window.php:564
+msgid "Prefix"
+msgstr "Prefijo"
+
+#: ../inc/penguin/tinymce/window.php:565
+msgid "Suffix"
+msgstr "Título"
+
+#: ../inc/penguin/tinymce/window.php:566
+msgid "Start"
+msgstr "Comencemos"
+
+#: ../inc/penguin/tinymce/window.php:567
+msgid "Step"
+msgstr "Paso"
+
+#: ../inc/penguin/tinymce/window.php:568
+msgid "End"
+msgstr "Hast"
+
+#: ../inc/penguin/tinymce/window.php:570
+msgid "Circle color"
+msgstr "Color del círculo"
+
+#: ../inc/penguin/tinymce/window.php:578
+msgid "Position"
+msgstr "Posición"
+
+#: ../inc/penguin/tinymce/window.php:582
+msgid "Page Nav Item"
+msgstr "Página Retroceder"
+
+#: ../inc/penguin/tinymce/window.php:599
+msgid "Style 1 show job"
+msgstr "Estilo 1 muestran trabajo"
+
+#: ../inc/penguin/tinymce/window.php:607
+msgid "FontAwesome icon name e.g. fa-twitter"
+msgstr "FontAwesome nombre del icono por ejemplo, fa-Twitter"
+
+#: ../inc/penguin/tinymce/window.php:615
+msgid "Person Details"
+msgstr "Datos personales"
+
+#: ../inc/penguin/tinymce/window.php:635
+msgid "Alt"
+msgstr "Alt"
+
+#: ../inc/penguin/tinymce/window.php:644 ../inc/shortcodes.php:2376
+msgid "Youtube ID"
+msgstr "YouTube ID"
+
+#: ../inc/penguin/tinymce/window.php:644 ../inc/shortcodes.php:2379
+msgid "Enter video ID (eg.6htyfxPkYDU)."
+msgstr "Introduzca el ID del vídeo (eg.6htyfxPkYDU)."
+
+#: ../inc/penguin/tinymce/window.php:645 ../inc/penguin/tinymce/window.php:653
+#: ../inc/penguin/tinymce/window.php:661 ../inc/shortcodes.php:2385
+#: ../inc/shortcodes.php:2424 ../inc/shortcodes.php:2471
+msgid "Width"
+msgstr "Ancho"
+
+#: ../inc/penguin/tinymce/window.php:646 ../inc/penguin/tinymce/window.php:654
+#: ../inc/penguin/tinymce/window.php:662 ../inc/shortcodes.php:2394
+#: ../inc/shortcodes.php:2433 ../inc/shortcodes.php:2480
+msgid "Height"
+msgstr "Altura"
+
+#: ../inc/penguin/tinymce/window.php:652 ../inc/shortcodes.php:2415
+msgid "Vimeo ID"
+msgstr "Vimeo ID"
+
+#: ../inc/penguin/tinymce/window.php:652 ../inc/shortcodes.php:2418
+msgid "Enter video ID (eg.54578415)."
+msgstr "Introduzca el ID del vídeo (eg.54578415)."
+
+#: ../inc/penguin/tinymce/window.php:660 ../inc/shortcodes.php:2454
+msgid "Soundcloud URL"
+msgstr "Soundcloud URL"
+
+#: ../inc/penguin/tinymce/window.php:660 ../inc/shortcodes.php:2457
+msgid "Enter soundcloud url like http://api.soundcloud.com/tracks/38987054."
+msgstr ""
+"Introduzca url SoundCloud como http://api.soundcloud.com/tracks/38987054."
+
+#: ../inc/penguin/tinymce/window.php:668 ../inc/penguin/tinymce/window.php:684
+#: ../inc/penguin/tinymce/window.php:696 ../inc/penguin/tinymce/window.php:707
+#: ../inc/penguin/tinymce/window.php:723
+msgid "Number"
+msgstr "Número"
+
+#: ../inc/penguin/tinymce/window.php:669 ../inc/penguin/tinymce/window.php:685
+#: ../inc/penguin/tinymce/window.php:708 ../inc/penguin/tinymce/window.php:724
+msgid "Columns"
+msgstr "Columnas"
+
+#: ../inc/penguin/tinymce/window.php:672 ../inc/penguin/tinymce/window.php:711
+msgid "Orderby"
+msgstr "Orderby"
+
+#: ../inc/penguin/tinymce/window.php:672 ../inc/penguin/tinymce/window.php:673
+#: ../inc/penguin/tinymce/window.php:674 ../inc/penguin/tinymce/window.php:675
+#: ../inc/penguin/tinymce/window.php:676 ../inc/penguin/tinymce/window.php:687
+#: ../inc/penguin/tinymce/window.php:698 ../inc/penguin/tinymce/window.php:711
+#: ../inc/penguin/tinymce/window.php:712 ../inc/penguin/tinymce/window.php:713
+#: ../inc/penguin/tinymce/window.php:714 ../inc/penguin/tinymce/window.php:715
+#: ../inc/penguin/tinymce/window.php:726 ../inc/penguin/tinymce/window.php:727
+msgid "(Options)"
+msgstr "option"
+
+#: ../inc/penguin/tinymce/window.php:673 ../inc/penguin/tinymce/window.php:687
+#: ../inc/penguin/tinymce/window.php:698
+msgid "Cats"
+msgstr "Gatos"
+
+#: ../inc/penguin/tinymce/window.php:674
+#: ../template/portfolio/portfolio-single-style-1.php:92
+#: ../template/portfolio/portfolio-single-style-2.php:59
+#: ../template/portfolio/portfolio-single-style-3.php:90
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../inc/penguin/tinymce/window.php:675 ../inc/penguin/tinymce/window.php:714
+msgid "Post in"
+msgstr "Publicar en"
+
+#: ../inc/penguin/tinymce/window.php:676 ../inc/penguin/tinymce/window.php:715
+msgid "Post not in"
+msgstr "Publique no en"
+
+#: ../inc/penguin/tinymce/window.php:677 ../inc/penguin/tinymce/window.php:690
+#: ../inc/penguin/tinymce/window.php:701 ../inc/penguin/tinymce/window.php:716
+#: ../inc/penguin/tinymce/window.php:730
+msgid "Don' crop"
+msgstr "Cultivos Don '"
+
+#: ../inc/penguin/tinymce/window.php:688 ../inc/penguin/tinymce/window.php:699
+#: ../inc/penguin/tinymce/window.php:728
+msgid "Load page link"
+msgstr "El vínculo de carga"
+
+#: ../inc/penguin/tinymce/window.php:688 ../inc/penguin/tinymce/window.php:699
+#: ../inc/penguin/tinymce/window.php:728
+msgid "!Important, need page options like here."
+msgstr "Importante, necesitan opciones de página, como aquí."
+
+#: ../inc/penguin/tinymce/window.php:689 ../inc/penguin/tinymce/window.php:700
+#: ../inc/penguin/tinymce/window.php:729 ../inc/shortcodes.php:2927
+#: ../inc/shortcodes.php:2988 ../inc/shortcodes.php:3166
+msgid "Auto load"
+msgstr "Carga automática"
+
+#: ../inc/penguin/tinymce/window.php:712 ../inc/penguin/tinymce/window.php:726
+msgid "Cat slugs"
+msgstr "Babosas gato"
+
+#: ../inc/penguin/tinymce/window.php:713 ../inc/penguin/tinymce/window.php:727
+msgid "Tag slugs"
+msgstr "Babosas Tag"
+
+#: ../inc/penguin/tinymce/window.php:807
+msgid "Insert"
+msgstr "Insertar"
+
+#: ../inc/plugins-config.php:109
+#: ../inc/tools/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Requeridos"
+
+#: ../inc/plugins-config.php:110
+msgid "Install Theme Plugins"
+msgstr "Instalar tema Plugins"
+
+#: ../inc/plugins-config.php:111
+#: ../inc/tools/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: ../inc/plugins-config.php:112
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API de los plugins."
+
+#: ../inc/plugins-config.php:113
+#: ../inc/tools/class-tgm-plugin-activation.php:168
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/plugins-config.php:114
+#: ../inc/tools/class-tgm-plugin-activation.php:169
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/plugins-config.php:115
+#: ../inc/tools/class-tgm-plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/plugins-config.php:116
+#: ../inc/tools/class-tgm-plugin-activation.php:171
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/plugins-config.php:117
+#: ../inc/tools/class-tgm-plugin-activation.php:172
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/plugins-config.php:118
+#: ../inc/tools/class-tgm-plugin-activation.php:173
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/plugins-config.php:119
+#: ../inc/tools/class-tgm-plugin-activation.php:174
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/plugins-config.php:120
+#: ../inc/tools/class-tgm-plugin-activation.php:175
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/plugins-config.php:121
+#: ../inc/tools/class-tgm-plugin-activation.php:176
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/plugins-config.php:122
+#: ../inc/tools/class-tgm-plugin-activation.php:177
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/plugins-config.php:123
+#: ../inc/tools/class-tgm-plugin-activation.php:178
+#: ../inc/tools/class-tgm-plugin-activation.php:488
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de Plugins Requeridos"
+
+#: ../inc/plugins-config.php:124
+#: ../inc/tools/class-tgm-plugin-activation.php:179
+#: ../inc/tools/class-tgm-plugin-activation.php:1843
+msgid "Plugin activated successfully."
+msgstr "Plugin activado exitosamente."
+
+#: ../inc/plugins-config.php:125
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins instalados y activados con éxito. %s"
+
+#: ../inc/shortcodes.php:1824
+msgid "MX Wide Background"
+msgstr ""
+
+#: ../inc/shortcodes.php:1827
+msgid "Enable row with wide background"
+msgstr ""
+
+#: ../inc/shortcodes.php:1834
+msgid "Space"
+msgstr "Espacio"
+
+#: ../inc/shortcodes.php:1838 ../inc/shortcodes.php:1875
+#: ../inc/shortcodes.php:2028 ../inc/shortcodes.php:2076
+#: ../inc/shortcodes.php:2121 ../inc/shortcodes.php:2221
+#: ../inc/shortcodes.php:2259 ../inc/shortcodes.php:2370
+#: ../inc/shortcodes.php:2409 ../inc/shortcodes.php:2448
+#: ../inc/shortcodes.php:2527 ../inc/shortcodes.php:2564
+#: ../inc/shortcodes.php:2619 ../inc/shortcodes.php:2687
+#: ../inc/shortcodes.php:2779 ../inc/shortcodes.php:2880
+#: ../inc/shortcodes.php:2949 ../inc/shortcodes.php:3010
+#: ../inc/shortcodes.php:3111
+msgid "MX Content"
+msgstr "MX contenido"
+
+#: ../inc/shortcodes.php:1845 ../inc/shortcodes.php:1974
+msgid "Show Line"
+msgstr "Mostrar Line"
+
+#: ../inc/shortcodes.php:1853
+msgid "Space Size"
+msgstr "Espacio Tamaño"
+
+#: ../inc/shortcodes.php:1861
+msgid "Show Line Style"
+msgstr "Mostrar Estilo de línea"
+
+#: ../inc/shortcodes.php:1881 ../inc/shortcodes.php:2091
+msgid "Class"
+msgstr "Clase"
+
+#: ../inc/shortcodes.php:1883
+msgid "Custom title class name."
+msgstr "Nombre de la clase de título personalizado."
+
+#: ../inc/shortcodes.php:1889
+msgid "Show Title Type"
+msgstr "Mostrar Title Type"
+
+#: ../inc/shortcodes.php:1897
+msgid "Title Align"
+msgstr "Título Align"
+
+#: ../inc/shortcodes.php:1905
+msgid "Text Value"
+msgstr "Valor de texto"
+
+#: ../inc/shortcodes.php:1912
+msgid "Text Size"
+msgstr "Tamaño del texto"
+
+#: ../inc/shortcodes.php:1920
+msgid "Text Uppercase"
+msgstr "Texto en mayúsculas"
+
+#: ../inc/shortcodes.php:1928
+msgid "Text Bold"
+msgstr "El texto en negrita"
+
+#: ../inc/shortcodes.php:1936
+msgid "Icon Class Name"
+msgstr "Icono Nombre de clase"
+
+#: ../inc/shortcodes.php:1943
+msgid "Text Background Radius"
+msgstr "Antecedentes Texto Radius"
+
+#: ../inc/shortcodes.php:1951 ../inc/shortcodes.php:2043
+msgid "Icon Size"
+msgstr "Tamaño del icono"
+
+#: ../inc/shortcodes.php:1966
+msgid "Show Background"
+msgstr "Mostrar fondo"
+
+#: ../inc/shortcodes.php:1982
+msgid "Line Align"
+msgstr "Línea Align"
+
+#: ../inc/shortcodes.php:1990
+msgid "Text or Icon Color"
+msgstr "El texto o icono de color"
+
+#: ../inc/shortcodes.php:2006
+msgid "Line Color"
+msgstr "Color de líneas de cuadrícula:"
+
+#: ../inc/shortcodes.php:2014
+msgid "Text Color when Icon Type"
+msgstr "Color del texto cuando Icono Tipo"
+
+#: ../inc/shortcodes.php:2024
+msgid "Icon"
+msgstr "Icono"
+
+#: ../inc/shortcodes.php:2034 ../inc/shortcodes.php:2136
+#: ../inc/shortcodes.php:2641
+msgid "Icon Name"
+msgstr "Icono Nombre"
+
+#: ../inc/shortcodes.php:2037
+msgid "Enter icon name like fa-falg."
+msgstr "Ingresa un icono como fa-falg."
+
+#: ../inc/shortcodes.php:2046
+msgid "The icon size, default don't need input."
+msgstr "El tamaño de los iconos, por defecto no necesitan entrada."
+
+#: ../inc/shortcodes.php:2052
+msgid "The icon style"
+msgstr "El estilo de los iconos"
+
+#: ../inc/shortcodes.php:2055
+msgid "The icon style, default don't need input."
+msgstr "El icono de la moda, por defecto no necesitan entrada."
+
+#: ../inc/shortcodes.php:2064
+msgid "The icon default color."
+msgstr "El icono de color predeterminado."
+
+#: ../inc/shortcodes.php:2099
+msgid "Content Align"
+msgstr "Contenido Align"
+
+#: ../inc/shortcodes.php:2109 ../inc/shortcodes.php:2607
+#: ../inc/shortcodes.php:2675 ../inc/shortcodes.php:2767
+msgid "<p>Input content.</p>"
+msgstr "<p> contenido de entrada. </ p>"
+
+#: ../inc/shortcodes.php:2117 ../inc/shortcodes.php:2129
+msgid "Button"
+msgstr "Botón"
+
+#: ../inc/shortcodes.php:2130
+msgid "Enter button title."
+msgstr "Introduzca el título del botón."
+
+#: ../inc/shortcodes.php:2139
+msgid "Enter icon use fontawesome"
+msgstr "Introduzca icono uso fontawesome"
+
+#: ../inc/shortcodes.php:2145
+msgid "Buton Type"
+msgstr "Buton Tipo"
+
+#: ../inc/shortcodes.php:2156
+msgid "Button size, default don't need input."
+msgstr "Tamaño del botón, por defecto no es necesario de entrada."
+
+#: ../inc/shortcodes.php:2162
+msgid "Button Link"
+msgstr "Botón de Enlace"
+
+#: ../inc/shortcodes.php:2165
+msgid "Click button open link."
+msgstr "Haga clic en botón de enlace abierto."
+
+#: ../inc/shortcodes.php:2171
+msgid "Button Link Target"
+msgstr "Botón de Enlace Target"
+
+#: ../inc/shortcodes.php:2179
+msgid "Button Background Color"
+msgstr "Button Background Color"
+
+#: ../inc/shortcodes.php:2182
+msgid "The button background color."
+msgstr "El color de fondo del botón."
+
+#: ../inc/shortcodes.php:2188
+msgid "Button Background Hover Color"
+msgstr "Button Background Hover color"
+
+#: ../inc/shortcodes.php:2191
+msgid "The button background hover color ."
+msgstr "El botón de color de fondo estacionario."
+
+#: ../inc/shortcodes.php:2197
+msgid "Button Font Color"
+msgstr "Botón Color de fuente"
+
+#: ../inc/shortcodes.php:2200
+msgid "The button font color."
+msgstr "El color de la fuente botón."
+
+#: ../inc/shortcodes.php:2206
+msgid "Button Font Hover Color"
+msgstr "Botón de fuente Hover color"
+
+#: ../inc/shortcodes.php:2209
+msgid "The button font hover color ."
+msgstr "El color de la libración de la fuente botón."
+
+#: ../inc/shortcodes.php:2217
+msgid "Alert Message"
+msgstr "Mensaje de alerta"
+
+#: ../inc/shortcodes.php:2227
+msgid "Alert Message Type"
+msgstr "Tipo de alerta de mensajes"
+
+#: ../inc/shortcodes.php:2230
+msgid "The alert message type."
+msgstr "El tipo de mensaje de alerta."
+
+#: ../inc/shortcodes.php:2239 ../inc/shortcodes.php:2340
+msgid "The alert can been close."
+msgstr "La alerta puede estado cerca."
+
+#: ../inc/shortcodes.php:2247
+msgid "<p>Input alert message content.</p>"
+msgstr "<p> contenido de los mensajes de alerta de entrada. </ p>"
+
+#: ../inc/shortcodes.php:2255
+msgid "Map"
+msgstr "Mapa"
+
+#: ../inc/shortcodes.php:2268
+msgid "The map LatLng value from google map."
+msgstr "El mapa de valor LatLng de mapa de google."
+
+#: ../inc/shortcodes.php:2274
+msgid "Map Height"
+msgstr "Mapa Altura"
+
+#: ../inc/shortcodes.php:2277
+msgid "The map show height."
+msgstr "La altura mapa espectáculo."
+
+#: ../inc/shortcodes.php:2283
+msgid "Map Width"
+msgstr "Ancho del mapa"
+
+#: ../inc/shortcodes.php:2286
+msgid "The map show width."
+msgstr "La anchura mapa espectáculo."
+
+#: ../inc/shortcodes.php:2295
+msgid "The map default show zoom."
+msgstr "El espectáculo de zoom del mapa por defecto."
+
+#: ../inc/shortcodes.php:2304
+msgid "The map can drag."
+msgstr "El mapa se puede arrastrar."
+
+#: ../inc/shortcodes.php:2313
+msgid "The map can scroll wheel zoom."
+msgstr "El mapa se puede desplazar la rueda del zoom."
+
+#: ../inc/shortcodes.php:2322
+msgid "The map show marker."
+msgstr "El mapa muestra marcador."
+
+#: ../inc/shortcodes.php:2337
+msgid "Information Style Theme"
+msgstr "Información de Estilo Tema"
+
+#: ../inc/shortcodes.php:2346
+msgid "Show Information Width"
+msgstr "Información del espectáculo Ancho"
+
+#: ../inc/shortcodes.php:2357
+msgid "<p>MAP ADDRESS TEXT.</p>"
+msgstr "<p> TEXTO DIRECCIÓN MAPA. </ p>"
+
+#: ../inc/shortcodes.php:2358
+msgid "Enter your address."
+msgstr "Ingrese su dirección."
+
+#: ../inc/shortcodes.php:2388 ../inc/shortcodes.php:2397
+msgid "Youtube default show width."
+msgstr "Youtube muestra por defecto la anchura."
+
+#: ../inc/shortcodes.php:2427 ../inc/shortcodes.php:2436
+msgid "Vimeo default show width."
+msgstr "Default Vimeo espectáculo anchura."
+
+#: ../inc/shortcodes.php:2444
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: ../inc/shortcodes.php:2463
+msgid "Show With iframe"
+msgstr "Mostrar Con iframe"
+
+#: ../inc/shortcodes.php:2474 ../inc/shortcodes.php:2483
+msgid "Soundcloud default show width."
+msgstr "Default Soundcloud espectáculo anchura."
+
+#: ../inc/shortcodes.php:2497
+msgid "Show Comments"
+msgstr "Mostrar comentarios"
+
+#: ../inc/shortcodes.php:2523
+msgid "Share"
+msgstr "Compartir"
+
+#: ../inc/shortcodes.php:2536
+msgid "Need show social icon like twitter, default don't input."
+msgstr "Necesita mostrar icono sociales como Twitter, por defecto no entrada."
+
+#: ../inc/shortcodes.php:2560
+msgid "Toggle"
+msgstr "Cambiar"
+
+#: ../inc/shortcodes.php:2570
+msgid "Toggle Title"
+msgstr "Toggle Título"
+
+#: ../inc/shortcodes.php:2572
+msgid "Input toggle title."
+msgstr "Título de palanca de entrada."
+
+#: ../inc/shortcodes.php:2573
+msgid "The toggle title."
+msgstr "El título de palanca."
+
+#: ../inc/shortcodes.php:2579
+msgid "Toggle Open"
+msgstr "Toggle Open"
+
+#: ../inc/shortcodes.php:2582
+msgid "The toggle content default show or hide."
+msgstr "El espectáculo default contenido de palanca u ocultar."
+
+#: ../inc/shortcodes.php:2591
+msgid "The background color."
+msgstr "El color de fondo."
+
+#: ../inc/shortcodes.php:2597 ../inc/shortcodes.php:2665
+#: ../inc/shortcodes.php:2757 ../inc/shortcodes.php:2866
+#: ../inc/shortcodes.php:3097
+msgid "Element show with effect"
+msgstr "Espectáculo de Elementos con efecto"
+
+#: ../inc/shortcodes.php:2615
+msgid "Features"
+msgstr "Caracter&#225;sticas"
+
+#: ../inc/shortcodes.php:2625
+msgid "Features Layout"
+msgstr "Características de diseño"
+
+#: ../inc/shortcodes.php:2633
+msgid "Features Name"
+msgstr "Características Nombre"
+
+#: ../inc/shortcodes.php:2683
+#, fuzzy
+msgid "Total Count"
+msgstr "Conteo total"
+
+#: ../inc/shortcodes.php:2693 ../inc/shortcodes.php:2701
+msgid "Total Count Style"
+msgstr "Estilo Cuenta total"
+
+#: ../inc/shortcodes.php:2709
+msgid "Prefix text"
+msgstr "Texto de prefijo"
+
+#: ../inc/shortcodes.php:2717
+msgid "Suffix text"
+msgstr "Texto de sufijo"
+
+#: ../inc/shortcodes.php:2725
+msgid "Start Number"
+msgstr "Número inicial"
+
+#: ../inc/shortcodes.php:2733
+#, fuzzy
+msgid "Step Number"
+msgstr "Paso Número"
+
+#: ../inc/shortcodes.php:2741
+msgid "End Number"
+msgstr "Número Fin"
+
+#: ../inc/shortcodes.php:2749
+msgid "Circle Color"
+msgstr "Color del círculo"
+
+#: ../inc/shortcodes.php:2775
+msgid "Blog List"
+msgstr "Blog Lista"
+
+#: ../inc/shortcodes.php:2785 ../inc/shortcodes.php:2894
+#: ../inc/shortcodes.php:2963 ../inc/shortcodes.php:3016
+#: ../inc/shortcodes.php:3125
+msgid "Posts Number"
+msgstr "Mensajes Número"
+
+#: ../inc/shortcodes.php:2793 ../inc/shortcodes.php:2902
+#: ../inc/shortcodes.php:3024 ../inc/shortcodes.php:3133
+msgid "Show Columns"
+msgstr "Mostrar Columnas"
+
+#: ../inc/shortcodes.php:2801 ../inc/shortcodes.php:3032
+msgid "Show Type"
+msgstr "Mostrar {0}TYPE{/0}"
+
+#: ../inc/shortcodes.php:2809 ../inc/shortcodes.php:2910
+#: ../inc/shortcodes.php:2971 ../inc/shortcodes.php:3040
+#: ../inc/shortcodes.php:3141
+msgid "Show Style"
+msgstr "Mostrar Estilo"
+
+#: ../inc/shortcodes.php:2812 ../inc/shortcodes.php:2913
+#: ../inc/shortcodes.php:2974 ../inc/shortcodes.php:3043
+#: ../inc/shortcodes.php:3144
+msgid "Show item style."
+msgstr "Mostrar estilo de elemento."
+
+#: ../inc/shortcodes.php:2818 ../inc/shortcodes.php:3049
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: ../inc/shortcodes.php:2826 ../inc/shortcodes.php:2919
+#: ../inc/shortcodes.php:2980
+msgid "Categories ids use , "
+msgstr "Categorías ids utilizan, "
+
+#: ../inc/shortcodes.php:2834
+msgid "Tags ids use , "
+msgstr "Etiquetas identificadores utilizan, "
+
+#: ../inc/shortcodes.php:2842 ../inc/shortcodes.php:3073
+msgid "Included post ids use , "
+msgstr "Ids puestos incluidos usan, "
+
+#: ../inc/shortcodes.php:2850 ../inc/shortcodes.php:3081
+msgid "Not included post ids use , "
+msgstr "Ids post no incluía el uso, "
+
+#: ../inc/shortcodes.php:2858 ../inc/shortcodes.php:2935
+#: ../inc/shortcodes.php:2996 ../inc/shortcodes.php:3089
+#: ../inc/shortcodes.php:3174
+msgid "Image don't crop"
+msgstr "Imagen no recortar"
+
+#: ../inc/shortcodes.php:2876
+msgid "Blog Ajax List"
+msgstr "Blog Lista Ajax"
+
+#: ../inc/shortcodes.php:2886 ../inc/shortcodes.php:2955
+#: ../inc/shortcodes.php:3117
+msgid "!IMPORTANT. Need show which page items, like xxx??post=1&paged=2"
+msgstr ""
+"IMPORTANTE. Necesita mostrar que los elementos de página, como xxx? Post = 1 "
+"& paginado = 2"
+
+#: ../inc/shortcodes.php:2945
+msgid "Blog Timeline List"
+msgstr "Blog Lista Cronología"
+
+#: ../inc/shortcodes.php:3006
+msgid "Portfolio List"
+msgstr "Lista Portafolio"
+
+#: ../inc/shortcodes.php:3057 ../inc/shortcodes.php:3150
+msgid "Categories slugs use , "
+msgstr "Categorías babosas usan, "
+
+#: ../inc/shortcodes.php:3065 ../inc/shortcodes.php:3158
+msgid "Tags slugs use , "
+msgstr "Etiquetas babosas utilizan, "
+
+#: ../inc/shortcodes.php:3107
+msgid "Portfolio Ajax List"
+msgstr "Portafolio Lista Ajax"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Parece que se ha producido un error."
+
+#: ../inc/tools/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados con éxito. %1$s"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:515
+#: ../inc/tools/class-tgm-plugin-activation.php:2055
+msgid "Return to the Dashboard"
+msgstr "Vuelva al Dashboard"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:543
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "El plugin se activó con éxito:%s"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:702
+msgid "Dismiss this notice"
+msgstr "Ignorar este aviso"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1089
+msgid "External Link"
+msgstr "Enlace Externo"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1094
+msgid "Private Repository"
+msgstr "Repositorio Privado"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1097
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetados"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1101
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1104
+msgid "Required"
+msgstr "Requerido"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1104
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1107
+msgid "Not Installed"
+msgstr "No se ha instalado"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1109
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1279
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No hay plugins para instalar o activar. <a href=\"%1$s\" title=\"Return to "
+"the Dashboard\">Volver al Panel de Control</a>"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1295
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1296
+msgid "Source"
+msgstr "Fuente"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1316
+msgid "Install"
+msgstr "Instalar"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1317
+msgid "Activate"
+msgstr "Activar"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1541
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1826
+msgid "Install package not available."
+msgstr "Paquete de instalación no disponible."
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1827
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Descargando la instalación del paquete desde <span class=\"code\">%s</span>…"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1828
+msgid "Unpacking the package&#8230;"
+msgstr "Descomprimiendo el paquete&#8230;"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1829
+msgid "Installing the plugin&#8230;"
+msgstr "Instalando el plugin&#8230;"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1830
+msgid "Plugin install failed."
+msgstr "La instalación del Plugin ha fallado."
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1831
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado con éxito."
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1842
+msgid "Plugin activation failed."
+msgstr "La activación del Plugin ha fallado."
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1952
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación se está iniciando. Este proceso puede "
+"tardar un poco, así que por favor sea paciente."
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1953
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado con éxito."
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1953
+#: ../inc/tools/class-tgm-plugin-activation.php:1962
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1953
+#: ../inc/tools/class-tgm-plugin-activation.php:1962
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1954
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones se han completado."
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1955
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando Plugin %1$s (%2$d/%3$d)"
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1959
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación se está iniciando. Este proceso puede tardar un "
+"poco, así que por favor sea paciente."
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1960
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Se produjo un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s falló."
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1962
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1963
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones se han completado."
+
+#: ../inc/tools/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: ../inc/tools/sidebar_generator.php:94
+msgid "Sidebar already exists, please use a different name."
+msgstr "Ya existe Sidebar, por favor, utilice un nombre diferente."
+
+#: ../inc/tools/sidebar_generator.php:143
+msgid "Sidebar does not exist."
+msgstr "Sidebar no existe."
+
+#: ../inc/tools/sidebar_generator.php:162
+msgid "Sidebars"
+msgstr "Barras laterales"
+
+#: ../inc/tools/sidebar_generator.php:210
+msgid "Are you sure you want to remove"
+msgstr "¿Estás seguro que desea eliminar?"
+
+#: ../inc/tools/sidebar_generator.php:210
+msgid "This will remove any widgets you have assigned to this sidebar."
+msgstr "Esto eliminará ningún widget que ha asignado a esta barra lateral."
+
+#: ../inc/tools/sidebar_generator.php:233
+msgid "Sidebar Generator"
+msgstr "Sidebar Generador"
+
+#: ../inc/tools/sidebar_generator.php:238
+msgid "CSS class"
+msgstr "Clase CSS"
+
+#: ../inc/tools/sidebar_generator.php:266
+msgid "No Sidebars defined!"
+msgstr "No hay barras laterales definidos!"
+
+#: ../inc/tools/sidebar_generator.php:269
+msgid "Add Sidebar:"
+msgstr "Añadir Sidebar:"
+
+#: ../inc/tools/sidebar_generator.php:270
+msgid "Input sidebar name"
+msgstr "Nombre de la barra lateral de entrada"
+
+#: ../inc/tools/sidebar_generator.php:273
+msgid "Add New Sidebar"
+msgstr "Crear Nuevo Sidebar"
+
+#: ../page-portfolio.php:69 ../page-portfolio.php:98
+msgid "All"
+msgstr "Todo"
+
+#: ../page-sitemap.php:23
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../page-sitemap.php:32
+msgid "Posts"
+msgstr "Mensajes"
+
+#: ../search.php:64
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Disculpa, pero no se encontraron publicaciones para la solicitud realizada. "
+"Quizás el recuadro búsqueda te ayudará a encontrar una publicación "
+"relacionada."
+
+#: ../single.php:129
+msgid "Posted on "
+msgstr "Publicado el "
+
+#: ../single.php:130
+msgid " by "
+msgstr " por "
+
+#: ../single.php:134
+msgid "It has "
+msgstr "También ha "
+
+#: ../single.php:134
+msgid "0 Comment"
+msgstr "0 Comentarios"
+
+#: ../single.php:149
+msgid "Tags: "
+msgstr "Etiquetas: "
+
+#: ../single.php:162 ../template/blog/blog-widget-recent-style-4.php:26
+#: ../template/blog/blog-widget-recent-style-5.php:36
+#: ../template/portfolio/portfolio-single-style-1.php:127
+#: ../template/portfolio/portfolio-single-style-2.php:94
+#: ../template/portfolio/portfolio-single-style-3.php:125
+#: ../template/portfolio/portfolio-widget-recent-style-4.php:23
+#: ../template/portfolio/portfolio-widget-recent-style-5.php:34
+msgid " Likes"
+msgstr " Me gustas"
+
+#: ../single.php:167 ../template/blog/blog-widget-recent-style-4.php:25
+#: ../template/blog/blog-widget-recent-style-5.php:35
+#: ../template/portfolio/portfolio-single-style-1.php:132
+#: ../template/portfolio/portfolio-single-style-2.php:99
+#: ../template/portfolio/portfolio-single-style-3.php:130
+#: ../template/portfolio/portfolio-widget-recent-style-4.php:22
+#: ../template/portfolio/portfolio-widget-recent-style-5.php:33
+msgid " Views"
+msgstr " Vistas"
+
+#: ../single.php:196 ../template/portfolio/portfolio-single-style-1.php:166
+#: ../template/portfolio/portfolio-single-style-2.php:140
+#: ../template/portfolio/portfolio-single-style-3.php:164
+msgid "You may also like"
+msgstr "También te puede gustar"
+
+#: ../template/blog/blog-ajax-content-item-style-1.php:25
+#: ../template/blog/blog-ajax-content-item-style-2.php:98
+#: ../template/blog/blog-timeline-content-item-style-1.php:123
+#: ../template/blog/blog-timeline-content-item-style-2.php:124
+msgid "0"
+msgstr "0"
+
+#: ../template/blog/blog-ajax-content-item-style-1.php:25
+#: ../template/blog/blog-ajax-content-item-style-2.php:98
+#: ../template/blog/blog-timeline-content-item-style-1.php:123
+#: ../template/blog/blog-timeline-content-item-style-2.php:124
+msgid "1"
+msgstr "[1]"
+
+#: ../template/blog/blog-ajax-content-item-style-1.php:25
+#: ../template/blog/blog-ajax-content-item-style-2.php:98
+#: ../template/blog/blog-timeline-content-item-style-1.php:123
+#: ../template/blog/blog-timeline-content-item-style-2.php:124
+msgid "%"
+msgstr "%"
+
+#: ../template/contact/custom-contact-form.php:52
+msgid "Please enter your email address."
+msgstr "Por favor, ingresa tu dirección de correo electrónico."
+
+#: ../template/contact/custom-contact-form.php:55
+msgid "You entered an invalid email address."
+msgstr "Has introducido una dirección de email no válida."
+
+#: ../template/contact/custom-contact-form.php:62
+msgid "Please enter subject."
+msgstr "Por favor introduzca tema."
+
+#: ../template/contact/custom-contact-form.php:69
+msgid "Please enter a message."
+msgstr "Por favor, escribe un mensaje."
+
+#: ../template/contact/custom-contact-form.php:85
+#: ../template/contact/custom-contact-form.php:86
+#: ../template/contact/custom-contact-form.php:93
+msgid "From: "
+msgstr "de: "
+
+#: ../template/contact/custom-contact-form.php:94
+#: ../template/contact/custom-contact-form.php:111
+msgid "Thanks, your email was sent successfully."
+msgstr "Gracias, tu email ha sido enviado con éxito."
+
+#: ../template/contact/custom-contact-form.php:99
+msgid ""
+"Please add your recipient email through edit admin -> your contact page -> "
+"page options setting."
+msgstr ""
+"Por favor agregar su correo electrónico del destinatario a través de edición "
+"admin -> su página de contacto -> Configuración de opciones de la página."
+
+#: ../template/contact/custom-contact-form.php:107
+msgid "Contact Form"
+msgstr "Formulario"
+
+#: ../template/contact/custom-contact-form.php:111
+msgid "Congratulations!"
+msgstr "¡Enhorabuena!"
+
+#: ../template/contact/custom-contact-form.php:113
+msgid "Oh snap! You got error!"
+msgstr "Oh broche! Tienes error!"
+
+#: ../template/contact/custom-contact-form.php:133
+msgid "Subject"
+msgstr "Asunto"
+
+#: ../template/contact/custom-contact-form.php:137
+msgid "Message"
+msgstr "Mensaje"
+
+#: ../template/contact/custom-contact-form.php:154
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: ../template/header/header-login-content.php:18
+#: ../template/header/header-login-content.php:33
+#: ../template/login/custom-account.php:12
+#: ../template/tools/mini-bar-login-content.php:14
+#: ../template/tools/mini-bar-login-content.php:29
+msgid "Welcome, "
+msgstr "Bienvenidos "
+
+#: ../template/header/header-login-content.php:18
+#: ../template/header/header-login-content.php:33
+#: ../template/tools/mini-bar-login-content.php:14
+#: ../template/tools/mini-bar-login-content.php:29
+msgid "Logout"
+msgstr "Salir"
+
+#: ../template/header/header-login-content.php:24
+#: ../template/header/header-login-content.php:39
+#: ../template/tools/mini-bar-login-content.php:20
+#: ../template/tools/mini-bar-login-content.php:35
+msgid "Hello, please login."
+msgstr "Hola, tienes que identificarte."
+
+#: ../template/login/custom-account.php:17
+msgid "Yours Posts"
+msgstr "Yours Mensajes"
+
+#: ../template/login/custom-account.php:33
+msgid "You has not contributed anything!"
+msgstr "Usted no ha aportado nada!"
+
+#: ../template/login/custom-account.php:47
+msgid "Log out"
+msgstr "Salir"
+
+#: ../template/login/custom-account.php:49
+msgid "Admin"
+msgstr "Administrador"
+
+#: ../template/login/custom-account.php:50
+msgid "Profile"
+msgstr "Perfil"
+
+#: ../template/login/custom-login.php:10
+msgid "Sign In"
+msgstr "Iniciar sesió"
+
+#: ../template/login/custom-login.php:15
+msgid "Success!"
+msgstr "ÈXITO!"
+
+#: ../template/login/custom-login.php:15
+msgid "Check your email get the password and log in."
+msgstr "Revise su correo electrónico recibe la contraseña y iniciar sesión"
+
+#: ../template/login/custom-login.php:27
+msgid "Password"
+msgstr "Contraseña"
+
+#: ../template/login/custom-login.php:32
+msgid "Remember me"
+msgstr "Recuérdame"
+
+#: ../template/login/custom-login.php:38
+msgid "Lost your password!"
+msgstr "¿Perdiste tu contraseña?"
+
+#: ../template/login/custom-login.php:38
+msgid "Lost your password?"
+msgstr "¿Olvidaste tu contraseña?"
+
+#: ../template/login/custom-login.php:40
+#: ../template/login/custom-register.php:24
+msgid "Register"
+msgstr "Registro"
+
+#: ../template/login/custom-lostpass.php:10
+msgid "Reset Your Password"
+msgstr "Restablecer tu contraseña"
+
+#: ../template/login/custom-lostpass.php:15
+msgid "Username or Email"
+msgstr "Nombre de usuario o correo electrónico"
+
+#: ../template/login/custom-lostpass.php:20
+msgid "Reset my password"
+msgstr "Restablecer contraseña"
+
+#: ../template/login/custom-register.php:10
+msgid "Get Started Create a Free Account"
+msgstr "Empieza crear una cuenta gratuita"
+
+#: ../template/login/custom-register.php:19
+msgid "Your Email"
+msgstr "Tu Correo Electrónico"
+
+#: ../template/login/custom-register.php:24
+msgid " or "
+msgstr " o "
+
+#: ../template/portfolio/portfolio-content-style-1.php:74
+#: ../template/portfolio/portfolio-content-style-5.php:17
+#: ../template/portfolio/portfolio-shortcode-content-style-1.php:59
+#: ../template/portfolio/portfolio-shortcode-content-style-5.php:17
+msgid "View Details"
+msgstr "Ver Detalles"
+
+#: ../template/portfolio/portfolio-content-style-6.php:21
+#: ../template/portfolio/portfolio-content-style-7.php:25
+#: ../template/portfolio/portfolio-shortcode-content-style-6.php:19
+#: ../template/portfolio/portfolio-shortcode-content-style-7.php:23
+msgid "Client: "
+msgstr "Cliente: "
+
+#: ../template/portfolio/portfolio-content-style-6.php:27
+#: ../template/portfolio/portfolio-content-style-7.php:31
+#: ../template/portfolio/portfolio-shortcode-content-style-6.php:23
+#: ../template/portfolio/portfolio-shortcode-content-style-7.php:27
+msgid "Skills: "
+msgstr "Habilidades: "
+
+#: ../template/portfolio/portfolio-single-style-1.php:93
+#: ../template/portfolio/portfolio-single-style-2.php:60
+#: ../template/portfolio/portfolio-single-style-3.php:91
+msgid "No Tags"
+msgstr "No hay etiquetas"
+
+#: ../template/portfolio/portfolio-single-style-1.php:154
+#: ../template/portfolio/portfolio-single-style-2.php:121
+#: ../template/portfolio/portfolio-single-style-3.php:152
+msgid "Download"
+msgstr "Descargar"
+
+#: ../template/portfolio/portfolio-single-style-2.php:129
+msgid "Portfolio Details"
+msgstr "Portafolio Detalles"
+
+#: ../woocommerce/content-cart-list-btn-2.php:7
+msgid "My Cart"
+msgstr "Mi Carrito de Compra"
+
+#: ../woocommerce/content-cart-list-btn-2.php:7
+#: ../woocommerce/content-cart-list-btn.php:7
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+msgstr[1] "%d"
+
+#: ../woocommerce/content-cart-list.php:48
+#: ../woocommerce/content-mini-bar-cart-list.php:10
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: ../woocommerce/content-cart-list.php:50
+#: ../woocommerce/content-mini-bar-cart-list.php:48
+msgid "View Cart &rarr;"
+msgstr "Ver carrito &rarr;"
+
+#: ../woocommerce/content-cart-list.php:51
+#: ../woocommerce/content-mini-bar-cart-list.php:49
+msgid "Checkout &rarr;"
+msgstr "Realizar pedido &rarr;"
+
+#: ../woocommerce/content-cart-list.php:58
+#: ../woocommerce/content-mini-bar-cart-list.php:53
+msgid "No products in the cart."
+msgstr "No hay productos en el carrito"
+
+#: ../woocommerce/content-cart-list.php:59
+#: ../woocommerce/content-mini-bar-cart-list.php:54
+msgid "Go Shop"
+msgstr "Ir Shop"
+
+#: ../woocommerce/content-mini-bar-wish-list.php:56
+#: ../woocommerce/content-wish-list.php:101
+msgid "Total"
+msgstr "Totalme"
+
+#: ../woocommerce/content-mini-bar-wish-list.php:90
+#: ../woocommerce/content-wish-list.php:89
+msgid "Free!"
+msgstr "¡Gratis!"
+
+#: ../woocommerce/content-mini-bar-wish-list.php:101
+#: ../woocommerce/content-mini-bar-wish-list.php:105
+#: ../woocommerce/content-wish-list.php:102
+#: ../woocommerce/content-wish-list.php:109
+msgid "Go to your Wishlist"
+msgstr "Vaya a su Lista de Deseos"
+
+#: ../woocommerce/content-mini-bar-wish-list.php:104
+#: ../woocommerce/content-wish-list.php:108
+msgid "No products were added to the wishlist"
+msgstr "Ningún producto se añadieron a la lista de deseos"
+
+#: ../woocommerce/content-product.php:69
+#: ../woocommerce/single-product/product-image.php:41
+msgid "Sale!"
+msgstr "¡Oferta!"
+
+#: ../woocommerce/content-product.php:71
+#: ../woocommerce/single-product/product-image.php:43
+msgid "Out of Stock"
+msgstr "Sin Existencias"
+
+#: ../woocommerce/content-product.php:73
+#: ../woocommerce/single-product/product-image.php:45
+msgid "Free"
+msgstr "Gratis"
+
+#: ../woocommerce/content-topbar-header.php:7
+msgid "View your shopping cart"
+msgstr "Ver el carrito de la compra"
+
+#: ../woocommerce/content-topbar-header.php:7
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/global/breadcrumb.php:107
+msgid "Products tagged &ldquo;"
+msgstr "Productos etiquetados &ldquo;"
+
+#: ../woocommerce/global/breadcrumb.php:135
+#: ../woocommerce/global/breadcrumb.php:234
+msgid "Search results for &ldquo;"
+msgstr "Resultados de búsqueda para &ldquo;"
+
+#: ../woocommerce/global/breadcrumb.php:192
+msgid "Error 404"
+msgstr "Error 404"
+
+#: ../woocommerce/global/breadcrumb.php:238
+msgid "Posts tagged &ldquo;"
+msgstr "Artículos etiquetados &ldquo;"
+
+#: ../woocommerce/global/breadcrumb.php:243
+msgid "Author:"
+msgstr "Autor:"
+
+#: ../woocommerce/global/breadcrumb.php:248
+msgid "Page"
+msgstr "Página"
+
+#: ../woocommerce/loop/orderby.php:23
+msgid "Default sorting"
+msgstr "Ordenado por defecto"
+
+#: ../woocommerce/loop/orderby.php:24
+msgid "Sort by popularity"
+msgstr "Ordenar por popularidad"
+
+#: ../woocommerce/loop/orderby.php:25
+msgid "Sort by average rating"
+msgstr "Ordenar por valoración media"
+
+#: ../woocommerce/loop/orderby.php:26
+msgid "Sort by newness"
+msgstr "Ordenar por novedad"
+
+#: ../woocommerce/loop/orderby.php:27
+msgid "Sort by price: low to high"
+msgstr "Ordenar por precio: de menor a mayor"
+
+#: ../woocommerce/loop/orderby.php:28
+msgid "Sort by price: high to low"
+msgstr "Ordenar por precio: de mayor a menor"
+
+#: ../woocommerce/loop/orderby.php:82
+msgid "Popularity"
+msgstr "Popularidad"
+
+#: ../woocommerce/loop/orderby.php:87
+msgid "Rating"
+msgstr "Valoración"
+
+#: ../woocommerce/loop/orderby.php:100
+msgid "Show "
+msgstr "Mostrar "
+
+#: ../woocommerce/loop/orderby.php:100
+msgid " Products"
+msgstr " Productos"
+
+#: ../woocommerce/single-product/meta.php:15
+msgid "Add to Wishlist"
+msgstr "Agregar a la lista"
+
+#: ../woocommerce/single-product/meta.php:15
+msgid "Had added, view Wishlist"
+msgstr "Había añadido, ver Lista de Deseos"
+
+#: ../woocommerce/single-product/meta.php:15
+msgid "Already added, view Wishlist"
+msgstr "Ya se ha añadido, vista Lista"
+
+#: ../woocommerce/single-product/meta.php:27
+msgid "Rating:"
+msgstr "Valoración:"
+
+#: ../woocommerce/single-product/meta.php:32
+msgid "SKU:"
+msgstr "Código de producto:"
+
+#: ../woocommerce/single-product/meta.php:37
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/meta.php:42
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Etiqueta:"
+msgstr[1] "Etiquetas:"
+
+#: ../woocommerce/single-product/related.php:40
+msgid "Related Products"
+msgstr "Productos relacionados"
+
+#: ../woocommerce/single-product/tabs/additional-information.php:14
+msgid "Additional Information"
+msgstr "Información adicional"
+
+#: ../woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr "Descripción del Produc"
+
+#: ../woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr "También te puede gustar&hellip;"
+
+#~ msgid "Search Results for  \"%s\""
+#~ msgstr "Resultados de búsqueda para  \"%s\""
+
+#~ msgid "Theme Information Setting"
+#~ msgstr "Información categoría Configuración"
+
+#~ msgid "Now have 620+ Google web fonts for u choose!"
+#~ msgstr "Ahora tienen fuentes web 620 + Google para u elige!"
+
+#~ msgid "Support Tags Filters"
+#~ msgstr "Soporte Etiquetas Filtros"
+
+#~ msgid ""
+#~ "If you enabled it then default filters will used tags.Select will use "
+#~ "category showed."
+#~ msgstr ""
+#~ "Si habilitó entonces filtros por defecto se utiliza tags.Select utilizará "
+#~ "categoría mostró."
+
+#~ msgid "Wide Background"
+#~ msgstr "Antecedentes ancha"
+
+#~ msgid "id"
+#~ msgstr "Id"
+
+#~ msgid "The wide background element id."
+#~ msgstr "El fondo de ancho elemento id."
+
+#~ msgid "class"
+#~ msgstr "Class"
+
+#~ msgid "The wide background custom css class name."
+#~ msgstr "La amplia css personalizada nombre de la clase de fondo."
+
+#~ msgid "style"
+#~ msgstr "estilo"
+
+#~ msgid "Input wide background basic style."
+#~ msgstr "Fondo de ancho estilo básico de entrada."
+
+#~ msgid "Product Name"
+#~ msgstr "Nombre del Producto"
+
+#~ msgid "Unit Price"
+#~ msgstr "Precio unitario"
+
+#~ msgid "Stock Status"
+#~ msgstr "Estado del stock"
+
+#~ msgid "Remove this product"
+#~ msgstr "Eliminar este producto"
+
+#~ msgid "In Stock"
+#~ msgstr "En Existencia"

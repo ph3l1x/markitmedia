@@ -1,0 +1,18 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">portfolio</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio-cats</taxonomy>
+		<taxonomy translate="2">portfolio-tags</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="mx_options">
+		
+			<key name="header-custom-content" />
+			<key name="header-banner-content" />
+            <key name="footer-custom-content-left" />
+            <key name="footer-custom-content-right" />
+        </key>
+    </admin-texts>
+</wpml-config>

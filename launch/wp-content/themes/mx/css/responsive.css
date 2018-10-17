@@ -1,0 +1,177 @@
+/*
+ * MX Theme Responsive css 
+ */
+
+/* wide content background */
+@media (min-width: 2561px) and (max-width: 2880px) {
+.wide-layout .wide-background {padding-left:880px;padding-right:880px;margin-left:-880px;margin-right:-880px;}
+}
+
+@media (min-width: 1921px) and (max-width: 2560px) {
+.wide-layout .wide-background {padding-left:720px;padding-right:720px;margin-left:-720px;margin-right:-720px;}
+}
+
+@media (min-width: 1681px) and (max-width: 1920px) {
+.wide-layout .wide-background {padding-left:410px;padding-right:410px;margin-left:-410px;margin-right:-410px;}
+}
+
+@media (min-width: 1441px) and (max-width: 1680px) {
+.wide-layout .wide-background {padding-left:280px;padding-right:280px;margin-left:-280px;margin-right:-280px;}
+}
+
+@media (min-width: 1367px) and (max-width: 1440px) {
+.wide-layout .wide-background {padding-left:160px;padding-right:160px;margin-left:-160px;margin-right:-160px;}
+}
+
+@media (min-width: 1201px) { 
+.mx-col.col-lg-9 {
+    width: 71.8%;
+}
+.mx-col.col-lg-3 {
+    width: 28.2%;
+}
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (max-width: 1200px) {
+/* = Global Wrap Style
+-------------------------------------------------------------- */
+	body.boxed-layout .wrapper { max-width:970px}
+	.mega-custom-widget-content {width:213px;}
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (max-width: 991px) {
+	/* global wrap style */
+	body.boxed-layout .wrapper { overflow:hidden; margin:0 auto !important;}
+	body.boxed-layout .wide-background, 
+	body.wide-layout .wide-background {padding:30px 140px;margin-left:-140px;margin-right:-140px;}
+	
+	/* topbar */
+	#header-topbar ul {display:none;}
+	#header-topbar ul.topbar-login, #header-topbar ul.topbar-social, #header-topbar ul.topbar-wmpl {display:block;}
+	#header-topbar .topbar-title {display:none;}
+	#header-topbar .topbar-title-icon {margin:0;}
+	
+	/* header */
+	.mx-nav-menu {display:none;}
+	.site-header-style-2 .mx-search-container > ul > li.mx-cart-list {margin-right:5px;}
+	.responsive-mobile-menu {display:block;}
+	#mobile-menu {display:block;}
+	.site-header-style-2 .mx-search-container .responsive-mobile-menu {display:inline-block;}
+	.site-header-style-3 .mx-header-right > ul > li.responsive-mobile-menu {display:inline-block;} 
+	.site-header-style-3 #mx-nav {display:none;}
+	.site-header-style-3 .cart-list-btn-title {display:none;}
+	
+	.site-header-style-4 .responsive-mobile-menu {display:inline-block;}
+	.site-header-style-4 .mx-header-right-list {float:none;margin: 12px 0;}
+	.site-header-style-4 .mx-social,.site-header-style-4 .mx-header-right-custom,.site-header-style-4 .mx-nav-form-content {display:none;}
+	.site-header-style-4 .mx-nav-container {display:none;}
+	.site-header-style-4 .mx-header-right-container {float:none;}
+	
+	.mx-wc-login > a > i {margin:0;}
+	.mx-wc-login > a > span {display:none;}
+	
+	
+	/* timeline */
+	.post-ajax-element.blog-timeline-style-1 .post-timeline-element-content {padding:10px;}
+	
+	/* mini bar */
+	.mx-mini-bar {display:none;}
+	.mini-bar-open {display:none;}
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { 
+	
+	/* global wrap style */
+	section.mx-col.mx-left {
+        float:none;
+    }
+    aside.mx-col.mx-left {
+        float:none;
+    }
+	.wide-layout .wide-background {padding-left:15px;padding-right:15px;margin-left:-15px;margin-right: -15px;}
+	
+	/* header */
+	#header-topbar .custom-content {display:none;}
+	.mx-header-logo .logo {margin-top: 0px;float: left;display: inline-block;width: 100%;text-align:center;}
+	.mx-header-logo .logo a {margin: 0px auto;float: none;display: inline-block;}
+	.mx-header-right {float: left;text-align: center;width: 100%;}
+	.mx-header-right .mx-social,
+	.mx-header-right-custom {float:none;}
+	
+	.site-header-style-2 .mx-header-right {float:right;width:auto;}
+	.site-header-style-2 .mx-header-right .mx-search-form {display:none;}
+	
+	.site-header-style-3 .mx-header-left {width:100%;text-align:center;margin-bottom: 20px;}
+	.site-header-style-3 .mx-header-right-custom {float: none;}
+	.site-header-style-3 .mx-header-right > ul {float:none;}
+	.site-header-style-3 .mx-header-right .mx-search-form {display:none;}
+	.site-header-style-3 .mx-header-logo {text-align: center;float: left;width: 100%;}
+	
+	.site-header-style-4 .mx-header-logo {width: 100%;margin-bottom: 10px;}
+	
+	.mx-search-form {display:none;}
+	
+	/* blog */
+	.post-entry .post-date-type {width: 100%;margin-bottom: 10px;}
+	.post-entry .post-content { margin-left: 0;}
+	.single-post-date-type { margin-bottom:10px;}
+	.single-post-date-type {float: left;width: 100%;}
+	.single .post-entry .post-content {margin-left: 0;}
+	#comment-fields input {width:100%;}
+	.post-ajax-element.blog-timeline-style-1, .post-ajax-element.blog-timeline-style-2 {width:100%;}
+	
+	
+	/* portfolio */
+	.post-details {float:left;width:100%;}
+	.portfolio-filters-cats {text-align:center;}
+	.portfolio-filters-cats-select {text-align: center;margin-top: 20px;}
+	.portfolio-filters-cats-select select {float:none;}
+	
+	/* contact */
+	.contact-form input[type=text] {width:100%;}
+	
+	/* footer */
+	#site-footer-bottom {text-align:center;}
+	#site-footer-custom-area-right {text-align:center;float:none;}
+	#site-footer-bottom #site-footer-custom-area .row > div {margin-bottom:10px;}
+	#site-footer-bottom #site-footer-custom-area .row > div:last-child {margin-bottom:0;}
+	
+	/* sidetabs  */
+	.sidetabs.left .sidetabs-nav,
+	.sidetabs.right .sidetabs-nav {float:left;}
+	.sidetabs.left .sidetabs-container,
+	.sidetabs.right .sidetabs-container {margin: 10px 0 0;float: left;}
+	.sidetabs.right .sidetabs-nav li {border-right: 1px solid #e3e3e3;border-left: none;}
+	.sidetabs.right .sidetabs-nav li.current {
+		border-left: none;border-right: 1px solid #cc3333;
+	}
+	
+	/* timeline */
+	.timeline.timeline-style-1 {padding-left: 10px;}
+	.timeline.timeline-style-1 .timeline-date {position: static;margin: 0 0 10px 20px;float: left;width: 100%;}
+	.timeline.timeline-style-1 .timeline-date span {float:left;}
+	.timeline.timeline-style-1 .timeline-date span:after {display:none;}
+	.timeline.timeline-style-3 {padding-left: 60px;}
+	
+	/* call to action */
+	.call-to-action-bar .btn {position:relative;margin-top: 20px !important;}
+	.call-to-action-bar-content {padding-right:0;}
+	
+	/* testimonials */
+	.testimonials.testimonials-avatar .testimonials-content {
+		float: left;
+		margin-top: 10px;
+		margin-left: 0;
+	}
+	
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+	.post-ajax-element {width:100%;}
+	.portfolio-element {width:100%;}
+	.shortcode-post-entry {width:100%;}
+}

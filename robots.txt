@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /eblast/
+Disallow: /functions/
+Allow: /images/
+Allow: /img/
+

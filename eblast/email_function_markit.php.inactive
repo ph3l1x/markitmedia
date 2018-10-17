@@ -1,0 +1,58 @@
+<?php
+
+include "includes/libmail.php";
+
+// connect to your database in the usual way
+define("DBSERVER","localhost");
+define("DBNAME","eblastmarkit");
+define("DBUSER","eblastmarkit");
+define("DBPASSWORD","Dennison1");
+
+mysql_connect(DBSERVER, DBUSER, DBPASSWORD)
+	or die("Could not connect to server");
+
+mysql_select_db(DBNAME)
+	or die("Could not connect to DB");
+
+echo "connected";
+
+//DB select
+$select = "SELECT email_address FROM markitmedia_list";
+//$select = "SELECT email_address FROM markitmedia_list WHERE email_address = 'marc@mmweb.co'";
+$request = @mysql_query($select);
+while ($row = mysql_fetch_array($request)) {
+	echo strtolower($row["email_address"]) . "<br />";
+	
+	//setup variable
+	$list = 'markitmedia_list';
+	$blast = '2013-4'; //unique number
+	
+	//setup template
+	$template = file_get_contents("templates/markit/template.html");
+	$template = str_replace("%EMAIL%",strtolower($row["email_address"]), $template);
+	$template = str_replace("%LIST%", $list, $template);
+	$template = str_replace("%BLAST%", $blast, $template);
+	
+	//write template to temporary file. Using full path for mail class.
+	$tmp = "/home/mmweb/tmp/" . time() . "mail.html";
+	$fh = fopen($tmp, 'w') or die("can't open file");
+	fwrite($fh, $template);
+	fclose($fh);
+	
+	//setup template and tracking
+	$m = new Mail(); // create the mail
+	$m->From( "Markit Media <donotreply@markitmedia.net>" );
+	$m->To( strtolower($row["email_address"]) );
+	$m->Subject( "Great Summer Deals - Markit Media Weekly Specials For July" );
+	$file = $tmp;
+	$m->Body( "" );
+	$m->Attach( $file, "text/html", "inline" );
+	
+	$m->Send();	// send the mail
+	echo "Mail was sent:";
+	//echo $m->Get(); // show the mail source
+	unlink($tmp);
+}
+echo "<br /><br />All emails sent";
+//echo "<br /><br />Testing emails sent";
+?>

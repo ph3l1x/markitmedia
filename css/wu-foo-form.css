@@ -1,0 +1,93 @@
+#header { display: none;}
+.center-text {
+   text-align: center;
+}
+.embed form, .embed body {
+    margin: 0 auto !important;
+}
+form {
+    width: 340px;
+    margin: 0 auto;
+    font-size: 30px;
+    color: #656D6D;
+    font-weight: 400px !important;
+    font-family: "brandon-grotesque",sans-serif !important;
+    text-transform: uppercase;
+    background: transparent;
+
+}
+
+.wufoo label.desc, .wufoo legend.desc {
+    color: #656D6D;  
+    font-size: 75%; 
+}
+
+.wufoo li span label {
+  color: #656D6D;  
+   font-size: 75%; 
+}
+
+ul {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+li.fo37li4 { 
+    margin: 0 !important ;
+   
+} 
+li.fo37li4 span {
+    width: 50px;
+}
+.wufoo li#fo37li4 span:nth-child(6) {
+    width: 60px;
+}
+.wufoo li#fo37li4 span:first-of-type {
+    padding-left: 1.9em;
+}
+
+li.fo37li4 > span {
+   
+   
+}
+input#Field3 {
+    width: 80%;
+    height: 31px;
+    padding-left: .5em;
+}
+
+input#Field4 {
+    width: 40px;
+    height: 31px;
+   
+}
+
+label[for=Field4] {
+    
+}
+input#Field4-1 {
+    width: 40px;
+    height: 31px;
+}
+
+input#Field4-2 {
+    width: 60px;
+    height: 31px;
+}
+
+input#saveForm {
+    background: #9EC2D2;
+    border: none;
+    padding: .2em 1em;
+    border: 1px solid #D2D2D2;
+    color: #fff;
+    font-size: 85%;
+}
+
+.wufoo li.focused {
+    background: #9EC2D2;
+}
+
+form li.focused {
+    background: #9EC2D2;
+}

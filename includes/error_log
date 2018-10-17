@@ -1,0 +1,1 @@
+[04-May-2018 10:55:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/markitsite/public_html/includes/sidebar.php:4) in /home/markitsite/public_html/includes/sidebar.php on line 6

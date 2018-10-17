@@ -1,0 +1,122 @@
+#header { display: none;}
+
+.embed form, .embed body {
+    margin: 0 auto !important;
+    font-weight: 900 !important;
+}
+form {
+   
+    margin: 0 auto;
+    font-size: 20px
+    color: #fff !important;
+    font-weight: 900!important;
+    font-family: "brandon-grotesque",sans-serif !important;
+    text-transform: uppercase;
+    background: transparent;
+
+}
+
+.wufoo label.desc, .wufoo legend.desc {
+    color: #fff !important;  
+    font-weight: 900 !important;
+    
+}
+
+.wufoo li span label {
+  color: #fff !important;  
+   font-weight: 900 !important;
+}
+
+ul {
+    width: 100%;
+    margin: 0 auto;
+    font-weight: 900 !important;
+}
+li.fo37li4 { 
+    margin: 0 !important ;
+   
+} 
+li.fo37li4 span {
+   
+}
+.wufoo li#fo37li4 span:nth-child(6) {
+   
+}
+.wufoo li#fo37li4 span:first-of-type {
+   
+}
+
+li.fo37li4 > span {
+   
+   
+}
+
+}
+
+label[for=Field4] {
+    
+}
+
+.wufoo li span label {
+    font-weight: 900px !important;
+    color: #fff !important;
+}
+
+input#saveForm {
+    background: #9EC2D2;
+    border: none;
+    padding: .4em 1em;
+    border: 1px solid #D2D2D2;
+    color: #fff !important;
+     font-weight: 900 !important;
+}
+
+.wufoo li.focused {
+    background: #9EC2D2;
+}
+
+form li.focused {
+    background: #9EC2D2;
+}
+
+.wufoo .section h3 {
+    color: #fff !important;
+     font-weight: 900 !important;
+}
+
+.wufoo li div, .wufoo li span, .wufoo li div label, .wufoo li span label { 
+   color: #fff !important;
+    font-weight: 900 !important;
+}
+
+.altInstruct .instruct, li.leftHalf .instruct, li.rightHalf .instruct, li.leftThird .instruct, li.middleThird .instruct, li.rightThird .instruct, li.leftFourth .instruct, li.middleFourth .instruct, li.rightFourth .instruct, li.leftFifth .instruct, li.middleFifth .instruct, li.rightFifth .instruct, .iphone .instruct 
+{
+    color: #fff !important;
+    font-weight: 900 !important;
+
+}
+
+.wufoo .instruct {
+    color: #fff !important;
+    font-weight: 900 !important;
+}
+.wufoo .instruct small {
+     color: #fff !important;
+    font-weight: 900 !important;
+}
+
+label.desc, legend.desc {
+    color: #fff !important;
+    font-weight: 900 !important;
+
+}
+
+li.middleThird#instruct13 {
+      color: #fff !important;
+    font-weight: 900 !important;
+
+}
+.wufoo .section h3 {
+       color: #fff !important;
+    font-weight: 900 !important;
+}

@@ -1,0 +1,912 @@
+
+#container { min-width: 275px;  max-width: 980px; width: 100%; float: none; margin: 0 auto; 
+/* border: 1px solid gray; */ /* background-color: #fff; */  /* background: red; */ /* background-color: orange;*/ }
+.wrapper, #footer  { max-width: 980px; min-width: 280px; width: auto; margin: 0 auto; /* background-color: #CCCCCC; */}
+li.level0.level-top.hidden {display: none;}
+
+h1 {line-height: normal;}
+
+#phone {min-width: 290px; background-image: url(/images/phone_bg.png) !important; background-repeat: no-repeat; background-size: contain;
+    background-position: center; z-index: 0 !important;}
+#phone h1 { /*position: absolute; */ float: left; padding-top: 54px; margin-top: px; z-index: 999; font-family: Helvetica, arial, sans-sarif;
+    font-size: 27px; font-weight: bold; color: #fff !important; z-index: 0 !important;  /* background-color: yellow; */ }
+h1#phone_number {color: #ffffff !important; -webkit-text-fill-color: #ffffff !important;}
+
+.social {/*margin-top: -20px; */ margin-top: -49px; margin-bottom: 20px; height: 30px; width: 100%; position: relative; font-size:28px}
+
+#slider {  display: none; }
+#slider-2 {/*margin-bottom: 50px;*/ border-radius: 18px; /* box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.3); */ /* visibility: hidden; */}
+.dropdown dd ul {z-index: 2;}
+
+#contentTop, #contentBottom { max-width: 980px; width: 100%;     margin: 0 auto;}
+
+#contentBody { max-width: 980px; width: 100%;   padding: 0;  padding-top: 15px; margin: 0 auto; /* background-color: #F5D388; */}
+.wrapper {/*background-color: #FFDF99;*/}
+
+
+.pageContent.webDesign h1, .pageContent.webDesign h2 {font-family: Oswald, Helvetica, Arial, san-serif !important;}
+.pageContent.webDesign h2 {padding-top: 60px;}
+
+#content { width: 100%;}
+
+
+.hr { /*width: 99%;*/  width: 100%; margin: 0 auto;}
+
+ /* for gallery in portfolio */
+.gv_panel {z-index: 0; }
+div.gv_panel img {height: auto !important; z-index: 0;}
+
+
+.floatbreak {  display: none;  width: 100%; /* height: 50px; */ /* display: block; */ overflow: hidden; }
+#logo {width:100%; max-width: 295px;}
+#follow { width:100%; /* max-width: 271px; */ max-width: 265px; height: 130px; /* border: 2px solid wheat; */ /* background-color: lightgreen; */}
+#phone {width:100%; max-width: 306px; background-image:none;}
+
+#logo img, #phone img { width: 100%; height: auto;}
+div#form_note {display: none;}
+div#dropdown {text-align: left;}
+
+
+
+.redbox {    width: 235px; height: 125px; padding-right: 5px; float: left;}
+#boxes a {color: #f0f0f0 !important;}
+div.col_3 {margin: 0; padding: 0; width: auto;}
+/* Correction */
+.hr {width: 99%; /*  width: 100%; */ margin: 0 auto;}
+.span_1_of_4 {margin-left: 0;}
+.bottomCol2 {width: 220px; /* margin-left: 10px;*/ text-align: left; font-size: 12px;}
+#box1-2 { margin-left: 0px; }
+.bottomCol2 h1 {font-family: Helvetica, Arial, sans-serif; font-weight: bold; font-size: 16px; margin: 0; margin-bottom: 6px;}
+/*   End      */
+
+
+.ribbon_0, .ribbon_1, .ribbon_2, .ribbon_3 { width: 100%; margin: 0 auto;}
+.ribbon_1, .ribbon_2, .ribbon_3, #right_ribbon {display: none;}
+div.redbox {font-size: 12px}
+ul.we-can-help li {list-style: initial;}
+#boxes a {text-align: left; /* background-color: rgba(255, 165, 0, 0.51); */}
+.welcome h2 {font-family: Helvetica, Arial, sans-sarif; font-size: 16px; font-weight: bold; color: #C00;}
+.welcome h2 a {color: #C00;}
+
+.pageContent.contactUs h1, .pageContent.contactUs h2 {font-family: 'Oswald', Helvetica, Arial, san-serif; font-weight: 300;}
+.pageContent.contactUs h1 {font-size: 24px;}
+.pageContent.contactUs h2 {font-size: 18px;}
+
+
+
+
+/* footer styles */
+#footer-bar {width: 100%; z-index: 9 !important;}
+.footerWrapper {width: auto;}
+#footer_col_l {max-width: 400px;float: left; /* overflow: hidden; */}
+#footer_col_r {max-width: 400px;float: right;}
+#footer_span_right {float: right;}
+div#footer_col_r form {float: right;margin-top:20px;margin-right:10px;}
+#footer_tm {width: 100%; overflow: hidden; padding-top: 30px;}
+#footer_col_c {width: 185px;margin:0 auto; float: none; overflow: hidden; text-align: center;}
+div#paypal_box {width: 350px; margin:0px 20px 0px auto;}
+form#pp_form {float:right;margin-top:20px;margin-right:10px; display: inline-table;}
+.footerWrapper p.left {width: auto !important;}         /* reset main.css  CSS-style */
+#footer_menu .imgmenu {background: url("img/home_light_gray.png") 13px 5px no-repeat;}
+#footer_menu .imgmenu:hover {background: url("img/home_white.png") 13px 4px no-repeat;}
+
+
+
+/* Responsive Grid System */
+
+.maincontent { clear: both; width: 100%; font-size: 0.8125em; /* max-width: 92.3em; */ margin: 0px auto; padding: 0px 0px 0px 0px; color: rgb(51, 51, 51); /* line-height: 1.5em; */ position: relative; /* background-color: yellow; */}
+.section { clear: both; padding: 0px; margin: 0px; /*background: yellow;*/}
+.group:before, .group:after { content: ""; display: table; }
+.group:after { clear: both; }
+.col { display: block; float: left; min-width: 110px; padding: 1em 0px; text-align: center; /* border: 1px solid #DEDEDE; */  border: 0px solid #DEDEDE; display: inline-table;}
+.col { /* margin-top: 1%; */ margin-left: 1.6%; margin-right: 0%; /* margin-bottom: 1%; */ /* background-color: #F9BF1A; */ }
+.col:first-child { margin-left: 0px; }
+.span_1_of_2 { width: 49.2%;}
+.span_1_of_3 { width: 32.26%;}
+
+.span_1_of_4 { width: 24.6%;}
+.span_1_of_4 { width: 24.4%;}
+
+.span_1_of_5 { /*width: 18.72%;*/ width: 19.72%;}
+
+.col.span_1_of_5 {font-size: 12px;}
+
+.span_2_of_4 { width: 22.6%; /* background-color: gray; */}
+
+/* END: Responsive Grid System */
+
+
+
+
+
+
+@media screen and (min-width: 1000px) {
+    #container, #contentTop, #contentBody, #contentBottom {max-width: 10000px;}
+    #topBar {margin-bottom: 5px;}
+    #domainSearch2 h1 {/* margin-top: 3px; */}
+    .wrapper {width: 980px;}
+    #wrap_header {height: 242px;/* background: yellow; */}
+    #header {height: 160px;}
+    #logo {padding-left: 3px;}
+    div#rg1 {width: 100%;}
+    .social_2 {position: absolute; padding-top: 110px; float: right; float: left; padding-left: 108px; /* padding-right: 7px; */}
+    .maincontent { /* background-color: yellow; */ }
+    .span_1_of_4 {margin-left: 0.68%;}
+    .span_2_of_4 {width: 230px; margin-left: 1.5%; display: inline-block;   /* background-color: #F9BF1A; */}
+    .col.span_2_of_4.col1 {margin-left: 1.5%;}
+    .col.span_1_of_3.topcol3 {float: right;}
+
+    #slider-2 { width: 626px; max-width: 626px; height: 316px; float: left; margin-right: 5px;  /*  visibility: hidden; */ }
+    #quote {float: right;}
+    .wrap_label {display: none;}
+    
+    ul#nav li {/* float: left; display: inline-block; */}
+    ul#nav span {display: none;}
+    .et-mobile-menu  {display: none;}
+    
+    .pageContent.webDesign h2 {padding-top: 95px;}
+    
+    #boxes {margin-top: 0px; margin-bottom: 0px;  height: 145px; width: 100%;}
+    .maincontent {width: auto; /* display: table; */}
+    .redbox { /* margin-right: 6px; */ width: 235px; height: 125px; padding-right: 5px; float: left;}
+    
+    #box4-2 {margin-right: 0px;}
+    
+    #left_ribbon {display: none;}
+
+
+    #it-services-h1 {} 
+    #it-services-h2 {padding-top: 60px;}
+
+  
+    span.larger-h1 {font-size: 35px;}
+    #politicalSigns-h1 {margin-left: 4em; font-size: 28px;}
+    #politicalSigns-h2 {padding-top: 60px; font-size: 28px;}
+    
+    #restMenus-h1 {font-size: 40px;}
+    #restMenus-h2 {margin-left: 3em; padding-top: 60px; font-size: 26px;} 
+    
+
+
+/* Correction */
+
+.bottomCol2 {width: 220px; /* margin-left: 10px;*/ text-align: left; font-size: 12px;}
+.bottomCol2 h1 {font-family: Helvetica, Arial, sans-serif; font-weight: bold; font-size: 16px; margin: 0; margin-bottom: 6px;}
+/*   End      */    
+
+img.main_graph {display: none;}
+  
+      
+}    /* end media min-width 1000 px; */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 999px) {
+    #container {margin-top: 50px;}
+    #topBar {display: none;}
+    #logo, #follow {margin: 0 auto;float: none;}
+    #logo { padding-left: 40px; /* padding-left: 0; */ }
+    #phone {margin: 0 auto; float: none; /* overflow: hidden; */}
+    span.span_main {display: block;}
+    .social, .social_2 {display: none;}
+    
+    
+    /* Responsive  Top Menu for iPad */
+    div.col_3 {margin: 0; padding: 0; width: auto;}
+    ul.nav.megamenu.et-mobile-menu {z-index: 9;}
+    .et-menu-title {line-height: 41px;}
+    .et-mobile-menu li > a {line-height: 40px;}
+    .et-mobile-menu li .open-child {width: 40px; height: 41px;} 
+    
+       
+	#slider {margin: 0 auto; float: none; height: auto; width: 90%; margin-bottom: 90px;}
+	#slider-2  {width: 90%; margin: 0 auto;}
+
+    #quote {margin: 0 auto; float: none; margin-top: 50px;}
+    #boxes {margin-top: 20px; margin-bottom: 0px;}
+
+    .nav-container {width: 89.2%;margin: 0 auto;top: -5px;position: fixed; /* float: none; *//* display: block; */ padding: 0;left: 0;right: 0;margin-bottom:50px; z-index: 3;}
+
+    li.level0.level-top.hidden {display: block;}
+	
+	
+	
+    div.floatbreak {display: block;}
+
+    .topcol1, .topcol2 {margin: auto 0; width: 49.95%; display: inline-table;}
+    .topcol3 { width: 100%; display: block; margin: 0 auto;}
+    .col.span_1_of_3.topcol3 {padding-bottom: 0;}
+
+    .span_1_of_4 { width: 49.5%; display: inline-table;}
+    .col.span_1_of_4.col3 {margin-left: 0px;}
+    .col { /*border: 1px solid #DEDEDE; */}
+    .redbox {   margin: 0 auto; float: none; }
+    #boxes a {font-size: 13.5px;}
+    div.redbox#box4-2 a {line-height: 1.1em;}
+
+    #box1-2 { margin-left: auto; }
+    #box1-2, #box3-2 {float: right; margin-right: 15%;}
+    #box2-2, #box4-2 {float: left;  margin-left: 15%;}
+    .span_1_of_4 { margin-left: 0; width: 49.99%;}
+    .span_2_of_4 { width: 49.95%; margin-left: 0; display: inline-table; /* background-color: gray; */}
+
+    .bottomCol2 h1 {font-family: Helvetica, Arial, sans-serif; font-weight: bold; font-size: 18px; margin: 0; margin-bottom: 6px;}
+    .bottomCol2 ul li { list-style: none; margin-bottom: 5px; font-size: 14px; line-height: 20px;}
+
+    div.fullwidth {display: block;}
+    img.mega_img { display: none; }
+    .megamenu_h4 {display: none;}
+    ul.level1 a {padding-left: 30px;}
+
+   /* form correction   */
+    #quote {
+        padding: 0px;
+        padding-top: 20px;
+        background-image: none;
+        background-color: #FFFFFF;
+        border-radius: 14px;
+        height: 370px;
+        width: 90%;
+        min-width: 265px;
+        box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.3);
+        /* width: auto; */
+    }
+
+    div#form_note {
+        display: block;
+        height: 30px;
+        width: auto;
+        padding-top: 5px;
+        /* background: yellow; */
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    div#form_note p {
+        font-family: oswald;
+        font-size: 22px;
+        color: #6b6b6b;
+        text-align: center;
+    }
+
+
+    .field { width: 80%; margin: 0 auto;  /* float: right; */ /* background: orange; */}
+    #quote input.text {
+        padding: 3px 0px;
+        /* padding-left: 12px; */
+        padding-left: 2%;
+        /* width: 100%; */
+        width: 98%;
+        background-color: white;
+        border: 1px solid #D2D2D2;
+        border-radius: 10px;}
+
+    #dropdown {
+        /* background: yellow; */
+        height: 34px;
+        padding-right: 0px;
+        /* display: block; */
+        /* margin-top: 50px; */
+        width: 80%;
+        margin: 10px auto;
+        float: none;
+        border-radius: 10px;
+        border: 1px solid #D2D2D2;
+    }
+
+
+    .dropdown dt a {
+        background: #fff url(../images/dropdown_bg_6.png) no-repeat scroll right center;
+        display: block;
+        padding-left: 0px;
+        padding-right: 0px;
+        float: right;
+        width: 100%;
+        margin: 0 auto;
+        text-align: left;
+        /* height: 34px; */
+        /* margin-bottom: 3px; */
+    }
+
+    #quote input.img {width: 169px; margin: 20px auto; display: block;}
+
+    .dropdown dd {width: 64%; margin-top: -3px; margin-left: 0px; z-index: 9;}
+    .dropdown dd ul {width: 100%;}
+     dl#target dt { padding-left: 10px;}
+    
+    
+    
+    
+    
+    
+    .wrap_field {/* background-color: lightblue; */ }
+    
+    .wrap_label {display:block; width: 17%;margin: 0 auto;height: 35px;float: left;text-align: right; text-align: left; /* background: #BDBCBB; */ }
+    .quote_label {color: #6b6b6b;font-size: 22px;font-family: oswald;padding-top: 0px;
+        margin-right: 5px; margin-left: 38%; /* background: lightgray; */ }
+
+    .field {width: 75%;display: inline-block; /* background: gray; */}
+    
+    #dropdown {margin: 0; width: auto;} /* reset style */
+    
+    /* form correction  End */
+    
+    
+    
+    
+    /* form "Contact us" page */
+    #contact_form_block_1, #contact_form_block_2 {max-width: 500px; float: none; margin: 0 auto;}
+    .quoteForm .submitButton {float: left;clear: both;}
+
+    #checkbox_1 {float: left; margin-top: -2px;}
+    #checkbox_2 {float: left; margin-top: 0px;}
+    
+    .gv_overlay {width: 98% !important; padding-left: 10px;z-index: 0;}
+    .gv_showOverlay {z-index: 0;}
+
+    .ribbon_0 {display: none;}
+    .ribbon_1 {display: block;}
+    .welcome .left {width: auto;background-image: none;float: none;text-align: left;margin: 0 auto;padding-left:1%; padding-right: 2%;}
+    .welcome .right {padding:0; width: auto; padding-left: 1%; padding-right: 2%;}
+    #left_ribbon, #right_ribbon {display: block; height: 60px; width: auto; border-radius: 5px; background-color: #F21A0F; }
+
+    div#left_ribbon H2, div#right_ribbon H2 {padding-top: 12px; color: #fff; font-size: 28px; font-family: oswald; font-weight: normal; text-align: center; }
+    .left h1 {padding-left: 2%;}
+    .special {padding-left: 1%;}
+    .special h2 { font-weight: normal; font-size: 19px; font-family: oswald; text-align: center;}
+    .hr {height: 50px; background-size: contain; background-position: center;}
+
+
+    .portfolio.main_page {padding-left: 0; padding-top: 0px; margin-bottom: 0px;}
+    .portfolio.main_page img {margin: 0 auto;float: none;display: block;}
+    .portfolio.main_page .left {padding-top: 0;}
+    .portfolio .left {width: auto; padding-top: ; margin-right: auto; float: none; }
+    .right.content_block_03 {width: auto; float: none; }
+    img.rimg_01 {width: 700px; float: left; width: 100%; height: auto; max-width: 700px; margin: 0 auto; float: none;}
+    
+    .youtube-container iframe {margin: 0 auto; float: none; display: block; width: 95%; max-width: 830px;}
+
+    .left p, .left strong, ul.we-can-help li, .special p, .portfolio.main_page p, .mainDescription p {font-size: 16px; text-align: left; /* padding: 0 2%; */ line-height: 1.5em; }
+    .mainDescription p {padding-left: 2%; padding-right: 1%;}
+    div.special p, .portfolio.main_page p {text-align: center; }
+    
+    .pageContent.aboutUs {width: auto; background-repeat:no-repeat;background-size:contain;background-position:center;}
+    #content_about_us {padding-left: 3%;}
+    
+    .footerWrapper p.left {padding-left: 20px;}
+    
+    
+    
+
+    /* Mega-Menu  RESET Common-style CSS for < 1000px */
+    .megamenu li .fullwidth {position: relative;width: 100%;padding: 0;top: 0px;border: 0px;background-image: none; background:#fff; -webkit-border-radius: 0px;-moz-border-radius: 0px;border-radius: 0 px;}
+    ul li a:hover {color: #f33;font-weight: normal;}
+    /* END: Mega-Menu  Correction Common-style CSS for < 1000px */
+
+    ul.nav li {width: 100%;}
+
+    .megamenu li .fullwidth a {font-size: 16px;display: block; padding: 0;}
+    .megamenu .col_3 {float:none;}
+    span.et-menu-title {border-radius: 0px 0px 0 0}
+    .et-menu-title {background-color: #F93F24;}
+    .nav-container.megamenu_container span, .nav-container.megamenu_container a  {font-family: oswald;}   
+
+  /*  ul.nav.megamenu.et-mobile-menu li:last-child a {border-radius: 0 0 20px 20px;} */
+
+
+    /*============ Mobile Menu ==============*/
+    .et-mobile-menu li > a:hover {/* background-color: #f5f5f5; */text-decoration: none;color: #222;}
+
+    li.level0.level-top.parent a {padding-left: 40px;} /* slided down li */
+    li.level0.level-top.parent ul.level1 a {padding-left: 70px; /*background: aqua; */}   /* sub-menu 3-d level */
+
+
+    /*============ footer Menu ==============*/
+    .bottomCol2 { margin: 0 auto; float: none; display: block; /* background-color: orange; */ }
+    #box1-2, #box3-2 {float:right;}
+    #box1-2 h1, #box3-2 h1, #box1-2 ul, #box3-2 ul {padding-left: 20px;}
+    #box2-2 h1, #box4-2 h1, #box2-2 ul, #box4-2 ul {padding-left: 15px;}
+    
+    #box1-2, #box3-2 {float: right; margin-right: 33%; -webkit-transform: translateX(30%); transform: translateX(30%); }
+    #box2-2, #box4-2 {float: left; margin-left: 33%; -webkit-transform: translateX(-30%); transform: translateX(-30%); }
+    
+
+    #footer-bar { min-width: 100%; width: 100%; /* display: none; */ }
+    #g_search_bottom { /* background: gray; */}
+    #g_search_bottom p {padding: 5px 10px;}
+    #footer-bar #social { float: left; margin: 5px 5px 0px; /* float: none; display: block; width: 300px; margin: 0 auto; */ /* background: gray; */}
+    
+    
+    
+    
+    
+    .webDesign {background-repeat:no-repeat;background-size:contain;background-position:center;}
+    
+    /* test CSS */ 
+    
+    .webDesign, #payPalIntegration, #seoSemMarketing, #onlineDisplayAdvertising, #publicRelationsArticleWriting, .thankYou { width: auto; background-repeat:no-repeat; background-size:contain; background-position:center;}
+    #publicRelationsArticleWriting {height: 320px;}
+
+    
+   
+    
+    .thankYou h1 {width:  55%; padding-top: 140px; padding-left: 20px;}
+    
+
+    .pageContent.webDesign, #payPalIntegration, #onlineDisplayAdvertising {background: none; height: auto;}
+    .pageContent.webDesign img {padding-top: 0px; width: 100%; height: auto;}
+    .pageContent.webDesign img.portfolio {padding-top: 0px; width: 100%; height: auto; max-width: 213px;}
+    
+    .pageContent.webDesign h1, .pageContent.webDesign h2  {position: absolute; width: 43%; padding-left: 3%;}
+    .pageContent.webDesign h1 {padding-top: 4.5em; padding-left: ; font-size: 1.75em;}
+    .pageContent.webDesign h2 {padding-top: 60px;}    
+    .pageContent.webDesign a {position: absolute; /* margin-top: -10px; */ margin-top: 13em; margin-left: 14px; width: 20%;}
+    
+
+    
+    h1#web_design_col_2 {padding-top: 5.5em; padding-left: ; font-size: 1.8em; width: 45%;}
+    
+    #graphicMain h1, #phpProgramming h2, #aspnetProgramming h1, #javascriptJquery h1,#flashActionscript h1,#flashActionscript h1, #businessStarterPackage h1, #businessCards h1, #flyersPostcards h1{padding-top: 5.6em; padding-left: ; font-size: 1.75em; width: 45%;} /* for h1 == 2 string + botton*/
+    
+    #it-services-h1 {padding-top: 2.3em; padding-left: ; font-size: 2.8em; width: 55%;}
+    #it-services-h2 {padding-top: 2.3em; padding-left: 1.7em; font-size: 2.2em;  width: 55%;}  
+    
+    
+    
+    
+    
+    /* ======  non common class main graphic ==== */    
+    #payPalIntegration {padding: 0;}
+    #payPalIntegration h1, #payPalIntegration ul {position: absolute;}
+    #payPalIntegration h1 {/* margin-top: 6.5em; */ margin-top: 16.5%; margin-left: 1em;}
+    #payPalIntegration ul {/* margin-top: 16em; */ margin-top: 21%; margin-left: 5em;}
+    #payPalIntegration li, #seoSemMarketing li {font-size: 16px !important; line-height: 16px;}
+
+    #phpProgramming {padding: 0;}
+    #phpProgramming h2, #phpProgramming a {position: absolute; padding: 0;}
+    #phpProgramming h2 {/* margin-top: 6.5em; */ margin-top: 10%; margin-left: 1em;}
+    #phpProgramming a {/* margin-top: 16em; */ margin-top: 22%; margin-left: 5em;}
+
+
+    
+    #aspnetProgramming h1, #aspnetProgramming a, #flashActionscript h1, #flashActionscript a {position: absolute; padding: 0; width: 43%;}
+    #aspnetProgramming h1, #flashActionscript h1 {margin-top: 10%; margin-left: 1.2em; font-size: 1.75em;}
+    #aspnetProgramming a, #flashActionscript a { margin-top: 19%; margin-left: 5em; width: 20%;}
+
+    #javascriptJquery h1, #javascriptJquery a, #businessStarterPackage h1,#businessStarterPackage a {position: absolute; padding: 0; width: 43%;}
+    #javascriptJquery h1, #businessStarterPackage h1 {margin-top: 10%; margin-left: 1em; font-size: 1.35em; width: 43%;}
+    #javascriptJquery a, #businessStarterPackage a { margin-top: 20%; margin-left: 3em; width: 30%; }
+
+
+    
+    #seoSemMarketing.webDesign h1, #seoSemMarketing.webDesign h2 {width:  43%; font-size: 1.5em; padding-top: 115px;}
+    #seoSemMarketing.webDesign ul {padding-left: 60px; width: 43%;}
+    
+    #onlineDisplayAdvertising h1 {width:  43%; font-size: 1.7em; padding-top: 135px; padding-left: 80px;}
+    #onlineDisplayAdvertising ul {padding-left: 30px;}
+    #onlineDisplayAdvertising li {font-size: 16px !important; line-height: 16px;}
+    
+    
+    
+    #carwrap { /*background-color: yellow; */}
+    #vehWraps-h1, #vehWraps-h2 {width: 43%;padding: 0; padding-left: 3%; font-size: 1.2em; font-weight: normal;}
+    #vehWraps-h1 {padding-top: 152px; padding-bottom: 5px; font-size: 2.9em;}
+    #vehWraps-h2 {padding-top: 0px; font-size: 1.7em;}
+    
+    #politicalSigns-h1, #politicalSigns-h2, #restMenus-h1, #restMenus-h2 {padding-left: 5%; width: 43%; font-size: 28px;}
+    #politicalSigns-h1 {padding-top: 2.5em;}
+    #politicalSigns-h2 {padding-top: 3em;  font-size: 20px;}
+    #politicalSigns-h1 span, #politicalSigns-h2 span {font-size: 14px;}
+    
+    .publicRelations h1 {font-size: 1.7em; width: 50%;}
+    
+    
+    #restMenus-h1, #restMenus-h2 {width: 43%;}
+    #restMenus-h1 {padding-left:15%; padding-top: 50px;  font-size: 34px;}
+    #restMenus-h2 {padding-left: 10%; padding-top: 40px;  font-size: 20px;}
+    
+
+    
+    div#page_contact_left {width: auto !important; display: block; float: none;}
+    #page_contact_frame {width: 98%; /* float: none; margin: 0 auto; */ padding-right: 1%;}
+    
+    /* blog CSS style */
+    div#primary {float: right; width: 38%; max-width: 250px; margin-left: 0; /* background: lightgray; */} /* reset blog CSS for RMenu */
+    .welcome {float: none; width: auto; overflow: hidden; padding-left: 2%; padding-right: 1%; /* background-color: lightcyan; */}
+    li#categories-3 ul, li#archives-3 ul {margin-left: 15px;}
+    .textwidget {word-wrap:break-word;}
+    ul.clearfix li {float: left; /* display: inline-table !important; width: auto; */ padding: 0 1px;}
+    #sociable {max-width: 97%; }
+    #sociable .content {padding: 3px !important; width: auto !important;}
+    div.sociable li#Twitter_Counter iframe {width: 60px !important;}
+    
+    li#text-2 {border-bottom: 1px solid #D4D3D3; padding-bottom: 20px;}
+    .entry-content iframe {width: 99%;}
+    h2.entry-title a {line-height: 1.4em;}
+    hr.hr_blog {width: 90%; margin: 0 auto; background: #B5B5B5; margin-bottom: 25px;}
+    p.recentpost_title {margin-bottom: 0;}
+    .blog-title {border-radius: 4px; margin-right: 1%; padding: 7px; color: #fff !important; background-color: #F21A0F;}
+    .entry-content p {font-size: 14px;}
+    #pr_promo_pop {width: 95%;}
+    #pr_promo {font-size: 28px; line-height: 28px;}
+    #pr_promo_sub {font-size: 26px;}
+    
+    #content1 .row>.col-sm-5 {width: auto;}
+    #content1 .aside, .aside.right-col {float: left !important; clear: both !important;}
+    
+    #recaptcha_widget_div {}
+    .checkboxes {margin-top: -4px; float: left;}
+    
+    div#thankyou {height: 190px; width: auto !important;}
+    
+    
+    span.et-menu-title {margin-right: 115px;}
+    .right-bg {/* background-color: orange; */ background-color: #F93F24;}
+    .top_i {margin-right: 10px; cursor: pointer; /* border: 1px solid gray; */ }
+    #et-menu-home1 {float: right; height: 39px; width: 41px; background-color: yellow; background: url(../images/home_icon_web_1.png) no-repeat center center;}
+    #et-menu-map2  {float: right; height: 39px; width: 41px; background-color: yellow; background: url(../images/map_icon_web_4.png) no-repeat center 8px;}
+    
+
+}   /* end media max-width 999px; */
+
+
+
+
+
+
+
+
+
+
+
+
+@media  (max-width: 985px) {
+    #footer-bar {/* height: 80px */}
+    div#footer-bar_wrap1 {margin: 0 auto; width: auto; /* width: 475px; */ width: 365px; width: 335px;}
+    
+    #g_search_bottom {display: none;}
+    #footer-bar #social_bottom {float: left;}
+    #social_bottom li:last-child {margin-right: 0px !important;}
+    #our_blog {display: none;}
+    #footer_menu .imgmenu {padding-right: 0;}
+}
+
+
+
+
+
+
+
+
+
+@media  (max-width: 800px) {
+    #politicalSigns-h1, #politicalSigns-h2, #restMenus-h1, #restMenus-h2 {padding-left: 5%; width: 43%; font-size: 28px;}
+    #politicalSigns-h1 {padding-top: 2.5em;}
+    #politicalSigns-h2 {padding-top: 3.7em;  font-size: 1.3em;}
+    #politicalSigns-h1 span, #politicalSigns-h2 span {font-size: 14px;}
+    
+
+    
+    #onlineDisplayAdvertising h1 {width:  43%; font-size: 1.4em; padding-top: 135px; padding-left: 80px;}
+    #onlineDisplayAdvertising ul {padding-left: 30px;}
+    #onlineDisplayAdvertising li {font-size: 1.2em !important; line-height: 12px;}
+    
+    
+    #restMenus-h1 {padding-left:15%; padding-top: 60px;  font-size: 32px;}
+    #restMenus-h2 {padding-left: 8%; width: 53%; padding-top: 2.5em;  font-size: 18px;}
+    
+    
+    #vehWraps-h1 { font-size: 2.4em;}
+    #vehWraps-h2 { font-size: 1.4em;}
+    .footerWrapper p.left {padding-left: 0px;}
+    .footerWrapper p.left, .footerWrapper p.right {width: 350px !important;display: block;float: none !important;margin: 0 auto;text-align: center;}
+    .footerWrapper p.left img {display: block;float: none !important;margin: 0 auto; margin-bottom: 20px;}
+    div#paypal_box {margin: 0 auto !important;}
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 650px) and (max-width: 999px) {
+/*    #box1-2, #box3-2, #logo { float: right;  margin-right: 33%;    transform: translateX(30.0%); }
+    #box2-2, #box4-2, #follow { float: left;   margin-left: 33%;     transform: translateX(-30.0%);}
+*/    
+    #logo, #follow { float: none; margin-left: auto; margin-right: auto; }
+}
+
+
+@media  (max-width: 767px) {
+        /* Responsive  Top Menu for Mobile */
+        
+    .et-menu-title {line-height: 50px;}
+    .et-mobile-menu li > a {line-height: 45px;}
+    .et-mobile-menu li .open-child {width: 45px; height: 46px;}
+    
+     .top_i {margin-top: 5px;}
+    
+    .quote_label {margin-left: 28%;}
+    #footer_col_l, #footer_col_r {float:none; margin: 0 auto; overflow: hidden;}
+    #footer_col_l {width: 10%; min-width: 350px; /* background-color: orange; */ }
+    #footer_col_r {width: 10%; min-width: 350px; /* background-color: yellow; */}
+
+    div#footer_col_l img {margin: 0 auto;float: none;display: block;}
+
+}
+
+/* point transformation to 1-column Top menu */
+@media  (max-width: 649px) {
+    #logo {padding-left: 0;}
+    .wrap_label { width: 20%;}
+    .quote_label {margin-left: 15%; font-size: 18px;}
+    .nav-container {position: absolute;}
+    .col {margin: 0;}
+    .topcol1, .topcol2, .topcol3 { width: 100%; float: none;  margin: 0 auto; display: block; }
+      #logo, #follow  { /* width: 99%; */ float: none;  margin: 0 auto; display: block; }
+
+
+    
+    div.floatbreak {display: none;}
+
+
+    div#left_ribbon H2, div#right_ribbon H2 {padding-top: 14px; font-size: 24px;}
+    
+    
+    
+    .pageContent.webDesign h1, .pageContent.webDesign h2 {font-size: 1.0em; padding-left: 4%;}
+    .pageContent.webDesign a {margin-top: -10px; margin-top: 8em; margin-left: 0px; }
+    .pageContent.webDesign h1 {padding-top: 7.6em; padding-left: ; font-size: 0.85em; width: 45%;} 
+    
+/* redbox 1 and 3;  for h1 == 2 string + botton*/
+    h1#web_design_col_2, #graphicMain h1, #aspnetProgramming h1, #javascriptJquery h1, #flashActionscript h1, #businessStarterPackage h1, #businessCards h1, #flyersPostcards h1 { font-size: 0.85em; width: 45%;} 
+    
+    
+    
+    
+    
+    #it-services-h1 {padding-top: 5.5em; padding-left: 18%; font-size: 1.7em; width: 55%;}
+    #it-services-h2 {padding-top: 2.5em; padding-left: 9%; font-size: 1.2em;  width: 55%;}  
+    
+    #payPalIntegration h1 {padding-top: ; font-size: 12px !important;}
+    #payPalIntegration li {font-size: 10px !important;  line-height: 6px; font-weight: normal !important;} 
+    
+    #phpProgramming h2 {margin-top: 12%; line-height: 12px; font-size: 0.9em; }
+    #phpProgramming a { margin-left: 3em;}    
+    
+    #aspnetProgramming h1, #flashActionscript h1 {margin-top: 12%; line-height: 12px; font-size: 0.9em; }
+    #aspnetProgramming a, #flashActionscript a {margin-top: 21%; margin-left: 2em;}  
+    
+    #javascriptJquery h1, #businessStarterPackage h1 {margin-top: ; margin-left: ; font-size: ; width: ;}
+    #javascriptJquery a, #businessStarterPackage a { margin-top: 22%; margin-left: 2em; width: 25%; }
+  
+  
+  
+    
+    
+    #seoSemMarketing.webDesign h1, #seoSemMarketing.webDesign h2 {width:  43%; font-size: 0.8em; padding-top: 135px;}
+    #seoSemMarketing.webDesign ul {padding-left: 50px; margin-top:-5px !important;}
+    #seoSemMarketing li { font-size: 0.4em !important;  line-height: 10px; font-weight: normal !important;}
+    
+    #onlineDisplayAdvertising h1 {width:  43%; font-size: 0.8em; padding-top: 150px; padding-left: 20px;}
+    #onlineDisplayAdvertising ul {padding-left: 20px !important;margin-top:-5px !important; margin-left: 40px !important;}
+    #onlineDisplayAdvertising li {font-size: 0.6em !important; line-height: 4px;}
+    
+    
+    #vehWraps-h1 { font-size: 1.2em;}
+    #vehWraps-h2 { font-size: 0.8em;}
+    
+    #politicalSigns-h1 {padding-top: 7.6em; padding-left: 8%; font-size: 1.2em;}
+    #politicalSigns-h2 {padding-top: 2.9em; padding-left: 9%;  font-size: 0.8em;}
+    #politicalSigns-h1 span, #politicalSigns-h2 span {font-size: 11px;}
+    
+    #publicRelationsArticleWriting h1 {padding-top: 16em; padding-left:; font-size: 1.0em;  }
+    
+    #restMenus-h1 {padding-left:15%; padding-top: 7.5em;  font-size: 14px;}
+    #restMenus-h2 {padding-left: 8%; width: 53%; padding-top: 4em;  font-size: 10px;}
+    
+
+
+    
+    
+    
+    
+    .thankYou h1 {padding-top: 140px;}
+    
+    div#paypal_box {width: 100%; margin: 0 auto;}
+    #pp_credit {margin: 0 auto; display: block; margin-top: 20px;}
+    form#pp_form {float: none; width: 144px; margin: 0 auto; margin-top: 15px; display: block;}
+    /* blog CSS style */
+     div#primary {float: none; width: 99%; max-width: 99%; margin: 0 auto; overflow: hidden; /* background-color: lightgray; */}
+    li#categories-3, li#archives-3 {padding: 0; width: 48%;  margin-left: 1%;  float: left; /* background: lightgreen; */}
+    li#archives-3 {/*float: right;*/}
+    li#categories-3 h3, li#categories-3 ul, li#archives-3 h3, li#archives-3 ul {padding-left: 25%;}
+    
+}
+
+
+
+
+
+
+
+
+
+
+/* point transformation to 1-column footer menu */
+@media (max-width: 560px) {
+    #quote {height: 490px;}
+    .wrap_label {width: 75%; float: none;}
+    .quote_label {margin-left: 0;}
+    
+    .field {display: block;}
+    
+    .span_1_of_4, .span_2_of_4 { width: 99%;}
+    #box1-2, #box3-2, #box2-2, #box4-2 { float: none;   margin:0 auto; -webkit-transform: translateX(0%); transform: translateX(0%); }
+    .bottomCol2 {width: 240px; padding-left: 40px;}
+    #box1-2 h1, #box2-2 h1, #box3-2 h1, #box4-2 h1, #box1-2 ul, #box2-2 ul, #box3-2 ul, #box4-2 ul {padding-left: 0px;}
+
+    div.redbox {/* line-height: 0.95em; font-size: 10px; */}
+    .hr {height: 35px; background-size: contain; background-position: center;}
+    
+    
+    
+    .pageContent.webDesign h1, .pageContent.webDesign h2 {padding-top: 5.5em;  font-size: 0.85em; padding-left: 4%;}
+    .pageContent.webDesign a {margin-top: -10px; margin-top: 7em; margin-left: 0px; width: 20%;}    
+}
+
+@media (max-width: 480px) {
+    .ribbon_1 {display: none;}
+    .ribbon_3 {display: block;}
+    .gv_overlay h4 {font-size: 13px;}
+    .quoteForm p.label {width: 90%; margin-bottom: 0px;}
+    #label_corr_1 {margin-top: 15px;}
+    #checkbox_2 {margin-top: 10px;}
+    
+}
+
+
+@media (max-width: 460px) {
+    #vehWraps-h1 { font-size: 1em;}
+    #vehWraps-h2 { font-size: 0.7em;}
+}
+
+
+/* media query max 370px for footer */
+@media (max-width: 370px) {
+    #footer_col_l, #footer_col_r {width: 100%; min-width: 200px;}
+    #footer_span_right {float: none;}
+    div#footer_col_r form {float: none;display: block;margin: 0;margin: 0 auto;width: 144px;}
+    div#footer_col_r img {float: none;display: block;margin: 0;margin: 0 auto;width: 144px;}
+    .bottomCol2 {/* padding-left: 0px; */}
+    
+    
+    
+    .pageContent.webDesign h1, .pageContent.webDesign h2 {padding-top: 4em;  font-size: 0.8em; padding-left: 4%;}
+    .pageContent.webDesign a {margin-top: 5.7em; margin-left: 0px; }
+
+
+
+    
+    #it-services-h1 {padding-top: 7.3em; padding-left: 18%; font-size: 1.4em; width: 55%;}
+    #it-services-h2 {padding-top: 2.0em; padding-left: 5%; font-size: 1.0em;  width: 55%;} 
+
+    
+    
+    
+    
+    #payPalIntegration {}
+    #payPalIntegration h1 {padding-top: ; padding-bottom: 5px; font-size: 10px !important;}
+    #payPalIntegration li, #seoSemMarketing li {font-size: 9px !important;  line-height: 4px; font-weight: normal !important;}
+    
+    #phpProgramming h2 {line-height: 12px; font-size: 0.75em; }
+    #phpProgramming a {margin-top: 23%; margin-left: 2em;} 
+    
+    #javascriptJquery h1, #businessStarterPackage h1 {font-size: 0.7em;}
+
+      
+    
+    
+    
+    
+    #vehWraps-h1 { font-size: 1em;}
+    #vehWraps-h2 { line-height: 8px;font-size: 0.76em;}
+    
+    #politicalSigns-h1 {padding-top: 120px; font-size: 10px;}
+    #politicalSigns-h2 {padding-top: 25px;  font-size: 8px;}
+    #politicalSigns-h1 span, #politicalSigns-h2 span {font-size: 10px;}
+    
+    
+    #seoSemMarketing.webDesign h1, #seoSemMarketing.webDesign h2 {width:  43%; font-size: 0.8em; padding-top: 135px;}
+    #seoSemMarketing.webDesign ul {padding-left: 30px;}
+    #seoSemMarketing li { font-size: 0.3em !important;  line-height: 8px; font-weight: normal !important;}
+    
+    
+    #onlineDisplayAdvertising h1 {width:  60%; font-size: 0.8em; padding-top: 150px; padding-left: 20px;}
+    #onlineDisplayAdvertising ul {padding-left: 10px;}
+    #onlineDisplayAdvertising li {font-size: 0.6em !important; line-height: 4px;}
+    
+    #restMenus-h1 {padding-left:15%; padding-top: 120px;  font-size: 12px;}
+    #restMenus-h2 {padding-left: 8%; width: 53%; padding-top: 10px;  font-size: 10px;}
+    
+    .thankYou h1 {padding-top: 150px; font-size: 1.4em; padding-left: 10px;}
+    
+    .footerWrapper p.left, .footerWrapper p.right {width: 100% !important;}
+    /* blog CSS style */
+
+    li#categories-3, li#archives-3 {padding: 0; width: 99%; display: block; float:none; margin: 0 auto; margin-bottom: 20px;}
+    li#categories-3 h3, li#categories-3 ul, li#archives-3 h3, li#archives-3 ul {padding-left: 25%;}
+
+
+}
+
+
+/* footer social buttons: decrease margin-right */
+@media (max-width: 359px) {
+    #footer_menu {width: 60px;}
+    div#footer-bar_wrap1 {width: 255px;}
+    #footer_menu .imgmenu {width: 23px; background: url("img/home_light_gray.png") 3px 5px no-repeat;} 
+    #footer-bar #social_bottom {width: 220px; padding-top: 5px;}
+    #footer-bar #social {width: auto; margin: 0 auto; padding-left: 0px; overflow: hidden; float: none;}
+    #footer-bar #social li {margin-right: 3px;}
+}
+
+
+
+@media (max-width: 319px) {
+    .youtube-container {display: none;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ONLY FOR TEST. REMOVE IT IF TEST FINISHED */
+
+
+
+
+
+/*
+.col {background-color: #F9BF1A;}
+.bottomCol2 {background-color: orange;}
+#box1-2 h1, #box3-2 h1, #box1-2 ul, #box3-2 ul, #box2-2 h1, #box4-2 h1, #box2-2 ul, #box4-2 ul {background-color: #DAD6A0;}
+*/
+
+.pageContent, #payPalIntegration {background-repeat: no-repeat; /* border: 2px solid green; */ border-top: 2px solid green; border-bottom: 2px solid green;}
+
+
+
+
+
+
+
